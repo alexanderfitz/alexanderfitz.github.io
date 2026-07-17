@@ -1,0 +1,258 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+<meta charset="UTF-8">
+<title>ÖBB Ticket</title>
+</head>
+
+
+<body>
+
+
+<p id="status">
+Suche Verbindung...
+</p>
+
+
+
+<script>
+
+
+async function main(){
+
+
+    const params =
+        new URLSearchParams(
+            window.location.search
+        );
+
+
+    const date =
+        params.get("date");
+
+
+    const place =
+        params.get("place");
+
+
+    const time =
+        params.get("time");
+
+
+
+    if(!date || !place || !time){
+
+        document.getElementById("status").innerHTML =
+            "Parameter fehlen: date, place, time";
+
+        return;
+
+    }
+
+
+
+    const file =
+        `departures/${date}/${place}.json`;
+
+
+
+    let departures;
+
+
+    try {
+
+        const response =
+            await fetch(file);
+
+
+        departures =
+            await response.json();
+
+    }
+
+    catch(e){
+
+        document.getElementById("status").innerHTML =
+            "Keine Abfahrtsdatei gefunden";
+
+        return;
+
+    }
+
+
+
+    let selected = null;
+
+
+
+    for(const dep of departures){
+
+
+        const depTime =
+            dep.departure.substring(11,16);
+
+
+
+        // exakte Zeit
+
+        if(depTime === time){
+
+            selected = dep;
+            break;
+
+        }
+
+
+
+        // letzte frühere
+
+        if(depTime < time){
+
+            selected = dep;
+
+        }
+
+    }
+
+
+
+    if(!selected){
+
+        document.getElementById("status").innerHTML =
+            "Keine passende Abfahrt";
+
+        return;
+
+    }
+
+
+
+    // EVA laden
+
+    let stations;
+
+
+    try {
+
+        stations =
+            await fetch(
+                "stations.json"
+            )
+            .then(
+                r => r.json()
+            );
+
+    }
+
+    catch(e){
+
+        alert(
+            "stations.json fehlt"
+        );
+
+        return;
+
+    }
+
+
+
+    const origin =
+        selected.stop_name;
+
+
+    const destination =
+        selected.next_stop;
+
+
+
+    const evaFrom =
+        stations[origin]?.eva || "";
+
+
+    const evaTo =
+        stations[destination]?.eva || "";
+
+
+
+    const arrival =
+        date
+        +
+        "T"
+        +
+        selected.arrival_time_next.substring(0,5);
+
+
+
+    const url =
+        "https://shop.oebbtickets.at/de/ticket?"
+        +
+        "cref=scotty"
+        +
+        "&connectionDatetimeDeparture="
+        +
+        encodeURIComponent(
+            selected.departure.substring(0,16)
+        )
+        +
+        "&connectionDatetimeArrival="
+        +
+        encodeURIComponent(
+            arrival
+        )
+        +
+        "&connectionOrigEva="
+        +
+        encodeURIComponent(
+            evaFrom
+        )
+        +
+        "&connectionDestEva="
+        +
+        encodeURIComponent(
+            evaTo
+        )
+        +
+        "&stationOrigName="
+        +
+        encodeURIComponent(
+            origin
+        )
+        +
+        "&stationDestName="
+        +
+        encodeURIComponent(
+            destination
+        );
+
+
+
+    document.getElementById("status").innerHTML =
+        `
+        ${origin}
+        → 
+        ${destination}
+        <br>
+        ${selected.departure}
+        <br>
+        Öffne ÖBB...
+        `;
+
+
+
+    window.location.href =
+        url;
+
+
+}
+
+
+
+main();
+
+
+</script>
+
+
+</body>
+</html>
