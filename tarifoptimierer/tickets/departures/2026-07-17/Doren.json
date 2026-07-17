@@ -1,0 +1,3460 @@
+[
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T05:41:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"05:42:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T05:42:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"05:43:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T05:43:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"05:44:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T05:44:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"05:45:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T05:45:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"05:46:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T05:46:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"05:47:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T05:47:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"05:48:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T05:48:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"05:49:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T05:49:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"05:49:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T05:49:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"05:50:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T05:50:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"05:50:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T05:50:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"05:51:00"
+  },
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T06:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"06:30:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T06:30:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"06:31:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T06:31:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"06:32:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T06:32:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"06:33:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T06:33:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"06:34:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T06:34:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"06:35:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T06:35:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"06:36:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T06:36:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"06:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T06:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"06:38:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T06:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"06:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T06:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"06:38:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T06:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"06:39:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T06:46:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"06:46:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T06:46:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"06:47:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T06:47:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"06:47:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T06:47:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"06:48:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T06:48:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"06:49:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T06:49:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"06:50:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T06:50:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"06:51:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T06:51:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"06:52:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T06:52:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"06:53:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T06:53:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"06:54:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T06:54:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"06:54:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T06:54:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"06:55:00"
+  },
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T06:59:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"07:00:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T07:00:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"07:01:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T07:01:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"07:02:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T07:02:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"07:03:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T07:03:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"07:04:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T07:04:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"07:05:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T07:05:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"07:06:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T07:06:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"07:07:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T07:07:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"07:08:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T07:07:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"07:07:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T07:08:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"07:09:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T07:08:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"07:08:00"
+  },
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T07:14:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"07:14:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T07:14:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"07:15:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T07:15:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"07:16:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T07:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"07:16:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T07:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"07:17:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T07:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"07:17:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T07:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"07:17:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T07:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"07:18:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T07:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"07:18:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T07:18:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"07:19:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T07:18:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"07:19:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T07:19:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"07:20:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T07:19:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"07:20:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T07:20:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"07:21:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T07:20:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"07:21:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T07:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"07:21:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T07:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"07:22:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T07:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"07:22:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T07:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"07:23:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T07:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"07:22:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T07:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"07:23:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T07:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"07:24:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T07:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"07:24:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T07:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"07:25:00"
+  },
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T07:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"07:30:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T07:30:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"07:31:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T07:31:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"07:32:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T07:32:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"07:33:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T07:33:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"07:34:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T07:34:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"07:35:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T07:35:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"07:36:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T07:36:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"07:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T07:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"07:38:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T07:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"07:37:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T07:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"07:39:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T07:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"07:38:00"
+  },
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T07:59:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"08:00:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T08:00:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"08:01:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T08:01:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"08:02:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T08:02:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"08:03:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T08:03:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"08:04:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T08:04:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"08:05:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T08:05:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"08:06:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T08:06:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"08:07:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T08:07:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"08:08:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T08:07:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"08:07:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T08:08:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"08:08:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T08:08:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"08:09:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T08:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"08:17:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T08:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"08:16:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T08:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"08:17:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T08:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"08:18:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T08:18:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"08:19:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T08:19:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"08:20:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T08:20:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"08:21:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T08:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"08:22:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T08:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"08:23:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T08:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"08:24:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T08:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"08:25:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T08:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"08:24:00"
+  },
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T08:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"08:30:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T08:30:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"08:31:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T08:31:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"08:32:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T08:32:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"08:33:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T08:33:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"08:34:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T08:34:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"08:35:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T08:35:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"08:36:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T08:36:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"08:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T08:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"08:38:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T08:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"08:37:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T08:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"08:39:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T08:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"08:38:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T09:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"09:16:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T09:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"09:17:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T09:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"09:17:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T09:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"09:18:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T09:18:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"09:19:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T09:19:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"09:20:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T09:20:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"09:21:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T09:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"09:22:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T09:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"09:23:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T09:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"09:24:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T09:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"09:25:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T09:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"09:24:00"
+  },
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T09:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"09:30:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T09:30:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"09:31:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T09:31:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"09:32:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T09:32:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"09:33:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T09:33:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"09:34:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T09:34:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"09:35:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T09:35:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"09:36:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T09:36:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"09:37:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T09:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"09:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T09:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"09:38:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T09:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"09:38:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T09:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"09:39:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T10:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"10:17:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T10:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"10:16:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T10:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"10:18:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T10:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"10:17:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T10:18:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"10:19:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T10:19:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"10:20:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T10:20:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"10:21:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T10:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"10:22:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T10:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"10:23:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T10:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"10:24:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T10:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"10:24:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T10:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"10:25:00"
+  },
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T10:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"10:30:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T10:30:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"10:31:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T10:31:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"10:32:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T10:32:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"10:33:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T10:33:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"10:34:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T10:34:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"10:35:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T10:35:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"10:36:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T10:36:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"10:37:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T10:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"10:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T10:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"10:38:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T10:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"10:38:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T10:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"10:39:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T11:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"11:17:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T11:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"11:16:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T11:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"11:18:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T11:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"11:17:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T11:18:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"11:19:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T11:19:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"11:20:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T11:20:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"11:21:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T11:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"11:22:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T11:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"11:23:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T11:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"11:24:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T11:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"11:24:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T11:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"11:25:00"
+  },
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T11:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"11:30:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T11:30:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"11:31:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T11:31:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"11:32:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T11:32:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"11:33:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T11:33:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"11:34:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T11:34:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"11:35:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T11:35:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"11:36:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T11:36:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"11:37:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T11:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"11:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T11:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"11:38:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T11:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"11:38:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T11:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"11:39:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T12:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"12:16:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T12:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"12:17:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T12:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"12:18:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T12:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"12:17:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T12:18:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"12:19:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T12:19:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"12:20:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T12:20:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"12:21:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T12:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"12:22:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T12:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"12:23:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T12:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"12:24:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T12:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"12:24:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T12:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"12:25:00"
+  },
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T12:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"12:30:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T12:30:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"12:31:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T12:31:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"12:32:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T12:32:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"12:33:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T12:33:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"12:34:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T12:34:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"12:35:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T12:35:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"12:36:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T12:36:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"12:37:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T12:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"12:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T12:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"12:38:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T12:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"12:39:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T12:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"12:38:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T13:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"13:17:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T13:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"13:16:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T13:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"13:18:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T13:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"13:17:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T13:18:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"13:19:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T13:19:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"13:20:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T13:20:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"13:21:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T13:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"13:22:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T13:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"13:23:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T13:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"13:24:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T13:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"13:24:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T13:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"13:25:00"
+  },
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T13:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"13:30:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T13:30:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"13:31:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T13:31:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"13:32:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T13:32:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"13:33:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T13:33:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"13:34:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T13:34:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"13:35:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T13:35:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"13:36:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T13:36:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"13:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T13:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"13:38:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T13:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"13:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T13:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"13:38:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T13:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"13:39:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T14:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"14:17:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T14:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"14:16:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T14:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"14:17:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T14:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"14:18:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T14:18:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"14:19:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T14:19:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"14:20:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T14:20:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"14:21:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T14:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"14:22:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T14:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"14:23:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T14:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"14:24:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T14:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"14:24:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T14:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"14:25:00"
+  },
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T14:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"14:30:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T14:30:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"14:31:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T14:31:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"14:32:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T14:32:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"14:33:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T14:33:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"14:34:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T14:34:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"14:35:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T14:35:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"14:36:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T14:36:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"14:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T14:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"14:38:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T14:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"14:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T14:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"14:38:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T14:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"14:39:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T15:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"15:17:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T15:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"15:16:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T15:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"15:18:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T15:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"15:17:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T15:18:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"15:19:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T15:19:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"15:20:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T15:20:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"15:21:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T15:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"15:22:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T15:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"15:23:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T15:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"15:24:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T15:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"15:25:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T15:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"15:24:00"
+  },
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T15:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"15:30:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T15:30:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"15:31:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T15:31:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"15:32:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T15:32:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"15:33:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T15:33:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"15:34:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T15:34:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"15:35:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T15:35:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"15:36:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T15:36:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"15:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T15:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"15:38:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T15:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"15:37:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T15:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"15:39:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T15:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"15:38:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T16:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"16:17:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T16:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"16:16:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T16:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"16:17:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T16:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"16:18:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T16:18:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"16:19:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T16:19:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"16:20:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T16:20:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"16:21:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T16:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"16:22:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T16:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"16:23:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T16:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"16:24:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T16:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"16:24:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T16:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"16:25:00"
+  },
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T16:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"16:30:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T16:30:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"16:31:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T16:31:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"16:32:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T16:32:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"16:33:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T16:33:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"16:34:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T16:34:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"16:35:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T16:35:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"16:36:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T16:36:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"16:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T16:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"16:38:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T16:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"16:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T16:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"16:38:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T16:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"16:39:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T16:49:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"16:49:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T16:49:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"16:50:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T16:50:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"16:51:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T16:50:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"16:50:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T16:51:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"16:52:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T16:52:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"16:53:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T16:53:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"16:54:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T16:54:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"16:55:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T16:55:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"16:56:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T16:56:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"16:57:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T16:57:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"16:57:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T16:57:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"16:58:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T17:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"17:17:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T17:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"17:16:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T17:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"17:18:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T17:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"17:17:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T17:18:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"17:19:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T17:19:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"17:20:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T17:20:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"17:21:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T17:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"17:22:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T17:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"17:23:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T17:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"17:24:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T17:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"17:25:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T17:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"17:24:00"
+  },
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T17:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"17:30:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T17:30:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"17:31:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T17:31:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"17:32:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T17:32:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"17:33:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T17:33:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"17:34:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T17:34:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"17:35:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T17:35:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"17:36:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T17:36:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"17:37:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T17:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"17:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T17:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"17:38:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T17:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"17:38:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T17:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"17:39:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T17:49:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"17:49:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T17:49:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"17:50:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T17:50:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"17:50:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T17:50:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"17:51:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T17:51:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"17:52:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T17:52:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"17:53:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T17:53:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"17:54:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T17:54:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"17:55:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T17:55:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"17:56:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T17:56:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"17:57:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T17:57:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"17:57:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T17:57:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"17:58:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T18:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"18:16:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T18:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"18:17:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T18:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"18:17:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T18:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"18:18:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T18:18:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"18:19:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T18:19:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"18:20:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T18:20:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"18:21:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T18:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"18:22:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T18:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"18:21:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T18:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"18:22:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T18:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"18:22:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T18:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"18:23:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T18:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"18:23:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T18:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"18:24:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T18:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"18:24:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T18:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"18:25:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T18:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"18:24:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T18:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"18:25:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T18:25:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"18:26:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T18:26:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"18:27:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T18:27:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"18:28:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T18:28:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"18:29:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T18:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"18:29:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T18:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"18:30:00"
+  },
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T18:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"18:30:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T18:30:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"18:31:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T18:31:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"18:32:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T18:32:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"18:33:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T18:33:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"18:34:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T18:34:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"18:35:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T18:35:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"18:36:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T18:36:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"18:37:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T18:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"18:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T18:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"18:38:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T18:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"18:39:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T18:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"18:38:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T18:49:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"18:49:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T18:49:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"18:50:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T18:50:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"18:50:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T18:50:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"18:51:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T18:51:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"18:52:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T18:52:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"18:53:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T18:53:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"18:54:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T18:54:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"18:55:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T18:55:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"18:56:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T18:56:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"18:57:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T18:57:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"18:57:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T18:57:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"18:58:00"
+  },
+  {
+    "stop_name":"Doren Halden",
+    "departure":"2026-07-17T19:06:00.000",
+    "line":"823",
+    "next_stop":"Doren Stein",
+    "arrival_time_next":"19:08:00"
+  },
+  {
+    "stop_name":"Doren Stein",
+    "departure":"2026-07-17T19:08:00.000",
+    "line":"823",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"19:10:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T19:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"19:16:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T19:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"19:17:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T19:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"19:17:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T19:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"19:18:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T19:18:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"19:19:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T19:19:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"19:20:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T19:20:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"19:21:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T19:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"19:22:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T19:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"19:21:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T19:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"19:22:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T19:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"19:22:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T19:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"19:23:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T19:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"19:23:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T19:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"19:24:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T19:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"19:24:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T19:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"19:24:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T19:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"19:25:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T19:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"19:25:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T19:25:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"19:26:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T19:26:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"19:27:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T19:27:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"19:28:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T19:28:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"19:29:00"
+  },
+  {
+    "stop_name":"Doren Moos",
+    "departure":"2026-07-17T19:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"19:30:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T19:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"19:29:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T19:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"19:30:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T19:30:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"19:31:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T19:31:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"19:32:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T19:32:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"19:33:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T19:33:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"19:34:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T19:34:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"19:35:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T19:35:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"19:36:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T19:36:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"19:37:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T19:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"19:37:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T19:37:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"19:38:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T19:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"19:38:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T19:38:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach Brücke",
+    "arrival_time_next":"19:39:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T20:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"20:16:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T20:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"20:17:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T20:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"20:18:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T20:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"20:17:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T20:18:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"20:19:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T20:19:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"20:20:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T20:20:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"20:21:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T20:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"20:21:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T20:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"20:22:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T20:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"20:22:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T20:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"20:23:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T20:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"20:23:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T20:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"20:22:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T20:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"20:24:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T20:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"20:24:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T20:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"20:25:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T20:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"20:24:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T20:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"20:25:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T20:25:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"20:26:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T20:26:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"20:27:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T20:27:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"20:28:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T20:28:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"20:29:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T20:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"20:30:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T20:29:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"20:29:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T22:15:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"22:16:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T22:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"22:17:00"
+  },
+  {
+    "stop_name":"Doren Standbach",
+    "departure":"2026-07-17T22:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach Mitte",
+    "arrival_time_next":"22:17:00"
+  },
+  {
+    "stop_name":"Doren Standbach Brücke",
+    "departure":"2026-07-17T22:16:00.000",
+    "line":"820",
+    "next_stop":"Doren Standbach",
+    "arrival_time_next":"22:16:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T22:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"22:18:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T22:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"22:17:00"
+  },
+  {
+    "stop_name":"Doren Rotach",
+    "departure":"2026-07-17T22:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Sportplatz",
+    "arrival_time_next":"22:18:00"
+  },
+  {
+    "stop_name":"Doren Rotach Mitte",
+    "departure":"2026-07-17T22:17:00.000",
+    "line":"820",
+    "next_stop":"Doren Rotach",
+    "arrival_time_next":"22:17:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T22:18:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"22:19:00"
+  },
+  {
+    "stop_name":"Doren Sportplatz",
+    "departure":"2026-07-17T22:18:00.000",
+    "line":"820",
+    "next_stop":"Doren Brenden",
+    "arrival_time_next":"22:19:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T22:19:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"22:20:00"
+  },
+  {
+    "stop_name":"Doren Brenden",
+    "departure":"2026-07-17T22:19:00.000",
+    "line":"820",
+    "next_stop":"Doren Egg-Dorf",
+    "arrival_time_next":"22:20:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T22:20:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"22:21:00"
+  },
+  {
+    "stop_name":"Doren Egg-Dorf",
+    "departure":"2026-07-17T22:20:00.000",
+    "line":"820",
+    "next_stop":"Doren Hemmessen",
+    "arrival_time_next":"22:21:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T22:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"22:22:00"
+  },
+  {
+    "stop_name":"Doren Hemmessen",
+    "departure":"2026-07-17T22:21:00.000",
+    "line":"820",
+    "next_stop":"Doren Zentrum",
+    "arrival_time_next":"22:22:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T22:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"22:23:00"
+  },
+  {
+    "stop_name":"Doren Zentrum",
+    "departure":"2026-07-17T22:22:00.000",
+    "line":"820",
+    "next_stop":"Doren Schnoran",
+    "arrival_time_next":"22:23:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T22:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"22:24:00"
+  },
+  {
+    "stop_name":"Doren Schnoran",
+    "departure":"2026-07-17T22:23:00.000",
+    "line":"820",
+    "next_stop":"Doren Huban",
+    "arrival_time_next":"22:24:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T22:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"22:24:00"
+  },
+  {
+    "stop_name":"Doren Huban",
+    "departure":"2026-07-17T22:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos Kapelle",
+    "arrival_time_next":"22:24:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T22:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"22:25:00"
+  },
+  {
+    "stop_name":"Doren Moos Kapelle",
+    "departure":"2026-07-17T22:24:00.000",
+    "line":"820",
+    "next_stop":"Doren Moos",
+    "arrival_time_next":"22:25:00"
+  }
+]

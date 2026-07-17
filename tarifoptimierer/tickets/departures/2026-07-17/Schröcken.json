@@ -1,0 +1,800 @@
+[
+  {
+    "stop_name":"Schröcken Alpenblick",
+    "departure":"2026-07-17T07:42:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"07:43:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T07:43:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"07:45:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T07:45:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"07:47:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T07:47:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"07:48:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T07:48:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"07:50:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T07:50:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Landsteg",
+    "arrival_time_next":"07:51:00"
+  },
+  {
+    "stop_name":"Schröcken Landsteg",
+    "departure":"2026-07-17T09:00:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"09:02:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T09:02:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"09:04:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T09:04:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"09:06:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T09:06:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"09:08:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T09:08:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"09:09:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T09:09:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Alpenblick",
+    "arrival_time_next":"09:10:00"
+  },
+  {
+    "stop_name":"Schröcken Alpenblick",
+    "departure":"2026-07-17T09:42:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"09:43:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T09:43:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"09:45:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T09:45:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"09:47:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T09:47:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"09:48:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T09:48:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"09:50:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T09:50:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Landsteg",
+    "arrival_time_next":"09:51:00"
+  },
+  {
+    "stop_name":"Schröcken Landsteg",
+    "departure":"2026-07-17T10:00:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"10:02:00"
+  },
+  {
+    "stop_name":"Schröcken Landsteg",
+    "departure":"2026-07-17T10:00:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"10:02:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T10:02:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"10:04:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T10:02:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"10:04:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T10:04:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"10:06:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T10:04:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"10:06:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T10:06:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"10:08:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T10:06:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"10:08:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T10:08:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"10:09:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T10:08:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"10:09:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T10:09:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Alpenblick",
+    "arrival_time_next":"10:10:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T10:09:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Alpenblick",
+    "arrival_time_next":"10:10:00"
+  },
+  {
+    "stop_name":"Schröcken Landsteg",
+    "departure":"2026-07-17T11:00:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"11:02:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T11:02:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"11:04:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T11:04:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"11:06:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T11:06:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"11:08:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T11:08:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"11:09:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T11:09:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Alpenblick",
+    "arrival_time_next":"11:10:00"
+  },
+  {
+    "stop_name":"Schröcken Alpenblick",
+    "departure":"2026-07-17T11:42:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"11:43:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T11:43:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"11:45:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T11:45:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"11:47:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T11:47:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"11:48:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T11:48:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"11:50:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T11:50:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Landsteg",
+    "arrival_time_next":"11:51:00"
+  },
+  {
+    "stop_name":"Schröcken Landsteg",
+    "departure":"2026-07-17T12:00:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"12:02:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T12:02:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"12:04:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T12:04:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"12:06:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T12:06:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"12:08:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T12:08:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"12:09:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T12:09:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Alpenblick",
+    "arrival_time_next":"12:10:00"
+  },
+  {
+    "stop_name":"Schröcken Landsteg",
+    "departure":"2026-07-17T13:30:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"13:32:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T13:32:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"13:34:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T13:34:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"13:36:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T13:36:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"13:38:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T13:38:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"13:39:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T13:39:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Alpenblick",
+    "arrival_time_next":"13:40:00"
+  },
+  {
+    "stop_name":"Schröcken Alpenblick",
+    "departure":"2026-07-17T13:42:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"13:43:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T13:43:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"13:45:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T13:45:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"13:47:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T13:47:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"13:48:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T13:48:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"13:50:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T13:50:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Landsteg",
+    "arrival_time_next":"13:51:00"
+  },
+  {
+    "stop_name":"Schröcken Alpenblick",
+    "departure":"2026-07-17T14:42:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"14:43:00"
+  },
+  {
+    "stop_name":"Schröcken Alpenblick",
+    "departure":"2026-07-17T14:42:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"14:43:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T14:43:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"14:45:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T14:43:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"14:45:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T14:45:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"14:47:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T14:45:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"14:47:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T14:47:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"14:48:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T14:47:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"14:48:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T14:48:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"14:50:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T14:48:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"14:50:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T14:50:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Landsteg",
+    "arrival_time_next":"14:51:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T14:50:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Landsteg",
+    "arrival_time_next":"14:51:00"
+  },
+  {
+    "stop_name":"Schröcken Landsteg",
+    "departure":"2026-07-17T15:00:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"15:02:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T15:02:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"15:04:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T15:04:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"15:06:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T15:06:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"15:08:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T15:08:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"15:09:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T15:09:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Alpenblick",
+    "arrival_time_next":"15:10:00"
+  },
+  {
+    "stop_name":"Schröcken Alpenblick",
+    "departure":"2026-07-17T15:42:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"15:43:00"
+  },
+  {
+    "stop_name":"Schröcken Alpenblick",
+    "departure":"2026-07-17T15:42:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"15:43:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T15:43:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"15:45:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T15:43:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"15:45:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T15:45:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"15:47:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T15:45:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"15:47:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T15:47:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"15:48:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T15:47:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"15:48:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T15:48:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"15:50:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T15:48:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"15:50:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T15:50:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Landsteg",
+    "arrival_time_next":"15:51:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T15:50:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Landsteg",
+    "arrival_time_next":"15:51:00"
+  },
+  {
+    "stop_name":"Schröcken Alpenblick",
+    "departure":"2026-07-17T16:42:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"16:43:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T16:43:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"16:45:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T16:45:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"16:47:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T16:47:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"16:48:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T16:48:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"16:50:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T16:50:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Landsteg",
+    "arrival_time_next":"16:51:00"
+  },
+  {
+    "stop_name":"Schröcken Landsteg",
+    "departure":"2026-07-17T17:00:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"17:02:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T17:02:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"17:04:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T17:04:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"17:06:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T17:06:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"17:08:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T17:08:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"17:09:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T17:09:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Alpenblick",
+    "arrival_time_next":"17:10:00"
+  },
+  {
+    "stop_name":"Schröcken Alpenblick",
+    "departure":"2026-07-17T17:42:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"17:43:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T17:43:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"17:45:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T17:45:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"17:47:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T17:47:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"17:48:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T17:48:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"17:50:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T17:50:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Landsteg",
+    "arrival_time_next":"17:51:00"
+  },
+  {
+    "stop_name":"Schröcken Landsteg",
+    "departure":"2026-07-17T19:00:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Unterboden",
+    "arrival_time_next":"19:02:00"
+  },
+  {
+    "stop_name":"Schröcken Unterboden",
+    "departure":"2026-07-17T19:02:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Tannbergbrücke",
+    "arrival_time_next":"19:04:00"
+  },
+  {
+    "stop_name":"Schröcken Tannbergbrücke",
+    "departure":"2026-07-17T19:04:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Dorf",
+    "arrival_time_next":"19:06:00"
+  },
+  {
+    "stop_name":"Schröcken Dorf",
+    "departure":"2026-07-17T19:06:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Schmitte",
+    "arrival_time_next":"19:08:00"
+  },
+  {
+    "stop_name":"Schröcken Schmitte",
+    "departure":"2026-07-17T19:08:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Neßlegg",
+    "arrival_time_next":"19:09:00"
+  },
+  {
+    "stop_name":"Schröcken Neßlegg",
+    "departure":"2026-07-17T19:09:00.000",
+    "line":"852",
+    "next_stop":"Schröcken Alpenblick",
+    "arrival_time_next":"19:10:00"
+  }
+]

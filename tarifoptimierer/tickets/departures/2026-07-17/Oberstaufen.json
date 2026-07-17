@@ -1,0 +1,639 @@
+[
+  {
+    "stop_name":"Oberstaufen Aach",
+    "departure":"2026-07-17T08:14:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Krebs",
+    "arrival_time_next":"08:16:00"
+  },
+  {
+    "stop_name":"Oberstaufen Krebs",
+    "departure":"2026-07-17T08:16:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Steinebach",
+    "arrival_time_next":"08:17:00"
+  },
+  {
+    "stop_name":"Oberstaufen Steinebach",
+    "departure":"2026-07-17T08:17:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachbrücke",
+    "arrival_time_next":"08:18:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachbrücke",
+    "departure":"2026-07-17T08:18:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachmühle",
+    "arrival_time_next":"08:19:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachmühle",
+    "departure":"2026-07-17T08:19:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Malas",
+    "arrival_time_next":"08:20:00"
+  },
+  {
+    "stop_name":"Oberstaufen Malas",
+    "departure":"2026-07-17T08:20:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Bahnhof",
+    "arrival_time_next":"08:25:00"
+  },
+  {
+    "stop_name":"Oberstaufen Bahnhof",
+    "departure":"2026-07-17T08:42:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Malas",
+    "arrival_time_next":"08:43:00"
+  },
+  {
+    "stop_name":"Oberstaufen Malas",
+    "departure":"2026-07-17T08:43:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Feuerstein",
+    "arrival_time_next":"08:44:00"
+  },
+  {
+    "stop_name":"Oberstaufen Feuerstein",
+    "departure":"2026-07-17T08:44:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachmühle",
+    "arrival_time_next":"08:45:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachmühle",
+    "departure":"2026-07-17T08:45:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachbrücke",
+    "arrival_time_next":"08:46:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachbrücke",
+    "departure":"2026-07-17T08:46:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Steinebach",
+    "arrival_time_next":"08:47:00"
+  },
+  {
+    "stop_name":"Oberstaufen Steinebach",
+    "departure":"2026-07-17T08:47:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Krebs",
+    "arrival_time_next":"08:48:00"
+  },
+  {
+    "stop_name":"Oberstaufen Krebs",
+    "departure":"2026-07-17T08:48:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Aach",
+    "arrival_time_next":"08:50:00"
+  },
+  {
+    "stop_name":"Oberstaufen Aach",
+    "departure":"2026-07-17T10:14:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Krebs",
+    "arrival_time_next":"10:16:00"
+  },
+  {
+    "stop_name":"Oberstaufen Krebs",
+    "departure":"2026-07-17T10:16:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Steinebach",
+    "arrival_time_next":"10:17:00"
+  },
+  {
+    "stop_name":"Oberstaufen Steinebach",
+    "departure":"2026-07-17T10:17:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachbrücke",
+    "arrival_time_next":"10:18:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachbrücke",
+    "departure":"2026-07-17T10:18:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachmühle",
+    "arrival_time_next":"10:19:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachmühle",
+    "departure":"2026-07-17T10:19:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Malas",
+    "arrival_time_next":"10:20:00"
+  },
+  {
+    "stop_name":"Oberstaufen Malas",
+    "departure":"2026-07-17T10:20:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Bahnhof",
+    "arrival_time_next":"10:25:00"
+  },
+  {
+    "stop_name":"Oberstaufen Bahnhof",
+    "departure":"2026-07-17T10:42:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Malas",
+    "arrival_time_next":"10:43:00"
+  },
+  {
+    "stop_name":"Oberstaufen Malas",
+    "departure":"2026-07-17T10:43:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Feuerstein",
+    "arrival_time_next":"10:44:00"
+  },
+  {
+    "stop_name":"Oberstaufen Feuerstein",
+    "departure":"2026-07-17T10:44:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachmühle",
+    "arrival_time_next":"10:45:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachmühle",
+    "departure":"2026-07-17T10:45:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachbrücke",
+    "arrival_time_next":"10:46:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachbrücke",
+    "departure":"2026-07-17T10:46:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Steinebach",
+    "arrival_time_next":"10:47:00"
+  },
+  {
+    "stop_name":"Oberstaufen Steinebach",
+    "departure":"2026-07-17T10:47:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Krebs",
+    "arrival_time_next":"10:48:00"
+  },
+  {
+    "stop_name":"Oberstaufen Krebs",
+    "departure":"2026-07-17T10:48:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Aach",
+    "arrival_time_next":"10:50:00"
+  },
+  {
+    "stop_name":"Oberstaufen Aach",
+    "departure":"2026-07-17T12:14:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Krebs",
+    "arrival_time_next":"12:16:00"
+  },
+  {
+    "stop_name":"Oberstaufen Krebs",
+    "departure":"2026-07-17T12:16:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Steinebach",
+    "arrival_time_next":"12:17:00"
+  },
+  {
+    "stop_name":"Oberstaufen Steinebach",
+    "departure":"2026-07-17T12:17:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachbrücke",
+    "arrival_time_next":"12:18:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachbrücke",
+    "departure":"2026-07-17T12:18:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachmühle",
+    "arrival_time_next":"12:19:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachmühle",
+    "departure":"2026-07-17T12:19:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Malas",
+    "arrival_time_next":"12:20:00"
+  },
+  {
+    "stop_name":"Oberstaufen Malas",
+    "departure":"2026-07-17T12:20:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Bahnhof",
+    "arrival_time_next":"12:25:00"
+  },
+  {
+    "stop_name":"Oberstaufen Bahnhof",
+    "departure":"2026-07-17T12:42:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Malas",
+    "arrival_time_next":"12:43:00"
+  },
+  {
+    "stop_name":"Oberstaufen Malas",
+    "departure":"2026-07-17T12:43:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Feuerstein",
+    "arrival_time_next":"12:44:00"
+  },
+  {
+    "stop_name":"Oberstaufen Feuerstein",
+    "departure":"2026-07-17T12:44:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachmühle",
+    "arrival_time_next":"12:45:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachmühle",
+    "departure":"2026-07-17T12:45:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachbrücke",
+    "arrival_time_next":"12:46:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachbrücke",
+    "departure":"2026-07-17T12:46:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Steinebach",
+    "arrival_time_next":"12:47:00"
+  },
+  {
+    "stop_name":"Oberstaufen Steinebach",
+    "departure":"2026-07-17T12:47:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Krebs",
+    "arrival_time_next":"12:48:00"
+  },
+  {
+    "stop_name":"Oberstaufen Krebs",
+    "departure":"2026-07-17T12:48:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Aach",
+    "arrival_time_next":"12:50:00"
+  },
+  {
+    "stop_name":"Oberstaufen Aach",
+    "departure":"2026-07-17T14:14:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Krebs",
+    "arrival_time_next":"14:16:00"
+  },
+  {
+    "stop_name":"Oberstaufen Krebs",
+    "departure":"2026-07-17T14:16:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Steinebach",
+    "arrival_time_next":"14:17:00"
+  },
+  {
+    "stop_name":"Oberstaufen Steinebach",
+    "departure":"2026-07-17T14:17:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachbrücke",
+    "arrival_time_next":"14:18:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachbrücke",
+    "departure":"2026-07-17T14:18:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachmühle",
+    "arrival_time_next":"14:19:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachmühle",
+    "departure":"2026-07-17T14:19:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Malas",
+    "arrival_time_next":"14:20:00"
+  },
+  {
+    "stop_name":"Oberstaufen Malas",
+    "departure":"2026-07-17T14:20:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Bahnhof",
+    "arrival_time_next":"14:25:00"
+  },
+  {
+    "stop_name":"Oberstaufen Bahnhof",
+    "departure":"2026-07-17T14:42:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Malas",
+    "arrival_time_next":"14:43:00"
+  },
+  {
+    "stop_name":"Oberstaufen Malas",
+    "departure":"2026-07-17T14:43:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Feuerstein",
+    "arrival_time_next":"14:44:00"
+  },
+  {
+    "stop_name":"Oberstaufen Feuerstein",
+    "departure":"2026-07-17T14:44:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachmühle",
+    "arrival_time_next":"14:45:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachmühle",
+    "departure":"2026-07-17T14:45:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachbrücke",
+    "arrival_time_next":"14:46:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachbrücke",
+    "departure":"2026-07-17T14:46:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Steinebach",
+    "arrival_time_next":"14:47:00"
+  },
+  {
+    "stop_name":"Oberstaufen Steinebach",
+    "departure":"2026-07-17T14:47:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Krebs",
+    "arrival_time_next":"14:48:00"
+  },
+  {
+    "stop_name":"Oberstaufen Krebs",
+    "departure":"2026-07-17T14:48:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Aach",
+    "arrival_time_next":"14:50:00"
+  },
+  {
+    "stop_name":"Oberstaufen Aach",
+    "departure":"2026-07-17T16:14:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Krebs",
+    "arrival_time_next":"16:16:00"
+  },
+  {
+    "stop_name":"Oberstaufen Krebs",
+    "departure":"2026-07-17T16:16:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Steinebach",
+    "arrival_time_next":"16:17:00"
+  },
+  {
+    "stop_name":"Oberstaufen Steinebach",
+    "departure":"2026-07-17T16:17:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachbrücke",
+    "arrival_time_next":"16:18:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachbrücke",
+    "departure":"2026-07-17T16:18:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachmühle",
+    "arrival_time_next":"16:19:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachmühle",
+    "departure":"2026-07-17T16:19:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Malas",
+    "arrival_time_next":"16:20:00"
+  },
+  {
+    "stop_name":"Oberstaufen Malas",
+    "departure":"2026-07-17T16:20:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Bahnhof",
+    "arrival_time_next":"16:25:00"
+  },
+  {
+    "stop_name":"Oberstaufen Bahnhof",
+    "departure":"2026-07-17T16:42:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Malas",
+    "arrival_time_next":"16:43:00"
+  },
+  {
+    "stop_name":"Oberstaufen Malas",
+    "departure":"2026-07-17T16:43:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Feuerstein",
+    "arrival_time_next":"16:44:00"
+  },
+  {
+    "stop_name":"Oberstaufen Feuerstein",
+    "departure":"2026-07-17T16:44:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachmühle",
+    "arrival_time_next":"16:45:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachmühle",
+    "departure":"2026-07-17T16:45:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachbrücke",
+    "arrival_time_next":"16:46:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachbrücke",
+    "departure":"2026-07-17T16:46:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Steinebach",
+    "arrival_time_next":"16:47:00"
+  },
+  {
+    "stop_name":"Oberstaufen Steinebach",
+    "departure":"2026-07-17T16:47:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Krebs",
+    "arrival_time_next":"16:48:00"
+  },
+  {
+    "stop_name":"Oberstaufen Krebs",
+    "departure":"2026-07-17T16:48:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Aach",
+    "arrival_time_next":"16:50:00"
+  },
+  {
+    "stop_name":"Oberstaufen Aach",
+    "departure":"2026-07-17T18:23:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Krebs",
+    "arrival_time_next":"18:25:00"
+  },
+  {
+    "stop_name":"Oberstaufen Krebs",
+    "departure":"2026-07-17T18:25:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Steinebach",
+    "arrival_time_next":"18:26:00"
+  },
+  {
+    "stop_name":"Oberstaufen Steinebach",
+    "departure":"2026-07-17T18:26:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachbrücke",
+    "arrival_time_next":"18:27:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachbrücke",
+    "departure":"2026-07-17T18:27:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachmühle",
+    "arrival_time_next":"18:28:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachmühle",
+    "departure":"2026-07-17T18:28:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Malas",
+    "arrival_time_next":"18:29:00"
+  },
+  {
+    "stop_name":"Oberstaufen Malas",
+    "departure":"2026-07-17T18:29:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Bahnhof",
+    "arrival_time_next":"18:34:00"
+  },
+  {
+    "stop_name":"Oberstaufen Bahnhof",
+    "departure":"2026-07-17T18:42:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Malas",
+    "arrival_time_next":"18:43:00"
+  },
+  {
+    "stop_name":"Oberstaufen Malas",
+    "departure":"2026-07-17T18:43:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Feuerstein",
+    "arrival_time_next":"18:44:00"
+  },
+  {
+    "stop_name":"Oberstaufen Feuerstein",
+    "departure":"2026-07-17T18:44:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachmühle",
+    "arrival_time_next":"18:45:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachmühle",
+    "departure":"2026-07-17T18:45:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachbrücke",
+    "arrival_time_next":"18:46:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachbrücke",
+    "departure":"2026-07-17T18:46:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Steinebach",
+    "arrival_time_next":"18:47:00"
+  },
+  {
+    "stop_name":"Oberstaufen Steinebach",
+    "departure":"2026-07-17T18:47:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Krebs",
+    "arrival_time_next":"18:48:00"
+  },
+  {
+    "stop_name":"Oberstaufen Krebs",
+    "departure":"2026-07-17T18:48:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Aach",
+    "arrival_time_next":"18:50:00"
+  },
+  {
+    "stop_name":"Oberstaufen Aach",
+    "departure":"2026-07-17T20:14:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Krebs",
+    "arrival_time_next":"20:16:00"
+  },
+  {
+    "stop_name":"Oberstaufen Krebs",
+    "departure":"2026-07-17T20:16:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Steinebach",
+    "arrival_time_next":"20:17:00"
+  },
+  {
+    "stop_name":"Oberstaufen Steinebach",
+    "departure":"2026-07-17T20:17:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachbrücke",
+    "arrival_time_next":"20:18:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachbrücke",
+    "departure":"2026-07-17T20:18:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachmühle",
+    "arrival_time_next":"20:19:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachmühle",
+    "departure":"2026-07-17T20:19:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Malas",
+    "arrival_time_next":"20:20:00"
+  },
+  {
+    "stop_name":"Oberstaufen Malas",
+    "departure":"2026-07-17T20:20:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Bahnhof",
+    "arrival_time_next":"20:25:00"
+  },
+  {
+    "stop_name":"Oberstaufen Bahnhof",
+    "departure":"2026-07-17T20:26:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Malas",
+    "arrival_time_next":"20:27:00"
+  },
+  {
+    "stop_name":"Oberstaufen Malas",
+    "departure":"2026-07-17T20:27:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Feuerstein",
+    "arrival_time_next":"20:28:00"
+  },
+  {
+    "stop_name":"Oberstaufen Feuerstein",
+    "departure":"2026-07-17T20:28:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachmühle",
+    "arrival_time_next":"20:29:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachmühle",
+    "departure":"2026-07-17T20:29:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Weißachbrücke",
+    "arrival_time_next":"20:30:00"
+  },
+  {
+    "stop_name":"Oberstaufen Weißachbrücke",
+    "departure":"2026-07-17T20:30:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Steinebach",
+    "arrival_time_next":"20:31:00"
+  },
+  {
+    "stop_name":"Oberstaufen Steinebach",
+    "departure":"2026-07-17T20:31:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Krebs",
+    "arrival_time_next":"20:33:00"
+  },
+  {
+    "stop_name":"Oberstaufen Krebs",
+    "departure":"2026-07-17T20:33:00.000",
+    "line":"890",
+    "next_stop":"Oberstaufen Aach",
+    "arrival_time_next":"20:35:00"
+  }
+]

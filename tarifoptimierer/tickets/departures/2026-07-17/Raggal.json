@@ -1,0 +1,772 @@
+[
+  {
+    "stop_name":"Raggal Sandbühel",
+    "departure":"2026-07-17T05:55:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"05:56:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T05:56:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"05:57:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T05:57:00.000",
+    "line":"575",
+    "next_stop":"Raggal Winkel",
+    "arrival_time_next":"05:58:00"
+  },
+  {
+    "stop_name":"Raggal Sandbühel",
+    "departure":"2026-07-17T06:25:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"06:26:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T06:26:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"06:27:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T06:27:00.000",
+    "line":"575",
+    "next_stop":"Raggal Winkel",
+    "arrival_time_next":"06:28:00"
+  },
+  {
+    "stop_name":"Raggal Sandbühel",
+    "departure":"2026-07-17T06:45:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"06:46:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T06:46:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"06:47:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T06:47:00.000",
+    "line":"575",
+    "next_stop":"Raggal Winkel",
+    "arrival_time_next":"06:48:00"
+  },
+  {
+    "stop_name":"Raggal Winkel",
+    "departure":"2026-07-17T06:55:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"06:56:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T06:56:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"06:57:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T06:57:00.000",
+    "line":"575",
+    "next_stop":"Raggal Sandbühel",
+    "arrival_time_next":"06:58:00"
+  },
+  {
+    "stop_name":"Raggal Plazera",
+    "departure":"2026-07-17T07:07:00.000",
+    "line":"575",
+    "next_stop":"Raggal Litze",
+    "arrival_time_next":"07:09:00"
+  },
+  {
+    "stop_name":"Raggal Winkel",
+    "departure":"2026-07-17T07:35:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"07:36:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T07:36:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"07:37:00"
+  },
+  {
+    "stop_name":"Raggal Litze",
+    "departure":"2026-07-17T07:37:00.000",
+    "line":"575",
+    "next_stop":"Raggal Plazera",
+    "arrival_time_next":"07:40:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T07:37:00.000",
+    "line":"575",
+    "next_stop":"Raggal Sandbühel",
+    "arrival_time_next":"07:38:00"
+  },
+  {
+    "stop_name":"Raggal Sandbühel",
+    "departure":"2026-07-17T07:49:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"07:50:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T07:50:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"07:51:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T07:51:00.000",
+    "line":"575",
+    "next_stop":"Raggal Winkel",
+    "arrival_time_next":"07:52:00"
+  },
+  {
+    "stop_name":"Raggal Winkel",
+    "departure":"2026-07-17T08:23:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"08:24:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T08:24:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"08:25:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T08:25:00.000",
+    "line":"575",
+    "next_stop":"Raggal Sandbühel",
+    "arrival_time_next":"08:26:00"
+  },
+  {
+    "stop_name":"Raggal Plazera",
+    "departure":"2026-07-17T08:35:00.000",
+    "line":"575",
+    "next_stop":"Raggal Litze",
+    "arrival_time_next":"08:37:00"
+  },
+  {
+    "stop_name":"Raggal Litze",
+    "departure":"2026-07-17T08:57:00.000",
+    "line":"575",
+    "next_stop":"Raggal Plazera",
+    "arrival_time_next":"09:00:00"
+  },
+  {
+    "stop_name":"Raggal Winkel",
+    "departure":"2026-07-17T09:05:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"09:06:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T09:06:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"09:07:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T09:07:00.000",
+    "line":"575",
+    "next_stop":"Raggal Sandbühel",
+    "arrival_time_next":"09:08:00"
+  },
+  {
+    "stop_name":"Raggal Litze",
+    "departure":"2026-07-17T10:17:00.000",
+    "line":"575",
+    "next_stop":"Raggal Plazera",
+    "arrival_time_next":"10:20:00"
+  },
+  {
+    "stop_name":"Raggal Winkel",
+    "departure":"2026-07-17T10:23:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"10:24:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T10:24:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"10:25:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T10:25:00.000",
+    "line":"575",
+    "next_stop":"Raggal Sandbühel",
+    "arrival_time_next":"10:26:00"
+  },
+  {
+    "stop_name":"Raggal Sandbühel",
+    "departure":"2026-07-17T10:29:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"10:30:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T10:30:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"10:31:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T10:31:00.000",
+    "line":"575",
+    "next_stop":"Raggal Winkel",
+    "arrival_time_next":"10:32:00"
+  },
+  {
+    "stop_name":"Raggal Plazera",
+    "departure":"2026-07-17T10:35:00.000",
+    "line":"575",
+    "next_stop":"Raggal Litze",
+    "arrival_time_next":"10:37:00"
+  },
+  {
+    "stop_name":"Raggal Litze",
+    "departure":"2026-07-17T12:17:00.000",
+    "line":"575",
+    "next_stop":"Raggal Plazera",
+    "arrival_time_next":"12:20:00"
+  },
+  {
+    "stop_name":"Raggal Winkel",
+    "departure":"2026-07-17T12:23:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"12:24:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T12:24:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"12:25:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T12:25:00.000",
+    "line":"575",
+    "next_stop":"Raggal Sandbühel",
+    "arrival_time_next":"12:26:00"
+  },
+  {
+    "stop_name":"Raggal Sandbühel",
+    "departure":"2026-07-17T12:29:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"12:30:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T12:30:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"12:31:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T12:31:00.000",
+    "line":"575",
+    "next_stop":"Raggal Winkel",
+    "arrival_time_next":"12:32:00"
+  },
+  {
+    "stop_name":"Raggal Plazera",
+    "departure":"2026-07-17T12:35:00.000",
+    "line":"575",
+    "next_stop":"Raggal Litze",
+    "arrival_time_next":"12:37:00"
+  },
+  {
+    "stop_name":"Raggal Litze",
+    "departure":"2026-07-17T12:42:00.000",
+    "line":"575",
+    "next_stop":"Raggal Plazera",
+    "arrival_time_next":"12:45:00"
+  },
+  {
+    "stop_name":"Raggal Sandbühel",
+    "departure":"2026-07-17T12:54:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"12:55:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T12:55:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"12:56:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T12:56:00.000",
+    "line":"575",
+    "next_stop":"Raggal Winkel",
+    "arrival_time_next":"12:57:00"
+  },
+  {
+    "stop_name":"Raggal Winkel",
+    "departure":"2026-07-17T12:59:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"13:00:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T13:00:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"13:01:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T13:01:00.000",
+    "line":"575",
+    "next_stop":"Raggal Sandbühel",
+    "arrival_time_next":"13:02:00"
+  },
+  {
+    "stop_name":"Raggal Plazera",
+    "departure":"2026-07-17T13:11:00.000",
+    "line":"575",
+    "next_stop":"Raggal Litze",
+    "arrival_time_next":"13:11:00"
+  },
+  {
+    "stop_name":"Raggal Litze",
+    "departure":"2026-07-17T13:17:00.000",
+    "line":"575",
+    "next_stop":"Raggal Plazera",
+    "arrival_time_next":"13:20:00"
+  },
+  {
+    "stop_name":"Raggal Sandbühel",
+    "departure":"2026-07-17T13:29:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"13:30:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T13:30:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"13:31:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T13:31:00.000",
+    "line":"575",
+    "next_stop":"Raggal Winkel",
+    "arrival_time_next":"13:32:00"
+  },
+  {
+    "stop_name":"Raggal Litze",
+    "departure":"2026-07-17T14:17:00.000",
+    "line":"575",
+    "next_stop":"Raggal Plazera",
+    "arrival_time_next":"14:20:00"
+  },
+  {
+    "stop_name":"Raggal Winkel",
+    "departure":"2026-07-17T14:23:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"14:24:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T14:24:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"14:25:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T14:25:00.000",
+    "line":"575",
+    "next_stop":"Raggal Sandbühel",
+    "arrival_time_next":"14:26:00"
+  },
+  {
+    "stop_name":"Raggal Sandbühel",
+    "departure":"2026-07-17T14:29:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"14:30:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T14:30:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"14:31:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T14:31:00.000",
+    "line":"575",
+    "next_stop":"Raggal Winkel",
+    "arrival_time_next":"14:32:00"
+  },
+  {
+    "stop_name":"Raggal Plazera",
+    "departure":"2026-07-17T14:35:00.000",
+    "line":"575",
+    "next_stop":"Raggal Litze",
+    "arrival_time_next":"14:37:00"
+  },
+  {
+    "stop_name":"Raggal Litze",
+    "departure":"2026-07-17T15:17:00.000",
+    "line":"575",
+    "next_stop":"Raggal Plazera",
+    "arrival_time_next":"15:20:00"
+  },
+  {
+    "stop_name":"Raggal Sandbühel",
+    "departure":"2026-07-17T15:29:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"15:30:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T15:30:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"15:31:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T15:31:00.000",
+    "line":"575",
+    "next_stop":"Raggal Winkel",
+    "arrival_time_next":"15:32:00"
+  },
+  {
+    "stop_name":"Raggal Litze",
+    "departure":"2026-07-17T16:12:00.000",
+    "line":"575",
+    "next_stop":"Raggal Plazera",
+    "arrival_time_next":"16:15:00"
+  },
+  {
+    "stop_name":"Raggal Winkel",
+    "departure":"2026-07-17T16:14:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"16:15:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T16:15:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"16:16:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T16:16:00.000",
+    "line":"575",
+    "next_stop":"Raggal Sandbühel",
+    "arrival_time_next":"16:17:00"
+  },
+  {
+    "stop_name":"Raggal Sandbühel",
+    "departure":"2026-07-17T16:24:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"16:25:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T16:25:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"16:26:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T16:26:00.000",
+    "line":"575",
+    "next_stop":"Raggal Winkel",
+    "arrival_time_next":"16:27:00"
+  },
+  {
+    "stop_name":"Raggal Plazera",
+    "departure":"2026-07-17T16:26:00.000",
+    "line":"575",
+    "next_stop":"Raggal Litze",
+    "arrival_time_next":"16:28:00"
+  },
+  {
+    "stop_name":"Raggal Litze",
+    "departure":"2026-07-17T16:37:00.000",
+    "line":"575",
+    "next_stop":"Raggal Plazera",
+    "arrival_time_next":"16:40:00"
+  },
+  {
+    "stop_name":"Raggal Sandbühel",
+    "departure":"2026-07-17T16:49:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"16:50:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T16:50:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"16:51:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T16:51:00.000",
+    "line":"575",
+    "next_stop":"Raggal Winkel",
+    "arrival_time_next":"16:52:00"
+  },
+  {
+    "stop_name":"Raggal Winkel",
+    "departure":"2026-07-17T16:53:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"16:54:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T16:54:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"16:55:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T16:55:00.000",
+    "line":"575",
+    "next_stop":"Raggal Sandbühel",
+    "arrival_time_next":"16:56:00"
+  },
+  {
+    "stop_name":"Raggal Litze",
+    "departure":"2026-07-17T17:37:00.000",
+    "line":"575",
+    "next_stop":"Raggal Plazera",
+    "arrival_time_next":"17:40:00"
+  },
+  {
+    "stop_name":"Raggal Sandbühel",
+    "departure":"2026-07-17T17:49:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"17:50:00"
+  },
+  {
+    "stop_name":"Raggal Plazera",
+    "departure":"2026-07-17T17:49:00.000",
+    "line":"575",
+    "next_stop":"Raggal Litze",
+    "arrival_time_next":"17:51:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T17:50:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"17:51:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T17:51:00.000",
+    "line":"575",
+    "next_stop":"Raggal Winkel",
+    "arrival_time_next":"17:52:00"
+  },
+  {
+    "stop_name":"Raggal Winkel",
+    "departure":"2026-07-17T17:53:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"17:54:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T17:54:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"17:55:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T17:55:00.000",
+    "line":"575",
+    "next_stop":"Raggal Sandbühel",
+    "arrival_time_next":"17:56:00"
+  },
+  {
+    "stop_name":"Raggal Litze",
+    "departure":"2026-07-17T18:17:00.000",
+    "line":"575",
+    "next_stop":"Raggal Plazera",
+    "arrival_time_next":"18:20:00"
+  },
+  {
+    "stop_name":"Raggal Sandbühel",
+    "departure":"2026-07-17T18:29:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"18:30:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T18:30:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"18:31:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T18:31:00.000",
+    "line":"575",
+    "next_stop":"Raggal Winkel",
+    "arrival_time_next":"18:32:00"
+  },
+  {
+    "stop_name":"Raggal Winkel",
+    "departure":"2026-07-17T18:53:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"18:54:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T18:54:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"18:55:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T18:55:00.000",
+    "line":"575",
+    "next_stop":"Raggal Sandbühel",
+    "arrival_time_next":"18:56:00"
+  },
+  {
+    "stop_name":"Raggal Plazera",
+    "departure":"2026-07-17T19:05:00.000",
+    "line":"575",
+    "next_stop":"Raggal Litze",
+    "arrival_time_next":"19:07:00"
+  },
+  {
+    "stop_name":"Raggal Winkel",
+    "departure":"2026-07-17T19:53:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"19:54:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T19:54:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"19:55:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T19:55:00.000",
+    "line":"575",
+    "next_stop":"Raggal Sandbühel",
+    "arrival_time_next":"19:56:00"
+  },
+  {
+    "stop_name":"Raggal Litze",
+    "departure":"2026-07-17T20:17:00.000",
+    "line":"575",
+    "next_stop":"Raggal Plazera",
+    "arrival_time_next":"20:20:00"
+  },
+  {
+    "stop_name":"Raggal Winkel",
+    "departure":"2026-07-17T20:23:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"20:24:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T20:24:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"20:25:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T20:25:00.000",
+    "line":"575",
+    "next_stop":"Raggal Sandbühel",
+    "arrival_time_next":"20:26:00"
+  },
+  {
+    "stop_name":"Raggal Sandbühel",
+    "departure":"2026-07-17T20:29:00.000",
+    "line":"575",
+    "next_stop":"Raggal Walserhalle",
+    "arrival_time_next":"20:30:00"
+  },
+  {
+    "stop_name":"Raggal Walserhalle",
+    "departure":"2026-07-17T20:30:00.000",
+    "line":"575",
+    "next_stop":"Raggal Abzweigung",
+    "arrival_time_next":"20:31:00"
+  },
+  {
+    "stop_name":"Raggal Abzweigung",
+    "departure":"2026-07-17T20:31:00.000",
+    "line":"575",
+    "next_stop":"Raggal Winkel",
+    "arrival_time_next":"20:32:00"
+  },
+  {
+    "stop_name":"Raggal Plazera",
+    "departure":"2026-07-17T20:35:00.000",
+    "line":"575",
+    "next_stop":"Raggal Litze",
+    "arrival_time_next":"20:37:00"
+  }
+]

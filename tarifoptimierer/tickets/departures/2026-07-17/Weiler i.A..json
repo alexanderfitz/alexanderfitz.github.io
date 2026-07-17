@@ -1,0 +1,548 @@
+[
+  {
+    "stop_name":"Weiler i. A. Eyenbach Abzw.",
+    "departure":"2026-07-17T06:17:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Siebers",
+    "arrival_time_next":"06:18:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Siebers",
+    "departure":"2026-07-17T06:18:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Buchenbühl",
+    "arrival_time_next":"06:19:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Buchenbühl",
+    "departure":"2026-07-17T06:19:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Burgmühle",
+    "arrival_time_next":"06:20:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Burgmühle",
+    "departure":"2026-07-17T06:20:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Rawe",
+    "arrival_time_next":"06:21:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Rawe",
+    "departure":"2026-07-17T06:21:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Alte Apotheke",
+    "arrival_time_next":"06:22:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Alte Apotheke",
+    "departure":"2026-07-17T06:22:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Bahnhof",
+    "arrival_time_next":"06:24:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Bahnhof",
+    "departure":"2026-07-17T06:26:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Alte Apotheke",
+    "arrival_time_next":"06:27:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Alte Apotheke",
+    "departure":"2026-07-17T06:27:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Rawe",
+    "arrival_time_next":"06:28:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Rawe",
+    "departure":"2026-07-17T06:28:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Burgmühle",
+    "arrival_time_next":"06:29:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Burgmühle",
+    "departure":"2026-07-17T06:29:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Buchenbühl",
+    "arrival_time_next":"06:30:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Buchenbühl",
+    "departure":"2026-07-17T06:30:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Siebers",
+    "arrival_time_next":"06:31:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Siebers",
+    "departure":"2026-07-17T06:31:00.000",
+    "line":"821",
+    "next_stop":"Weiler i. A. Eyenbach Abzw.",
+    "arrival_time_next":"06:32:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Bahnhof",
+    "departure":"2026-07-17T07:15:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Alte Apotheke",
+    "arrival_time_next":"07:17:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Alte Apotheke",
+    "departure":"2026-07-17T07:17:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Rawe",
+    "arrival_time_next":"07:18:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Rawe",
+    "departure":"2026-07-17T07:18:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Burgmühle",
+    "arrival_time_next":"07:19:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Burgmühle",
+    "departure":"2026-07-17T07:19:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Buchenbühl",
+    "arrival_time_next":"07:20:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Buchenbühl",
+    "departure":"2026-07-17T07:20:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Siebers",
+    "arrival_time_next":"07:22:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Siebers",
+    "departure":"2026-07-17T07:22:00.000",
+    "line":"821",
+    "next_stop":"Weiler i. A. Eyenbach Abzw.",
+    "arrival_time_next":"07:23:00"
+  },
+  {
+    "stop_name":"Weiler i. A. Eyenbach Abzw.",
+    "departure":"2026-07-17T08:47:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Siebers",
+    "arrival_time_next":"08:48:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Siebers",
+    "departure":"2026-07-17T08:48:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Buchenbühl",
+    "arrival_time_next":"08:49:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Buchenbühl",
+    "departure":"2026-07-17T08:49:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Burgmühle",
+    "arrival_time_next":"08:50:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Burgmühle",
+    "departure":"2026-07-17T08:50:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Rawe",
+    "arrival_time_next":"08:51:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Rawe",
+    "departure":"2026-07-17T08:51:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Alte Apotheke",
+    "arrival_time_next":"08:52:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Alte Apotheke",
+    "departure":"2026-07-17T08:52:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Bahnhof",
+    "arrival_time_next":"08:54:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Bahnhof",
+    "departure":"2026-07-17T08:58:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Alte Apotheke",
+    "arrival_time_next":"08:59:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Alte Apotheke",
+    "departure":"2026-07-17T08:59:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Rawe",
+    "arrival_time_next":"09:00:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Rawe",
+    "departure":"2026-07-17T09:00:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Burgmühle",
+    "arrival_time_next":"09:01:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Burgmühle",
+    "departure":"2026-07-17T09:01:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Buchenbühl",
+    "arrival_time_next":"09:02:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Buchenbühl",
+    "departure":"2026-07-17T09:02:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Siebers",
+    "arrival_time_next":"09:03:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Siebers",
+    "departure":"2026-07-17T09:03:00.000",
+    "line":"821",
+    "next_stop":"Weiler i. A. Eyenbach Abzw.",
+    "arrival_time_next":"09:04:00"
+  },
+  {
+    "stop_name":"Weiler i. A. Eyenbach Abzw.",
+    "departure":"2026-07-17T10:47:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Siebers",
+    "arrival_time_next":"10:48:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Siebers",
+    "departure":"2026-07-17T10:48:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Buchenbühl",
+    "arrival_time_next":"10:49:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Buchenbühl",
+    "departure":"2026-07-17T10:49:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Burgmühle",
+    "arrival_time_next":"10:50:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Burgmühle",
+    "departure":"2026-07-17T10:50:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Rawe",
+    "arrival_time_next":"10:51:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Rawe",
+    "departure":"2026-07-17T10:51:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Alte Apotheke",
+    "arrival_time_next":"10:52:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Alte Apotheke",
+    "departure":"2026-07-17T10:52:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Bahnhof",
+    "arrival_time_next":"10:54:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Bahnhof",
+    "departure":"2026-07-17T10:58:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Alte Apotheke",
+    "arrival_time_next":"10:59:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Alte Apotheke",
+    "departure":"2026-07-17T10:59:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Rawe",
+    "arrival_time_next":"11:00:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Rawe",
+    "departure":"2026-07-17T11:00:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Burgmühle",
+    "arrival_time_next":"11:01:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Burgmühle",
+    "departure":"2026-07-17T11:01:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Buchenbühl",
+    "arrival_time_next":"11:02:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Buchenbühl",
+    "departure":"2026-07-17T11:02:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Siebers",
+    "arrival_time_next":"11:03:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Siebers",
+    "departure":"2026-07-17T11:03:00.000",
+    "line":"821",
+    "next_stop":"Weiler i. A. Eyenbach Abzw.",
+    "arrival_time_next":"11:04:00"
+  },
+  {
+    "stop_name":"Weiler i. A. Eyenbach Abzw.",
+    "departure":"2026-07-17T14:47:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Siebers",
+    "arrival_time_next":"14:48:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Siebers",
+    "departure":"2026-07-17T14:48:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Buchenbühl",
+    "arrival_time_next":"14:49:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Buchenbühl",
+    "departure":"2026-07-17T14:49:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Burgmühle",
+    "arrival_time_next":"14:50:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Burgmühle",
+    "departure":"2026-07-17T14:50:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Rawe",
+    "arrival_time_next":"14:51:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Rawe",
+    "departure":"2026-07-17T14:51:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Alte Apotheke",
+    "arrival_time_next":"14:52:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Alte Apotheke",
+    "departure":"2026-07-17T14:52:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Bahnhof",
+    "arrival_time_next":"14:54:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Bahnhof",
+    "departure":"2026-07-17T14:58:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Alte Apotheke",
+    "arrival_time_next":"14:59:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Alte Apotheke",
+    "departure":"2026-07-17T14:59:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Rawe",
+    "arrival_time_next":"15:00:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Rawe",
+    "departure":"2026-07-17T15:00:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Burgmühle",
+    "arrival_time_next":"15:01:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Burgmühle",
+    "departure":"2026-07-17T15:01:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Buchenbühl",
+    "arrival_time_next":"15:02:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Buchenbühl",
+    "departure":"2026-07-17T15:02:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Siebers",
+    "arrival_time_next":"15:03:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Siebers",
+    "departure":"2026-07-17T15:03:00.000",
+    "line":"821",
+    "next_stop":"Weiler i. A. Eyenbach Abzw.",
+    "arrival_time_next":"15:04:00"
+  },
+  {
+    "stop_name":"Weiler i. A. Eyenbach Abzw.",
+    "departure":"2026-07-17T16:47:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Siebers",
+    "arrival_time_next":"16:48:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Siebers",
+    "departure":"2026-07-17T16:48:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Buchenbühl",
+    "arrival_time_next":"16:49:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Buchenbühl",
+    "departure":"2026-07-17T16:49:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Burgmühle",
+    "arrival_time_next":"16:50:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Burgmühle",
+    "departure":"2026-07-17T16:50:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Rawe",
+    "arrival_time_next":"16:51:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Rawe",
+    "departure":"2026-07-17T16:51:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Alte Apotheke",
+    "arrival_time_next":"16:52:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Alte Apotheke",
+    "departure":"2026-07-17T16:52:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Bahnhof",
+    "arrival_time_next":"16:54:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Bahnhof",
+    "departure":"2026-07-17T16:58:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Alte Apotheke",
+    "arrival_time_next":"16:59:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Alte Apotheke",
+    "departure":"2026-07-17T16:59:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Rawe",
+    "arrival_time_next":"17:00:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Rawe",
+    "departure":"2026-07-17T17:00:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Burgmühle",
+    "arrival_time_next":"17:01:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Burgmühle",
+    "departure":"2026-07-17T17:01:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Buchenbühl",
+    "arrival_time_next":"17:02:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Buchenbühl",
+    "departure":"2026-07-17T17:02:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Siebers",
+    "arrival_time_next":"17:03:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Siebers",
+    "departure":"2026-07-17T17:03:00.000",
+    "line":"821",
+    "next_stop":"Weiler i. A. Eyenbach Abzw.",
+    "arrival_time_next":"17:04:00"
+  },
+  {
+    "stop_name":"Weiler i. A. Eyenbach Abzw.",
+    "departure":"2026-07-17T18:47:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Siebers",
+    "arrival_time_next":"18:48:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Siebers",
+    "departure":"2026-07-17T18:48:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Buchenbühl",
+    "arrival_time_next":"18:49:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Buchenbühl",
+    "departure":"2026-07-17T18:49:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Burgmühle",
+    "arrival_time_next":"18:50:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Burgmühle",
+    "departure":"2026-07-17T18:50:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Rawe",
+    "arrival_time_next":"18:51:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Rawe",
+    "departure":"2026-07-17T18:51:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Alte Apotheke",
+    "arrival_time_next":"18:52:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Alte Apotheke",
+    "departure":"2026-07-17T18:52:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Bahnhof",
+    "arrival_time_next":"18:54:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Bahnhof",
+    "departure":"2026-07-17T18:58:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Alte Apotheke",
+    "arrival_time_next":"18:59:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Alte Apotheke",
+    "departure":"2026-07-17T18:59:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Rawe",
+    "arrival_time_next":"19:00:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Rawe",
+    "departure":"2026-07-17T19:00:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Burgmühle",
+    "arrival_time_next":"19:01:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Burgmühle",
+    "departure":"2026-07-17T19:01:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Buchenbühl",
+    "arrival_time_next":"19:02:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Buchenbühl",
+    "departure":"2026-07-17T19:02:00.000",
+    "line":"821",
+    "next_stop":"Weiler im Allgäu Siebers",
+    "arrival_time_next":"19:03:00"
+  },
+  {
+    "stop_name":"Weiler im Allgäu Siebers",
+    "departure":"2026-07-17T19:03:00.000",
+    "line":"821",
+    "next_stop":"Weiler i. A. Eyenbach Abzw.",
+    "arrival_time_next":"19:04:00"
+  }
+]

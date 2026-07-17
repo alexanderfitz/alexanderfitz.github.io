@@ -1,0 +1,2718 @@
+[
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T05:07:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"05:08:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T05:08:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"05:11:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T05:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"05:12:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T05:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"05:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T05:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"05:14:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T05:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"05:14:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T05:38:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"05:41:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T05:41:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"05:42:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T05:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"05:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T05:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"05:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T05:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"05:44:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T06:07:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"06:08:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T06:08:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"06:11:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T06:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"06:12:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T06:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"06:13:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T06:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"06:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T06:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"06:14:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T06:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"06:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T06:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"06:14:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T06:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"06:15:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T06:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"06:14:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T06:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"06:17:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T06:38:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"06:41:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T06:41:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"06:42:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T06:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"06:43:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T06:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"06:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T06:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"06:44:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T06:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"06:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T06:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"06:43:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T06:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"06:45:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T06:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"06:44:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T06:45:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"06:47:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T06:50:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"06:51:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T06:51:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"06:54:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T06:54:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"06:55:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T06:55:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"06:56:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T06:56:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"06:57:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T06:57:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"06:57:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T07:08:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"07:11:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T07:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"07:12:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T07:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"07:13:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T07:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"07:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T07:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"07:14:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T07:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"07:14:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T07:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"07:13:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T07:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"07:14:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T07:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"07:15:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T07:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"07:17:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T07:38:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"07:41:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T07:41:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"07:42:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T07:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"07:43:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T07:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"07:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T07:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"07:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T07:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"07:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T07:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"07:44:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T07:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"07:45:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T07:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"07:44:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T07:45:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"07:47:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T07:47:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Luttenweg",
+    "arrival_time_next":"07:48:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T08:07:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"08:08:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T08:08:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"08:11:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T08:10:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"08:11:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T08:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"08:11:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T08:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"08:12:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T08:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"08:12:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T08:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"08:13:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T08:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"08:13:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T08:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"08:13:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T08:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"08:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T08:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"08:14:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T08:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"08:14:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T08:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"08:15:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T08:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"08:14:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T08:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"08:17:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T08:17:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Luttenweg",
+    "arrival_time_next":"08:18:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T08:37:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"08:38:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T08:38:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"08:41:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T08:41:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"08:42:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T08:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"08:43:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T08:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"08:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T08:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"08:44:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T08:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"08:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T08:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"08:43:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T08:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"08:44:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T08:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"08:45:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T08:45:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"08:47:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T08:47:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Luttenweg",
+    "arrival_time_next":"08:48:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T09:07:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"09:08:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T09:08:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"09:11:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T09:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"09:12:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T09:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"09:13:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T09:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"09:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T09:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"09:14:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T09:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"09:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T09:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"09:14:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T09:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"09:15:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T09:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"09:14:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T09:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"09:17:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T09:17:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Luttenweg",
+    "arrival_time_next":"09:18:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T09:37:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"09:38:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T09:38:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"09:41:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T09:41:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"09:42:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T09:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"09:43:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T09:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"09:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T09:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"09:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T09:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"09:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T09:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"09:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T09:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"09:44:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T09:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"09:45:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T09:45:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"09:47:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T09:47:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Luttenweg",
+    "arrival_time_next":"09:48:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T10:07:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"10:08:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T10:08:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"10:11:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T10:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"10:12:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T10:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"10:13:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T10:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"10:13:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T10:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"10:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T10:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"10:14:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T10:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"10:14:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T10:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"10:14:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T10:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"10:15:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T10:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"10:17:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T10:17:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Luttenweg",
+    "arrival_time_next":"10:18:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T10:37:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"10:38:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T10:38:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"10:41:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T10:41:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"10:42:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T10:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"10:43:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T10:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"10:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T10:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"10:44:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T10:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"10:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T10:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"10:43:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T10:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"10:44:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T10:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"10:45:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T10:45:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"10:47:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T10:47:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Luttenweg",
+    "arrival_time_next":"10:48:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T11:07:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"11:08:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T11:08:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"11:11:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T11:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"11:12:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T11:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"11:13:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T11:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"11:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T11:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"11:14:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T11:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"11:14:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T11:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"11:13:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T11:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"11:15:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T11:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"11:14:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T11:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"11:17:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T11:17:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Luttenweg",
+    "arrival_time_next":"11:18:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T11:37:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"11:38:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T11:38:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"11:41:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T11:41:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"11:42:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T11:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"11:43:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T11:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"11:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T11:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"11:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T11:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"11:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T11:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"11:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T11:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"11:44:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T11:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"11:45:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T11:45:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"11:47:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T12:08:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"12:11:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T12:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"12:12:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T12:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"12:13:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T12:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"12:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T12:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"12:14:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T12:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"12:14:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T12:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"12:13:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T12:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"12:15:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T12:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"12:14:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T12:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"12:17:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T12:38:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"12:41:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T12:41:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"12:42:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T12:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"12:43:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T12:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"12:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T12:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"12:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T12:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"12:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T12:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"12:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T12:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"12:44:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T12:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"12:45:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T12:45:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"12:47:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T13:08:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"13:11:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T13:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"13:12:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T13:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"13:13:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T13:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"13:13:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T13:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"13:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T13:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"13:14:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T13:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"13:14:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T13:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"13:15:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T13:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"13:14:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T13:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"13:17:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T13:38:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"13:41:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T13:41:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"13:42:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T13:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"13:43:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T13:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"13:43:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T13:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"13:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T13:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"13:44:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T13:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"13:44:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T13:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"13:45:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T13:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"13:44:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T13:45:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"13:47:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T13:47:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Luttenweg",
+    "arrival_time_next":"13:48:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T14:07:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"14:08:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T14:08:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"14:11:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T14:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"14:12:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T14:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"14:13:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T14:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"14:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T14:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"14:14:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T14:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"14:14:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T14:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"14:13:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T14:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"14:15:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T14:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"14:14:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T14:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"14:17:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T14:17:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Luttenweg",
+    "arrival_time_next":"14:18:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T14:37:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"14:38:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T14:38:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"14:41:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T14:41:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"14:42:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T14:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"14:43:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T14:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"14:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T14:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"14:44:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T14:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"14:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T14:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"14:43:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T14:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"14:44:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T14:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"14:45:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T14:45:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"14:47:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T15:08:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"15:11:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T15:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"15:12:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T15:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"15:13:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T15:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"15:13:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T15:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"15:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T15:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"15:14:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T15:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"15:14:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T15:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"15:15:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T15:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"15:14:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T15:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"15:17:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T15:17:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Luttenweg",
+    "arrival_time_next":"15:18:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T15:37:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"15:38:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T15:38:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"15:41:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T15:41:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"15:42:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T15:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"15:43:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T15:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"15:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T15:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"15:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T15:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"15:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T15:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"15:44:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T15:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"15:45:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T15:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"15:44:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T15:45:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"15:47:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T15:47:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Luttenweg",
+    "arrival_time_next":"15:48:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T16:07:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"16:08:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T16:08:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"16:11:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T16:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"16:12:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T16:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"16:13:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T16:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"16:13:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T16:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"16:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T16:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"16:14:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T16:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"16:14:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T16:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"16:15:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T16:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"16:14:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T16:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"16:17:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T16:38:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"16:41:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T16:41:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"16:42:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T16:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"16:43:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T16:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"16:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T16:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"16:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T16:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"16:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T16:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"16:44:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T16:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"16:45:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T16:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"16:44:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T16:45:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"16:47:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T17:08:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"17:11:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T17:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"17:12:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T17:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"17:13:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T17:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"17:13:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T17:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"17:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T17:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"17:14:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T17:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"17:14:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T17:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"17:15:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T17:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"17:14:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T17:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"17:17:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T17:38:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"17:41:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T17:41:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"17:42:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T17:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"17:43:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T17:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"17:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T17:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"17:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T17:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"17:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T17:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"17:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T17:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"17:44:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T17:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"17:45:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T17:45:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"17:47:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T18:08:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"18:11:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T18:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"18:12:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T18:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"18:13:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T18:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"18:13:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T18:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"18:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T18:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"18:14:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T18:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"18:14:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T18:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"18:14:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T18:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"18:15:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T18:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"18:17:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T18:38:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"18:41:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T18:41:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"18:42:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T18:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"18:43:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T18:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"18:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T18:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"18:44:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T18:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"18:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T18:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"18:43:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T18:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"18:45:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T18:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"18:44:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T18:45:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"18:47:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T18:47:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Luttenweg",
+    "arrival_time_next":"18:48:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T19:07:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"19:08:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T19:08:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"19:11:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T19:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"19:12:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T19:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"19:13:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T19:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"19:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T19:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"19:14:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T19:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"19:14:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T19:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"19:13:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T19:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"19:15:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T19:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"19:14:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T19:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"19:17:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T19:17:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Luttenweg",
+    "arrival_time_next":"19:18:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T19:37:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"19:38:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T19:38:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"19:41:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T19:41:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"19:42:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T19:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"19:43:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T19:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"19:43:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T19:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"19:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T19:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"19:44:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T19:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"19:44:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T19:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"19:45:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T19:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"19:44:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T19:45:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"19:47:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T19:47:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Luttenweg",
+    "arrival_time_next":"19:48:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T20:07:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"20:08:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T20:08:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"20:11:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T20:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"20:12:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T20:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"20:13:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T20:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"20:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T20:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"20:14:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T20:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"20:14:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T20:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"20:13:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T20:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"20:15:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T20:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"20:14:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T20:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"20:17:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T20:17:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Luttenweg",
+    "arrival_time_next":"20:18:00"
+  },
+  {
+    "stop_name":"Meiningen Luttenweg",
+    "departure":"2026-07-17T20:37:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"20:38:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T20:38:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"20:41:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T20:41:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"20:42:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T20:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"20:43:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T20:42:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"20:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T20:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"20:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T20:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"20:43:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T20:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"20:44:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T20:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"20:44:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T20:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"20:45:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T20:45:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"20:47:00"
+  },
+  {
+    "stop_name":"Meiningen Industriegebiet",
+    "departure":"2026-07-17T20:47:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Luttenweg",
+    "arrival_time_next":"20:48:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T21:12:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"21:13:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T21:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"21:13:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T21:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"21:14:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T21:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"21:14:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T21:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"21:15:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T21:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"21:15:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T21:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"21:16:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T21:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Industriegebiet",
+    "arrival_time_next":"21:17:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T21:16:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"21:16:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T21:39:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"21:40:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T21:40:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"21:41:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T21:40:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"21:40:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T21:41:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"21:42:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T21:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"21:44:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T21:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"21:45:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T21:45:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"21:46:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T21:46:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"21:46:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T22:09:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"22:10:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T22:10:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"22:11:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T22:10:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"22:10:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T22:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"22:12:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T22:13:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"22:14:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T22:14:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"22:15:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T22:15:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"22:16:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T22:16:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"22:16:00"
+  },
+  {
+    "stop_name":"Meiningen Hadeldorfstraße",
+    "departure":"2026-07-17T22:43:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"22:44:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T22:44:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"22:45:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T22:45:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"22:46:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T22:46:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Stobernweg",
+    "arrival_time_next":"22:46:00"
+  },
+  {
+    "stop_name":"Meiningen Stobernweg",
+    "departure":"2026-07-17T23:09:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Oberdorf",
+    "arrival_time_next":"23:10:00"
+  },
+  {
+    "stop_name":"Meiningen Oberdorf",
+    "departure":"2026-07-17T23:10:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Bim Krüz",
+    "arrival_time_next":"23:10:00"
+  },
+  {
+    "stop_name":"Meiningen Bim Krüz",
+    "departure":"2026-07-17T23:10:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Pfarrhof",
+    "arrival_time_next":"23:11:00"
+  },
+  {
+    "stop_name":"Meiningen Pfarrhof",
+    "departure":"2026-07-17T23:11:00.000",
+    "line":"425",
+    "next_stop":"Meiningen Hadeldorfstraße",
+    "arrival_time_next":"23:12:00"
+  }
+]

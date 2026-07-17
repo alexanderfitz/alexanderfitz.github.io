@@ -6,7 +6,7 @@ import os
 # Configuration
 # =============================
 
-DATE = "2026-07-18"
+DATE = "2026-07-17"
 
 
 PLACES = {

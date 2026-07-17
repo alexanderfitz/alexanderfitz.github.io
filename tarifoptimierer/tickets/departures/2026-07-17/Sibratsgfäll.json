@@ -1,0 +1,590 @@
+[
+  {
+    "stop_name":"Sibratsgfäll Dorfplatz",
+    "departure":"2026-07-17T06:00:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"06:01:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T06:01:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"06:02:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T06:02:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Waldrast",
+    "arrival_time_next":"06:03:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Dorfplatz",
+    "departure":"2026-07-17T06:30:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"06:31:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T06:31:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"06:32:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T06:32:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Waldrast",
+    "arrival_time_next":"06:33:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Waldrast",
+    "departure":"2026-07-17T07:19:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"07:20:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T07:20:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"07:21:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T07:21:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Dorfplatz",
+    "arrival_time_next":"07:23:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Dorfplatz",
+    "departure":"2026-07-17T07:26:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"07:27:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T07:27:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"07:28:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T07:28:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Waldrast",
+    "arrival_time_next":"07:29:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Waldrast",
+    "departure":"2026-07-17T07:54:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"07:55:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T07:55:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"07:56:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T07:56:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Dorfplatz",
+    "arrival_time_next":"07:58:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Dorfplatz",
+    "departure":"2026-07-17T08:04:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"08:05:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T08:05:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"08:06:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T08:06:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Waldrast",
+    "arrival_time_next":"08:07:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Waldrast",
+    "departure":"2026-07-17T08:47:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"08:48:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T08:48:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"08:49:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T08:49:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Dorfplatz",
+    "arrival_time_next":"08:51:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Dorfplatz",
+    "departure":"2026-07-17T09:04:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"09:05:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T09:05:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"09:06:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T09:06:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Waldrast",
+    "arrival_time_next":"09:07:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Waldrast",
+    "departure":"2026-07-17T09:47:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"09:48:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T09:48:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"09:49:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T09:49:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Dorfplatz",
+    "arrival_time_next":"09:51:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Dorfplatz",
+    "departure":"2026-07-17T10:04:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"10:05:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T10:05:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"10:06:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T10:06:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Waldrast",
+    "arrival_time_next":"10:07:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Waldrast",
+    "departure":"2026-07-17T10:47:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"10:48:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T10:48:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"10:49:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T10:49:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Dorfplatz",
+    "arrival_time_next":"10:51:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Dorfplatz",
+    "departure":"2026-07-17T11:04:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"11:05:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T11:05:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"11:06:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T11:06:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Waldrast",
+    "arrival_time_next":"11:07:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Waldrast",
+    "departure":"2026-07-17T11:47:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"11:48:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T11:48:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"11:49:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T11:49:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Dorfplatz",
+    "arrival_time_next":"11:51:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Dorfplatz",
+    "departure":"2026-07-17T12:04:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"12:05:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T12:05:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"12:06:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T12:06:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Waldrast",
+    "arrival_time_next":"12:07:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Waldrast",
+    "departure":"2026-07-17T12:47:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"12:48:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T12:48:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"12:49:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T12:49:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Dorfplatz",
+    "arrival_time_next":"12:51:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Dorfplatz",
+    "departure":"2026-07-17T13:04:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"13:05:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T13:05:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"13:06:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T13:06:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Waldrast",
+    "arrival_time_next":"13:07:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Waldrast",
+    "departure":"2026-07-17T13:47:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"13:48:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T13:48:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"13:49:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T13:49:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Dorfplatz",
+    "arrival_time_next":"13:51:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Dorfplatz",
+    "departure":"2026-07-17T14:04:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"14:05:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T14:05:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"14:06:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T14:06:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Waldrast",
+    "arrival_time_next":"14:07:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Waldrast",
+    "departure":"2026-07-17T14:47:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"14:48:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T14:48:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"14:49:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T14:49:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Dorfplatz",
+    "arrival_time_next":"14:51:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Dorfplatz",
+    "departure":"2026-07-17T15:04:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"15:05:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T15:05:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"15:06:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T15:06:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Waldrast",
+    "arrival_time_next":"15:07:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Waldrast",
+    "departure":"2026-07-17T15:47:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"15:48:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T15:48:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"15:49:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T15:49:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Dorfplatz",
+    "arrival_time_next":"15:51:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Dorfplatz",
+    "departure":"2026-07-17T16:04:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"16:05:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T16:05:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"16:06:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T16:06:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Waldrast",
+    "arrival_time_next":"16:07:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Waldrast",
+    "departure":"2026-07-17T16:47:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"16:48:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T16:48:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"16:49:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T16:49:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Dorfplatz",
+    "arrival_time_next":"16:51:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Dorfplatz",
+    "departure":"2026-07-17T17:04:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"17:05:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T17:05:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"17:06:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T17:06:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Waldrast",
+    "arrival_time_next":"17:07:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Waldrast",
+    "departure":"2026-07-17T17:47:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"17:48:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T17:48:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"17:49:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T17:49:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Dorfplatz",
+    "arrival_time_next":"17:51:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Waldrast",
+    "departure":"2026-07-17T18:47:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"18:48:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T18:48:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"18:49:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T18:49:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Dorfplatz",
+    "arrival_time_next":"18:51:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Waldrast",
+    "departure":"2026-07-17T19:24:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"19:25:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T19:25:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"19:26:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T19:26:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Dorfplatz",
+    "arrival_time_next":"19:28:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Dorfplatz",
+    "departure":"2026-07-17T19:29:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Wieseln",
+    "arrival_time_next":"19:30:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Wieseln",
+    "departure":"2026-07-17T19:30:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Krinegg",
+    "arrival_time_next":"19:31:00"
+  },
+  {
+    "stop_name":"Sibratsgfäll Krinegg",
+    "departure":"2026-07-17T19:31:00.000",
+    "line":"860",
+    "next_stop":"Sibratsgfäll Waldrast",
+    "arrival_time_next":"19:32:00"
+  }
+]

@@ -1,0 +1,835 @@
+[
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T07:28:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"07:29:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T07:29:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"07:30:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T07:30:00.000",
+    "line":"852",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"07:32:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T07:51:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"07:52:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T08:00:00.000",
+    "line":"709",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"08:02:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T08:51:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"08:52:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T08:52:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"08:53:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T08:53:00.000",
+    "line":"709",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"08:56:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T09:04:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"09:07:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T09:07:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"09:08:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T09:08:00.000",
+    "line":"709",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"09:10:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T09:17:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"09:19:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T09:19:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"09:21:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T09:21:00.000",
+    "line":"852",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"09:24:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T09:28:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"09:29:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T09:29:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"09:30:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T09:30:00.000",
+    "line":"852",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"09:32:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T09:51:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"09:52:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T09:52:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"09:53:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T09:53:00.000",
+    "line":"709",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"09:56:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T10:04:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"10:07:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T10:07:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"10:08:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T10:08:00.000",
+    "line":"709",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"10:10:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T10:17:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"10:19:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T10:17:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"10:19:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T10:19:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"10:21:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T10:19:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"10:21:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T10:21:00.000",
+    "line":"852",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"10:24:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T10:21:00.000",
+    "line":"852",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"10:24:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T10:51:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"10:52:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T10:52:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"10:53:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T10:53:00.000",
+    "line":"709",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"10:56:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T11:04:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"11:07:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T11:07:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"11:08:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T11:08:00.000",
+    "line":"709",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"11:10:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T11:17:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"11:19:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T11:19:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"11:21:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T11:21:00.000",
+    "line":"852",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"11:24:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T11:28:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"11:29:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T11:29:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"11:30:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T11:30:00.000",
+    "line":"852",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"11:32:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T11:51:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"11:52:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T11:52:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"11:53:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T11:53:00.000",
+    "line":"709",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"11:56:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T12:04:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"12:07:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T12:07:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"12:08:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T12:08:00.000",
+    "line":"709",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"12:10:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T12:17:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"12:19:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T12:19:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"12:21:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T12:21:00.000",
+    "line":"852",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"12:24:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T12:51:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"12:52:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T12:52:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"12:53:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T12:53:00.000",
+    "line":"709",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"12:56:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T13:04:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"13:07:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T13:07:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"13:08:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T13:08:00.000",
+    "line":"709",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"13:10:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T13:28:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"13:29:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T13:29:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"13:30:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T13:30:00.000",
+    "line":"852",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"13:32:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T13:47:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"13:49:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T13:49:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"13:51:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T13:51:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"13:52:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T13:51:00.000",
+    "line":"852",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"13:54:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T13:52:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"13:53:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T13:53:00.000",
+    "line":"709",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"13:56:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T14:04:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"14:07:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T14:07:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"14:08:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T14:08:00.000",
+    "line":"709",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"14:10:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T14:28:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"14:29:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T14:28:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"14:29:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T14:29:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"14:30:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T14:29:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"14:30:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T14:30:00.000",
+    "line":"852",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"14:32:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T14:30:00.000",
+    "line":"852",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"14:32:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T14:51:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"14:52:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T14:52:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"14:53:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T14:53:00.000",
+    "line":"709",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"14:56:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T15:04:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"15:07:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T15:07:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"15:08:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T15:08:00.000",
+    "line":"709",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"15:10:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T15:17:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"15:19:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T15:19:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"15:21:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T15:21:00.000",
+    "line":"852",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"15:24:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T15:28:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"15:29:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T15:28:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"15:29:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T15:29:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"15:30:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T15:29:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"15:30:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T15:30:00.000",
+    "line":"852",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"15:32:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T15:30:00.000",
+    "line":"852",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"15:32:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T15:51:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"15:52:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T15:52:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"15:53:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T15:53:00.000",
+    "line":"709",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"15:56:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T16:04:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"16:07:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T16:07:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"16:08:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T16:08:00.000",
+    "line":"709",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"16:10:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T16:28:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"16:29:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T16:29:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"16:30:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T16:30:00.000",
+    "line":"852",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"16:32:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T16:51:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"16:52:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T16:52:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"16:53:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T16:53:00.000",
+    "line":"709",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"16:56:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T17:04:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"17:07:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T17:07:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"17:08:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T17:08:00.000",
+    "line":"709",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"17:10:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T17:17:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"17:19:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T17:19:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"17:21:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T17:21:00.000",
+    "line":"852",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"17:24:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T17:28:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"17:29:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T17:29:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"17:30:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T17:30:00.000",
+    "line":"852",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"17:32:00"
+  },
+  {
+    "stop_name":"Warth Dorfplatz",
+    "departure":"2026-07-17T17:51:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"17:52:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T17:52:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"17:53:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T17:53:00.000",
+    "line":"709",
+    "next_stop":"Warth Jägeralpe",
+    "arrival_time_next":"17:56:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T18:04:00.000",
+    "line":"709",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"18:07:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T18:07:00.000",
+    "line":"709",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"18:08:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T18:08:00.000",
+    "line":"709",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"18:10:00"
+  },
+  {
+    "stop_name":"Warth Jägeralpe",
+    "departure":"2026-07-17T19:17:00.000",
+    "line":"852",
+    "next_stop":"Warth Wolfegg",
+    "arrival_time_next":"19:19:00"
+  },
+  {
+    "stop_name":"Warth Wolfegg",
+    "departure":"2026-07-17T19:19:00.000",
+    "line":"852",
+    "next_stop":"Warth Steffisalp",
+    "arrival_time_next":"19:21:00"
+  },
+  {
+    "stop_name":"Warth Steffisalp",
+    "departure":"2026-07-17T19:21:00.000",
+    "line":"852",
+    "next_stop":"Warth Dorfplatz",
+    "arrival_time_next":"19:24:00"
+  }
+]

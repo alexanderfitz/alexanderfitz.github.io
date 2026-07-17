@@ -1,0 +1,989 @@
+[
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T05:04:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"05:05:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T05:05:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"05:06:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T05:06:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"05:07:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T05:35:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"05:36:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T05:36:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"05:37:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T05:37:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"05:38:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T06:02:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"06:03:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T06:03:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"06:04:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T06:04:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"06:05:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T06:18:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"06:19:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T06:19:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"06:20:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T06:20:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"06:21:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T06:28:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"06:29:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T06:29:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"06:30:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T06:30:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"06:31:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T06:54:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"06:55:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T06:55:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"06:56:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T06:56:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"06:57:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T06:58:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"06:59:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T06:59:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"07:00:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T07:00:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"07:01:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T07:30:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"07:31:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T07:31:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"07:32:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T07:32:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"07:33:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T07:52:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"07:53:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T07:53:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"07:54:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T07:54:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"07:55:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T08:00:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"08:01:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T08:01:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"08:02:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T08:02:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"08:03:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T08:22:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"08:23:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T08:23:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"08:24:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T08:24:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"08:25:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T08:32:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"08:33:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T08:33:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"08:34:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T08:34:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"08:35:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T09:22:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"09:23:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T09:23:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"09:24:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T09:24:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"09:25:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T09:32:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"09:33:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T09:33:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"09:34:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T09:34:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"09:35:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T10:22:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"10:23:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T10:23:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"10:24:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T10:24:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"10:25:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T10:32:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"10:33:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T10:33:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"10:34:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T10:34:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"10:35:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T11:22:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"11:23:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T11:23:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"11:24:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T11:24:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"11:25:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T11:32:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"11:33:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T11:33:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"11:34:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T11:34:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"11:35:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T12:22:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"12:23:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T12:23:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"12:24:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T12:24:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"12:25:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T12:43:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"12:44:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T12:44:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"12:45:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T12:45:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"12:46:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T12:47:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"12:48:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T12:48:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"12:49:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T12:49:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"12:50:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T13:25:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"13:26:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T13:26:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"13:27:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T13:27:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"13:28:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T13:52:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"13:53:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T13:52:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"13:53:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T13:53:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"13:54:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T13:53:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"13:54:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T13:54:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"13:55:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T13:54:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"13:55:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T14:22:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"14:23:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T14:23:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"14:24:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T14:24:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"14:25:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T14:32:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"14:33:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T14:33:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"14:34:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T14:34:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"14:35:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T14:52:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"14:53:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T14:53:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"14:54:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T14:54:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"14:55:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T15:02:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"15:03:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T15:03:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"15:04:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T15:04:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"15:05:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T15:22:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"15:23:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T15:23:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"15:24:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T15:24:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"15:25:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T15:32:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"15:33:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T15:33:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"15:34:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T15:34:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"15:35:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T15:52:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"15:53:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T15:53:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"15:54:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T15:54:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"15:55:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T16:02:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"16:03:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T16:03:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"16:04:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T16:04:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"16:05:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T16:22:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"16:23:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T16:23:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"16:24:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T16:24:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"16:25:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T16:32:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"16:33:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T16:33:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"16:34:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T16:34:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"16:35:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T16:52:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"16:53:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T16:53:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"16:54:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T16:54:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"16:55:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T17:02:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"17:03:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T17:03:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"17:04:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T17:04:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"17:05:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T17:22:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"17:23:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T17:23:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"17:24:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T17:24:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"17:25:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T17:32:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"17:33:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T17:33:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"17:34:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T17:34:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"17:35:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T17:52:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"17:53:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T17:53:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"17:54:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T17:54:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"17:55:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T18:02:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"18:03:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T18:03:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"18:04:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T18:04:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"18:05:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T18:24:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"18:25:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T18:25:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"18:26:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T18:26:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"18:27:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T18:52:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"18:53:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T18:53:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"18:54:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T18:54:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"18:55:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T19:02:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"19:03:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T19:03:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"19:04:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T19:04:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"19:05:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T20:17:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"20:18:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T20:18:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"20:19:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T20:19:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"20:20:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T21:10:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"21:11:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T21:11:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"21:12:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T21:12:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"21:13:00"
+  },
+  {
+    "stop_name":"Innerbraz Abz. Schwimmbadweg",
+    "departure":"2026-07-17T22:24:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"22:25:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T22:25:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"22:26:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T22:26:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Mühleplatz",
+    "arrival_time_next":"22:27:00"
+  },
+  {
+    "stop_name":"Innerbraz Mühleplatz",
+    "departure":"2026-07-17T23:10:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Kraftwerkssiedlung",
+    "arrival_time_next":"23:11:00"
+  },
+  {
+    "stop_name":"Innerbraz Kraftwerkssiedlung",
+    "departure":"2026-07-17T23:11:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Schulen",
+    "arrival_time_next":"23:12:00"
+  },
+  {
+    "stop_name":"Innerbraz Schulen",
+    "departure":"2026-07-17T23:12:00.000",
+    "line":"720",
+    "next_stop":"Innerbraz Abz. Schwimmbadweg",
+    "arrival_time_next":"23:13:00"
+  }
+]

@@ -1,0 +1,1738 @@
+[
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T06:49:00.000",
+    "line":"570",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"06:52:00"
+  },
+  {
+    "stop_name":"Damüls Schwende",
+    "departure":"2026-07-17T07:28:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"07:30:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T07:30:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"07:32:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T07:32:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"07:33:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T07:33:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"07:35:00"
+  },
+  {
+    "stop_name":"Damüls Abzw. Portlaalpe",
+    "departure":"2026-07-17T07:34:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"07:38:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T07:35:00.000",
+    "line":"851",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"07:38:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T07:38:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"07:40:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T07:40:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"07:42:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T07:42:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"07:44:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T07:44:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"07:45:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T07:45:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"07:46:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T07:46:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"07:48:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T07:48:00.000",
+    "line":"851",
+    "next_stop":"Damüls Schwende",
+    "arrival_time_next":"07:50:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T07:50:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"07:52:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T07:52:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"07:54:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T07:54:00.000",
+    "line":"497",
+    "next_stop":"Damüls Abzw. Portlaalpe",
+    "arrival_time_next":"07:57:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T08:01:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"08:03:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T08:03:00.000",
+    "line":"570",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"08:05:00"
+  },
+  {
+    "stop_name":"Damüls Abzw. Portlaalpe",
+    "departure":"2026-07-17T08:04:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"08:08:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T08:08:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"08:10:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T08:10:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"08:12:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T08:16:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"08:18:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T08:18:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"08:20:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T08:20:00.000",
+    "line":"497",
+    "next_stop":"Damüls Abzw. Portlaalpe",
+    "arrival_time_next":"08:23:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T08:25:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"08:27:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T08:27:00.000",
+    "line":"570",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"08:31:00"
+  },
+  {
+    "stop_name":"Damüls Schwende",
+    "departure":"2026-07-17T08:56:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"08:58:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T08:58:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"09:00:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T09:00:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"09:01:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T09:01:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"09:03:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T09:03:00.000",
+    "line":"851",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"09:06:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T09:06:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"09:08:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T09:08:00.000",
+    "line":"570",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"09:10:00"
+  },
+  {
+    "stop_name":"Damüls Abzw. Portlaalpe",
+    "departure":"2026-07-17T09:11:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"09:15:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T09:12:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"09:14:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T09:14:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"09:15:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T09:15:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"09:17:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T09:15:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"09:16:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T09:16:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"09:18:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T09:17:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"09:19:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T09:18:00.000",
+    "line":"851",
+    "next_stop":"Damüls Schwende",
+    "arrival_time_next":"09:20:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T09:19:00.000",
+    "line":"497",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"09:21:00"
+  },
+  {
+    "stop_name":"Damüls Abzw. Portlaalpe",
+    "departure":"2026-07-17T09:19:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"09:23:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T09:21:00.000",
+    "line":"497",
+    "next_stop":"Damüls Parkplatz Uga",
+    "arrival_time_next":"09:24:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T09:23:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"09:25:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T09:25:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"09:27:00"
+  },
+  {
+    "stop_name":"Damüls Parkplatz Uga",
+    "departure":"2026-07-17T09:26:00.000",
+    "line":"497",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"09:26:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T09:26:00.000",
+    "line":"497",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"09:28:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T09:27:00.000",
+    "line":"497",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"09:29:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T09:28:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"09:31:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T09:29:00.000",
+    "line":"497",
+    "next_stop":"Damüls Parkplatz Uga",
+    "arrival_time_next":"09:32:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T09:31:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"09:33:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T09:33:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"09:35:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T09:35:00.000",
+    "line":"497",
+    "next_stop":"Damüls Abzw. Portlaalpe",
+    "arrival_time_next":"09:38:00"
+  },
+  {
+    "stop_name":"Damüls Parkplatz Uga",
+    "departure":"2026-07-17T09:41:00.000",
+    "line":"497",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"09:41:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T09:41:00.000",
+    "line":"497",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"09:43:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T09:43:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"09:46:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T09:45:00.000",
+    "line":"575",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"09:47:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T09:46:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"09:48:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T09:47:00.000",
+    "line":"575",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"09:51:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T09:48:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"09:50:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T09:50:00.000",
+    "line":"497",
+    "next_stop":"Damüls Abzw. Portlaalpe",
+    "arrival_time_next":"09:53:00"
+  },
+  {
+    "stop_name":"Damüls Schwende",
+    "departure":"2026-07-17T09:56:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"09:58:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T09:58:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"10:00:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T10:00:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"10:01:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T10:01:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"10:03:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T10:03:00.000",
+    "line":"851",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"10:06:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T10:06:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"10:08:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T10:08:00.000",
+    "line":"570",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"10:10:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T10:12:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"10:14:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T10:14:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"10:15:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T10:15:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"10:16:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T10:16:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"10:18:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T10:18:00.000",
+    "line":"851",
+    "next_stop":"Damüls Schwende",
+    "arrival_time_next":"10:20:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T10:45:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"10:47:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T10:47:00.000",
+    "line":"570",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"10:51:00"
+  },
+  {
+    "stop_name":"Damüls Schwende",
+    "departure":"2026-07-17T10:56:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"10:58:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T10:58:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"11:00:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T11:00:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"11:01:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T11:01:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"11:03:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T11:03:00.000",
+    "line":"851",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"11:06:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T11:06:00.000",
+    "line":"575",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"11:08:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T11:08:00.000",
+    "line":"575",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"11:10:00"
+  },
+  {
+    "stop_name":"Damüls Abzw. Portlaalpe",
+    "departure":"2026-07-17T11:11:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"11:15:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T11:12:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"11:14:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T11:14:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"11:15:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T11:15:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"11:16:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T11:15:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"11:17:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T11:16:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"11:18:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T11:17:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"11:19:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T11:18:00.000",
+    "line":"851",
+    "next_stop":"Damüls Schwende",
+    "arrival_time_next":"11:20:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T11:19:00.000",
+    "line":"497",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"11:21:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T11:21:00.000",
+    "line":"497",
+    "next_stop":"Damüls Parkplatz Uga",
+    "arrival_time_next":"11:24:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T11:26:00.000",
+    "line":"497",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"11:28:00"
+  },
+  {
+    "stop_name":"Damüls Parkplatz Uga",
+    "departure":"2026-07-17T11:26:00.000",
+    "line":"497",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"11:26:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T11:28:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"11:31:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T11:31:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"11:33:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T11:33:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"11:35:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T11:35:00.000",
+    "line":"497",
+    "next_stop":"Damüls Abzw. Portlaalpe",
+    "arrival_time_next":"11:38:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T11:45:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"11:47:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T11:47:00.000",
+    "line":"570",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"11:51:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T12:06:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"12:08:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T12:08:00.000",
+    "line":"570",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"12:10:00"
+  },
+  {
+    "stop_name":"Damüls Abzw. Portlaalpe",
+    "departure":"2026-07-17T12:19:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"12:23:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T12:23:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"12:25:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T12:25:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"12:27:00"
+  },
+  {
+    "stop_name":"Damüls Schwende",
+    "departure":"2026-07-17T12:29:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"12:31:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T12:31:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"12:33:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T12:31:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"12:33:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T12:33:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"12:34:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T12:33:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"12:35:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T12:34:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"12:36:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T12:35:00.000",
+    "line":"497",
+    "next_stop":"Damüls Abzw. Portlaalpe",
+    "arrival_time_next":"12:38:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T12:36:00.000",
+    "line":"851",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"12:39:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T12:42:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"12:44:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T12:44:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"12:45:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T12:45:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"12:47:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T12:45:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"12:46:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T12:46:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"12:48:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T12:47:00.000",
+    "line":"570",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"12:51:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T12:48:00.000",
+    "line":"851",
+    "next_stop":"Damüls Schwende",
+    "arrival_time_next":"12:50:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T13:06:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"13:08:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T13:08:00.000",
+    "line":"570",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"13:10:00"
+  },
+  {
+    "stop_name":"Damüls Abzw. Portlaalpe",
+    "departure":"2026-07-17T13:19:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"13:23:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T13:23:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"13:25:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T13:25:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"13:27:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T13:31:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"13:33:00"
+  },
+  {
+    "stop_name":"Damüls Schwende",
+    "departure":"2026-07-17T13:31:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"13:33:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T13:33:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"13:35:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T13:33:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"13:35:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T13:35:00.000",
+    "line":"497",
+    "next_stop":"Damüls Abzw. Portlaalpe",
+    "arrival_time_next":"13:38:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T13:35:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"13:36:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T13:36:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"13:38:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T13:38:00.000",
+    "line":"851",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"13:41:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T13:42:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"13:44:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T13:44:00.000",
+    "line":"570",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"13:46:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T13:45:00.000",
+    "line":"575",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"13:47:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T13:47:00.000",
+    "line":"575",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"13:51:00"
+  },
+  {
+    "stop_name":"Damüls Abzw. Portlaalpe",
+    "departure":"2026-07-17T14:11:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"14:15:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T14:15:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"14:17:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T14:17:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"14:19:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T14:19:00.000",
+    "line":"497",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"14:21:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T14:21:00.000",
+    "line":"497",
+    "next_stop":"Damüls Parkplatz Uga",
+    "arrival_time_next":"14:24:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T14:26:00.000",
+    "line":"497",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"14:28:00"
+  },
+  {
+    "stop_name":"Damüls Parkplatz Uga",
+    "departure":"2026-07-17T14:26:00.000",
+    "line":"497",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"14:26:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T14:28:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"14:31:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T14:31:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"14:33:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T14:33:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"14:35:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T14:35:00.000",
+    "line":"497",
+    "next_stop":"Damüls Abzw. Portlaalpe",
+    "arrival_time_next":"14:38:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T14:42:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"14:44:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T14:44:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"14:45:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T14:45:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"14:47:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T14:45:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"14:46:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T14:46:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"14:48:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T14:47:00.000",
+    "line":"570",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"14:51:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T14:48:00.000",
+    "line":"851",
+    "next_stop":"Damüls Schwende",
+    "arrival_time_next":"14:50:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T15:06:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"15:08:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T15:08:00.000",
+    "line":"570",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"15:10:00"
+  },
+  {
+    "stop_name":"Damüls Abzw. Portlaalpe",
+    "departure":"2026-07-17T15:11:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"15:15:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T15:15:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"15:17:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T15:17:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"15:19:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T15:19:00.000",
+    "line":"497",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"15:21:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T15:21:00.000",
+    "line":"497",
+    "next_stop":"Damüls Parkplatz Uga",
+    "arrival_time_next":"15:24:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T15:25:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"15:27:00"
+  },
+  {
+    "stop_name":"Damüls Parkplatz Uga",
+    "departure":"2026-07-17T15:26:00.000",
+    "line":"497",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"15:26:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T15:26:00.000",
+    "line":"497",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"15:28:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T15:27:00.000",
+    "line":"570",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"15:31:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T15:28:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"15:31:00"
+  },
+  {
+    "stop_name":"Damüls Schwende",
+    "departure":"2026-07-17T15:29:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"15:31:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T15:31:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"15:33:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T15:31:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"15:33:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T15:33:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"15:34:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T15:33:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"15:35:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T15:34:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"15:36:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T15:35:00.000",
+    "line":"497",
+    "next_stop":"Damüls Abzw. Portlaalpe",
+    "arrival_time_next":"15:38:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T15:36:00.000",
+    "line":"851",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"15:39:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T15:42:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"15:44:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T15:44:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"15:45:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T15:45:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"15:46:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T15:46:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"15:48:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T15:48:00.000",
+    "line":"851",
+    "next_stop":"Damüls Schwende",
+    "arrival_time_next":"15:50:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T16:06:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"16:08:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T16:08:00.000",
+    "line":"570",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"16:10:00"
+  },
+  {
+    "stop_name":"Damüls Abzw. Portlaalpe",
+    "departure":"2026-07-17T16:11:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"16:15:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T16:15:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"16:17:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T16:17:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"16:19:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T16:19:00.000",
+    "line":"497",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"16:21:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T16:21:00.000",
+    "line":"497",
+    "next_stop":"Damüls Parkplatz Uga",
+    "arrival_time_next":"16:24:00"
+  },
+  {
+    "stop_name":"Damüls Schwende",
+    "departure":"2026-07-17T16:29:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"16:31:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T16:31:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"16:33:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T16:33:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"16:34:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T16:34:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"16:36:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T16:36:00.000",
+    "line":"851",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"16:39:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T16:42:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"16:44:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T16:43:00.000",
+    "line":"497",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"16:45:00"
+  },
+  {
+    "stop_name":"Damüls Parkplatz Uga",
+    "departure":"2026-07-17T16:43:00.000",
+    "line":"497",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"16:43:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T16:44:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"16:45:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T16:45:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"16:47:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T16:45:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"16:46:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T16:45:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"16:48:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T16:46:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"16:48:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T16:47:00.000",
+    "line":"570",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"16:51:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T16:48:00.000",
+    "line":"851",
+    "next_stop":"Damüls Schwende",
+    "arrival_time_next":"16:50:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T16:48:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"16:50:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T16:50:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"16:52:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T16:52:00.000",
+    "line":"497",
+    "next_stop":"Damüls Abzw. Portlaalpe",
+    "arrival_time_next":"16:55:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T16:57:00.000",
+    "line":"575",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"16:59:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T16:59:00.000",
+    "line":"575",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"17:01:00"
+  },
+  {
+    "stop_name":"Damüls Abzw. Portlaalpe",
+    "departure":"2026-07-17T17:11:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"17:15:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T17:15:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"17:17:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T17:17:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"17:19:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T17:19:00.000",
+    "line":"497",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"17:21:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T17:21:00.000",
+    "line":"497",
+    "next_stop":"Damüls Parkplatz Uga",
+    "arrival_time_next":"17:24:00"
+  },
+  {
+    "stop_name":"Damüls Parkplatz Uga",
+    "departure":"2026-07-17T17:43:00.000",
+    "line":"497",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"17:43:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T17:43:00.000",
+    "line":"497",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"17:45:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T17:45:00.000",
+    "line":"575",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"17:47:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T17:45:00.000",
+    "line":"497",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"17:48:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T17:47:00.000",
+    "line":"575",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"17:51:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T17:48:00.000",
+    "line":"497",
+    "next_stop":"Damüls Stofel\/Gh Zimba",
+    "arrival_time_next":"17:50:00"
+  },
+  {
+    "stop_name":"Damüls Stofel\/Gh Zimba",
+    "departure":"2026-07-17T17:50:00.000",
+    "line":"497",
+    "next_stop":"Damüls Gh Jägerstüble",
+    "arrival_time_next":"17:52:00"
+  },
+  {
+    "stop_name":"Damüls Gh Jägerstüble",
+    "departure":"2026-07-17T17:52:00.000",
+    "line":"497",
+    "next_stop":"Damüls Abzw. Portlaalpe",
+    "arrival_time_next":"17:55:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T18:06:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"18:08:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T18:08:00.000",
+    "line":"570",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"18:10:00"
+  },
+  {
+    "stop_name":"Damüls Schwende",
+    "departure":"2026-07-17T18:29:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"18:31:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T18:31:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"18:33:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T18:33:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"18:34:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T18:34:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"18:36:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T18:36:00.000",
+    "line":"851",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"18:39:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T18:42:00.000",
+    "line":"851",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"18:44:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T18:44:00.000",
+    "line":"851",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"18:45:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T18:45:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"18:47:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T18:45:00.000",
+    "line":"851",
+    "next_stop":"Damüls Berghotel Madlener",
+    "arrival_time_next":"18:46:00"
+  },
+  {
+    "stop_name":"Damüls Berghotel Madlener",
+    "departure":"2026-07-17T18:46:00.000",
+    "line":"851",
+    "next_stop":"Damüls Drei Häuser",
+    "arrival_time_next":"18:48:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T18:47:00.000",
+    "line":"570",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"18:51:00"
+  },
+  {
+    "stop_name":"Damüls Drei Häuser",
+    "departure":"2026-07-17T18:48:00.000",
+    "line":"851",
+    "next_stop":"Damüls Schwende",
+    "arrival_time_next":"18:50:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T19:36:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"19:38:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T19:38:00.000",
+    "line":"570",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"19:40:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T19:45:00.000",
+    "line":"575",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"19:47:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T19:47:00.000",
+    "line":"575",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"19:51:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T20:36:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"20:38:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T20:38:00.000",
+    "line":"570",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"20:40:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T20:45:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"20:47:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T20:47:00.000",
+    "line":"570",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"20:51:00"
+  },
+  {
+    "stop_name":"Damüls Uga-Lift",
+    "departure":"2026-07-17T22:06:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"22:08:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T22:08:00.000",
+    "line":"570",
+    "next_stop":"Damüls Oberdamüls",
+    "arrival_time_next":"22:10:00"
+  },
+  {
+    "stop_name":"Damüls Oberdamüls",
+    "departure":"2026-07-17T22:25:00.000",
+    "line":"570",
+    "next_stop":"Damüls Kirchdorf",
+    "arrival_time_next":"22:27:00"
+  },
+  {
+    "stop_name":"Damüls Kirchdorf",
+    "departure":"2026-07-17T22:27:00.000",
+    "line":"570",
+    "next_stop":"Damüls Uga-Lift",
+    "arrival_time_next":"22:31:00"
+  }
+]

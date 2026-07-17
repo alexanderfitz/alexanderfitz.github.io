@@ -100,6 +100,28 @@ select:focus {
 width:420px; 
 text-align: justify; 
 }
+
+.ticket-box {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 10px 0;
+}
+
+.ticket-box input {
+  width: 140px;
+  margin: 0;
+}
+
+.ticket-box input[type="time"] {
+  width: 100px;
+}
+
+.ticket-box button {
+  width: auto;
+  margin: 0;
+  padding: 10px 18px;
+}
 </style>
 </head>
 
@@ -155,17 +177,54 @@ worker.onmessage = (e) => {
   let out = "";
 
   if (r.steps) {
+
     r.steps.forEach((s, i) => {
 
       const zoneInfo = parseZone(s.type, s.zone);
 
-      out += `\nSchritt ${i+1}: ${formatCity(s.from)} → ${formatCity(s.to)}\n`;
-      out += `${s.type} (${zoneInfo.name})\n`;
+      out += `
+  Schritt ${i+1}: ${formatCity(s.from)} → ${formatCity(s.to)}
+  ${s.type} (${zoneInfo.name})
+  `;
+
 
       if (zoneInfo.image){
-        out += `<img src="${zoneInfo.image}" style="width:300px">\n`;
+        out += `<br><img src="${zoneInfo.image}" style="width:300px"><br>`;
       }
+
+
+      // Only for LOKAL tickets
+      if (s.type === "LOKAL") {
+
+    out += `
+    <div class="ticket-box">
+
+    <input 
+      type="date"
+      id="ticketDate_${i}"
+      value="${new Date().toISOString().substring(0,10)}"
+    >
+
+    <input
+      type="time"
+      id="ticketTime_${i}"
+    >
+
+    <button onclick="buyLocalTicket(
+      '${zoneInfo.name}',
+      ${i}
+    )">
+    Ticket kaufen
+    </button>
+
+    </div>
+    `;
+      }
+
+      out += "<br>";
+
     });
+
   }
 
   console.log(formatCity("dornbirn"))
@@ -258,6 +317,39 @@ function parseZone(type, zone){
 
 setupAutocomplete("start", "startSug");
 setupAutocomplete("ziel", "zielSug");
+
+function buyLocalTicket(from, index){
+
+    const date =
+        document.getElementById(
+            "ticketDate_" + index
+        ).value;
+
+
+    const time =
+        document.getElementById(
+            "ticketTime_" + index
+        ).value;
+
+
+    if(!date || !time){
+        alert("Bitte Datum und Uhrzeit auswählen");
+        return;
+    }
+
+
+    const url =
+        "tickets/ticket.html?" +
+        "date=" + encodeURIComponent(date) +
+        "&place=" + encodeURIComponent(from) +
+        "&time=" + encodeURIComponent(time);
+
+
+    window.open(
+        url,
+        "_blank"
+    );
+}
 
 </script>
 

@@ -1,0 +1,2487 @@
+[
+  {
+    "stop_name":"Sulzberg Gemeindehaus",
+    "departure":"2026-07-17T05:40:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"05:41:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T05:41:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"05:42:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T05:42:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"05:43:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T05:43:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"05:44:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T05:44:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"05:45:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T05:45:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"05:46:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T05:46:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"05:47:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T05:47:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"05:48:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T05:48:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"05:49:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T05:49:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"05:50:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T05:50:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fahl",
+    "arrival_time_next":"05:52:00"
+  },
+  {
+    "stop_name":"Sulzberg Fahl",
+    "departure":"2026-07-17T05:56:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"05:57:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T05:57:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"05:58:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T05:58:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"05:59:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T05:59:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"06:00:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T06:00:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"06:01:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T06:01:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"06:02:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T06:02:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"06:03:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T06:03:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"06:04:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T06:04:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"06:05:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T06:05:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"06:06:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T06:06:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Gemeindehaus",
+    "arrival_time_next":"06:08:00"
+  },
+  {
+    "stop_name":"Sulzberg Gemeindehaus",
+    "departure":"2026-07-17T06:25:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"06:26:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T06:26:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"06:27:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T06:27:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"06:28:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T06:28:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"06:29:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T06:29:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"06:30:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T06:30:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"06:31:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T06:31:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"06:32:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T06:32:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"06:33:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T06:33:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"06:34:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T06:34:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"06:35:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T06:35:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fahl",
+    "arrival_time_next":"06:37:00"
+  },
+  {
+    "stop_name":"Sulzberg Simlisgschwend",
+    "departure":"2026-07-17T06:35:00.000",
+    "line":"824",
+    "next_stop":"Sulzberg Holderegg",
+    "arrival_time_next":"06:36:00"
+  },
+  {
+    "stop_name":"Sulzberg Holderegg",
+    "departure":"2026-07-17T06:36:00.000",
+    "line":"824",
+    "next_stop":"Sulzberg Mühnen",
+    "arrival_time_next":"06:39:00"
+  },
+  {
+    "stop_name":"Sulzberg Fahl",
+    "departure":"2026-07-17T06:38:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"06:39:00"
+  },
+  {
+    "stop_name":"Sulzberg Mühnen",
+    "departure":"2026-07-17T06:39:00.000",
+    "line":"824",
+    "next_stop":"Sulzberg Wandfluh",
+    "arrival_time_next":"06:40:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T06:39:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"06:40:00"
+  },
+  {
+    "stop_name":"Sulzberg Wandfluh",
+    "departure":"2026-07-17T06:40:00.000",
+    "line":"824",
+    "next_stop":"Sulzberg Hermannshansen",
+    "arrival_time_next":"06:41:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T06:40:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"06:41:00"
+  },
+  {
+    "stop_name":"Sulzberg Hermannshansen",
+    "departure":"2026-07-17T06:41:00.000",
+    "line":"824",
+    "next_stop":"Sulzberg Unterhalden",
+    "arrival_time_next":"06:42:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T06:41:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"06:42:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T06:42:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"06:43:00"
+  },
+  {
+    "stop_name":"Sulzberg Unterhalden",
+    "departure":"2026-07-17T06:42:00.000",
+    "line":"824",
+    "next_stop":"Sulzberg Gullenbach",
+    "arrival_time_next":"06:44:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T06:43:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"06:44:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T06:44:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"06:45:00"
+  },
+  {
+    "stop_name":"Sulzberg Gullenbach",
+    "departure":"2026-07-17T06:44:00.000",
+    "line":"824",
+    "next_stop":"Sulzberg Hermannsberg",
+    "arrival_time_next":"06:46:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T06:45:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"06:46:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T06:46:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"06:47:00"
+  },
+  {
+    "stop_name":"Sulzberg Hermannsberg",
+    "departure":"2026-07-17T06:46:00.000",
+    "line":"824",
+    "next_stop":"Sulzberg Simlisgschwend",
+    "arrival_time_next":"06:48:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T06:47:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"06:48:00"
+  },
+  {
+    "stop_name":"Sulzberg Simlisgschwend",
+    "departure":"2026-07-17T06:48:00.000",
+    "line":"824",
+    "next_stop":"Sulzberg Schüssel",
+    "arrival_time_next":"06:50:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T06:48:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Gemeindehaus",
+    "arrival_time_next":"06:50:00"
+  },
+  {
+    "stop_name":"Sulzberg Schüssel",
+    "departure":"2026-07-17T06:50:00.000",
+    "line":"824",
+    "next_stop":"Sulzberg Brögen",
+    "arrival_time_next":"06:51:00"
+  },
+  {
+    "stop_name":"Sulzberg Brögen",
+    "departure":"2026-07-17T06:51:00.000",
+    "line":"824",
+    "next_stop":"Sulzberg Kreier",
+    "arrival_time_next":"06:52:00"
+  },
+  {
+    "stop_name":"Sulzberg Gemeindehaus",
+    "departure":"2026-07-17T06:56:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"06:57:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T06:57:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"06:58:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T06:58:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"06:59:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T06:59:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"07:00:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T07:00:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"07:01:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T07:01:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"07:02:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T07:02:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"07:03:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T07:03:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"07:04:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T07:04:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"07:05:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T07:05:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"07:06:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T07:06:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fahl",
+    "arrival_time_next":"07:08:00"
+  },
+  {
+    "stop_name":"Sulzberg Fahl",
+    "departure":"2026-07-17T07:15:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"07:16:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T07:16:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"07:17:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T07:17:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"07:18:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T07:18:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"07:19:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T07:19:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"07:20:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T07:20:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"07:21:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T07:21:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"07:22:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T07:22:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"07:23:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T07:23:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"07:24:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T07:24:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"07:25:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T07:25:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Gemeindehaus",
+    "arrival_time_next":"07:27:00"
+  },
+  {
+    "stop_name":"Sulzberg Gemeindehaus",
+    "departure":"2026-07-17T07:58:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"07:59:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T07:59:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"08:00:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T08:00:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"08:01:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T08:01:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"08:02:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T08:02:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"08:03:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T08:03:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"08:04:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T08:04:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"08:05:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T08:05:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"08:06:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T08:06:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"08:07:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T08:07:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"08:08:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T08:08:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fahl",
+    "arrival_time_next":"08:10:00"
+  },
+  {
+    "stop_name":"Sulzberg Fahl",
+    "departure":"2026-07-17T08:15:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"08:16:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T08:16:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"08:17:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T08:17:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"08:18:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T08:18:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"08:19:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T08:19:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"08:20:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T08:20:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"08:21:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T08:21:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"08:22:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T08:22:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"08:23:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T08:23:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"08:24:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T08:24:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"08:25:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T08:25:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Gemeindehaus",
+    "arrival_time_next":"08:27:00"
+  },
+  {
+    "stop_name":"Sulzberg Gemeindehaus",
+    "departure":"2026-07-17T08:28:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"08:29:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T08:29:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"08:30:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T08:30:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"08:31:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T08:31:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"08:32:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T08:32:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"08:33:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T08:33:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"08:34:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T08:34:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"08:35:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T08:35:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"08:36:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T08:36:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"08:37:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T08:37:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"08:38:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T08:38:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fahl",
+    "arrival_time_next":"08:40:00"
+  },
+  {
+    "stop_name":"Sulzberg Fahl",
+    "departure":"2026-07-17T09:15:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"09:16:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T09:16:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"09:17:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T09:17:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"09:18:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T09:18:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"09:19:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T09:19:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"09:20:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T09:20:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"09:21:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T09:21:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"09:22:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T09:22:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"09:23:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T09:23:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"09:24:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T09:24:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"09:25:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T09:25:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Gemeindehaus",
+    "arrival_time_next":"09:27:00"
+  },
+  {
+    "stop_name":"Sulzberg Gemeindehaus",
+    "departure":"2026-07-17T09:28:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"09:29:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T09:29:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"09:30:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T09:30:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"09:31:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T09:31:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"09:32:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T09:32:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"09:33:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T09:33:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"09:34:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T09:34:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"09:35:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T09:35:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"09:36:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T09:36:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"09:37:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T09:37:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"09:38:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T09:38:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fahl",
+    "arrival_time_next":"09:40:00"
+  },
+  {
+    "stop_name":"Sulzberg Fahl",
+    "departure":"2026-07-17T10:15:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"10:16:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T10:16:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"10:17:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T10:17:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"10:18:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T10:18:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"10:19:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T10:19:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"10:20:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T10:20:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"10:21:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T10:21:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"10:22:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T10:22:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"10:23:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T10:23:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"10:24:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T10:24:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"10:25:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T10:25:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Gemeindehaus",
+    "arrival_time_next":"10:27:00"
+  },
+  {
+    "stop_name":"Sulzberg Gemeindehaus",
+    "departure":"2026-07-17T10:28:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"10:29:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T10:29:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"10:30:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T10:30:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"10:31:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T10:31:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"10:32:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T10:32:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"10:33:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T10:33:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"10:34:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T10:34:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"10:35:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T10:35:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"10:36:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T10:36:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"10:37:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T10:37:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"10:38:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T10:38:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fahl",
+    "arrival_time_next":"10:40:00"
+  },
+  {
+    "stop_name":"Sulzberg Fahl",
+    "departure":"2026-07-17T11:15:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"11:16:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T11:16:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"11:17:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T11:17:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"11:18:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T11:18:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"11:19:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T11:19:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"11:20:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T11:20:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"11:21:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T11:21:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"11:22:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T11:22:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"11:23:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T11:23:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"11:24:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T11:24:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"11:25:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T11:25:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Gemeindehaus",
+    "arrival_time_next":"11:27:00"
+  },
+  {
+    "stop_name":"Sulzberg Gemeindehaus",
+    "departure":"2026-07-17T11:28:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"11:29:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T11:29:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"11:30:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T11:30:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"11:31:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T11:31:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"11:32:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T11:32:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"11:33:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T11:33:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"11:34:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T11:34:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"11:35:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T11:35:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"11:36:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T11:36:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"11:37:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T11:37:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"11:38:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T11:38:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fahl",
+    "arrival_time_next":"11:40:00"
+  },
+  {
+    "stop_name":"Sulzberg Fahl",
+    "departure":"2026-07-17T12:15:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"12:16:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T12:16:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"12:17:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T12:17:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"12:18:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T12:18:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"12:19:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T12:19:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"12:20:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T12:20:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"12:21:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T12:21:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"12:22:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T12:22:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"12:23:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T12:23:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"12:24:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T12:24:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"12:25:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T12:25:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Gemeindehaus",
+    "arrival_time_next":"12:27:00"
+  },
+  {
+    "stop_name":"Sulzberg Gemeindehaus",
+    "departure":"2026-07-17T12:28:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"12:29:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T12:29:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"12:30:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T12:30:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"12:31:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T12:31:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"12:32:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T12:32:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"12:33:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T12:33:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"12:34:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T12:34:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"12:35:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T12:35:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"12:36:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T12:36:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"12:37:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T12:37:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"12:38:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T12:38:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fahl",
+    "arrival_time_next":"12:40:00"
+  },
+  {
+    "stop_name":"Sulzberg Fahl",
+    "departure":"2026-07-17T13:15:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"13:16:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T13:16:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"13:17:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T13:17:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"13:18:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T13:18:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"13:19:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T13:19:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"13:20:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T13:20:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"13:21:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T13:21:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"13:22:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T13:22:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"13:23:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T13:23:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"13:24:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T13:24:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"13:25:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T13:25:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Gemeindehaus",
+    "arrival_time_next":"13:27:00"
+  },
+  {
+    "stop_name":"Sulzberg Gemeindehaus",
+    "departure":"2026-07-17T13:28:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"13:29:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T13:29:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"13:30:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T13:30:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"13:31:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T13:31:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"13:32:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T13:32:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"13:33:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T13:33:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"13:34:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T13:34:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"13:35:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T13:35:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"13:36:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T13:36:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"13:37:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T13:37:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"13:38:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T13:38:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fahl",
+    "arrival_time_next":"13:40:00"
+  },
+  {
+    "stop_name":"Sulzberg Fahl",
+    "departure":"2026-07-17T14:15:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"14:16:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T14:16:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"14:17:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T14:17:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"14:18:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T14:18:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"14:19:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T14:19:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"14:20:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T14:20:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"14:21:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T14:21:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"14:22:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T14:22:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"14:23:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T14:23:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"14:24:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T14:24:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"14:25:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T14:25:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Gemeindehaus",
+    "arrival_time_next":"14:27:00"
+  },
+  {
+    "stop_name":"Sulzberg Gemeindehaus",
+    "departure":"2026-07-17T14:28:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"14:29:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T14:29:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"14:30:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T14:30:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"14:31:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T14:31:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"14:32:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T14:32:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"14:33:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T14:33:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"14:34:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T14:34:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"14:35:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T14:35:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"14:36:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T14:36:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"14:37:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T14:37:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"14:38:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T14:38:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fahl",
+    "arrival_time_next":"14:40:00"
+  },
+  {
+    "stop_name":"Sulzberg Fahl",
+    "departure":"2026-07-17T15:15:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"15:16:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T15:16:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"15:17:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T15:17:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"15:18:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T15:18:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"15:19:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T15:19:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"15:20:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T15:20:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"15:21:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T15:21:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"15:22:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T15:22:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"15:23:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T15:23:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"15:24:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T15:24:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"15:25:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T15:25:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Gemeindehaus",
+    "arrival_time_next":"15:27:00"
+  },
+  {
+    "stop_name":"Sulzberg Gemeindehaus",
+    "departure":"2026-07-17T15:28:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"15:29:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T15:29:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"15:30:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T15:30:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"15:31:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T15:31:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"15:32:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T15:32:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"15:33:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T15:33:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"15:34:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T15:34:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"15:35:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T15:35:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"15:36:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T15:36:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"15:37:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T15:37:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"15:38:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T15:38:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fahl",
+    "arrival_time_next":"15:40:00"
+  },
+  {
+    "stop_name":"Sulzberg Fahl",
+    "departure":"2026-07-17T16:15:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"16:16:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T16:16:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"16:17:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T16:17:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"16:18:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T16:18:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"16:19:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T16:19:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"16:20:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T16:20:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"16:21:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T16:21:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"16:22:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T16:22:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"16:23:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T16:23:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"16:24:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T16:24:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"16:25:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T16:25:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Gemeindehaus",
+    "arrival_time_next":"16:27:00"
+  },
+  {
+    "stop_name":"Sulzberg Gemeindehaus",
+    "departure":"2026-07-17T16:28:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"16:29:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T16:29:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"16:30:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T16:30:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"16:31:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T16:31:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"16:32:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T16:32:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"16:33:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T16:33:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"16:34:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T16:34:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"16:35:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T16:35:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"16:36:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T16:36:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"16:37:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T16:37:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"16:38:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T16:38:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fahl",
+    "arrival_time_next":"16:40:00"
+  },
+  {
+    "stop_name":"Sulzberg Fahl",
+    "departure":"2026-07-17T16:49:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"16:50:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T16:50:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"16:51:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T16:51:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"16:52:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T16:52:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"16:53:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T16:53:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"16:54:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T16:54:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"16:55:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T16:55:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"16:56:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T16:56:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"16:57:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T16:57:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"16:58:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T16:58:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"16:59:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T16:59:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Gemeindehaus",
+    "arrival_time_next":"17:01:00"
+  },
+  {
+    "stop_name":"Sulzberg Gemeindehaus",
+    "departure":"2026-07-17T17:28:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"17:29:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T17:29:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"17:30:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T17:30:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"17:31:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T17:31:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"17:32:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T17:32:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"17:33:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T17:33:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"17:34:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T17:34:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"17:35:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T17:35:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"17:36:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T17:36:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"17:37:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T17:37:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"17:38:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T17:38:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fahl",
+    "arrival_time_next":"17:40:00"
+  },
+  {
+    "stop_name":"Sulzberg Fahl",
+    "departure":"2026-07-17T17:49:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"17:50:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T17:50:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"17:51:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T17:51:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"17:52:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T17:52:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"17:53:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T17:53:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"17:54:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T17:54:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"17:55:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T17:55:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"17:56:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T17:56:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"17:57:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T17:57:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"17:58:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T17:58:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"17:59:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T17:59:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Gemeindehaus",
+    "arrival_time_next":"18:01:00"
+  },
+  {
+    "stop_name":"Sulzberg Gemeindehaus",
+    "departure":"2026-07-17T18:28:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"18:29:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T18:29:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"18:30:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T18:30:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"18:31:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T18:31:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"18:32:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T18:32:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"18:33:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T18:33:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"18:34:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T18:34:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"18:35:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T18:35:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"18:36:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T18:36:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"18:37:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T18:37:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"18:38:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T18:38:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fahl",
+    "arrival_time_next":"18:40:00"
+  },
+  {
+    "stop_name":"Sulzberg Fahl",
+    "departure":"2026-07-17T18:49:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"18:50:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T18:50:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"18:51:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T18:51:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"18:52:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T18:52:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"18:53:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T18:53:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"18:54:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T18:54:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"18:55:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T18:55:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"18:56:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T18:56:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"18:57:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T18:57:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"18:58:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T18:58:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"18:59:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T18:59:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Gemeindehaus",
+    "arrival_time_next":"19:01:00"
+  },
+  {
+    "stop_name":"Sulzberg Gemeindehaus",
+    "departure":"2026-07-17T19:01:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"19:02:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T19:02:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Altersheim",
+    "arrival_time_next":"19:03:00"
+  },
+  {
+    "stop_name":"Sulzberg Altersheim",
+    "departure":"2026-07-17T19:03:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Weissenhalden",
+    "arrival_time_next":"19:04:00"
+  },
+  {
+    "stop_name":"Sulzberg Fahl",
+    "departure":"2026-07-17T19:17:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Fötschern",
+    "arrival_time_next":"19:18:00"
+  },
+  {
+    "stop_name":"Sulzberg Fötschern",
+    "departure":"2026-07-17T19:18:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eschau",
+    "arrival_time_next":"19:19:00"
+  },
+  {
+    "stop_name":"Sulzberg Eschau",
+    "departure":"2026-07-17T19:19:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hompmann",
+    "arrival_time_next":"19:20:00"
+  },
+  {
+    "stop_name":"Sulzberg Hompmann",
+    "departure":"2026-07-17T19:20:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Schönenbühl",
+    "arrival_time_next":"19:21:00"
+  },
+  {
+    "stop_name":"Sulzberg Schönenbühl",
+    "departure":"2026-07-17T19:21:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Bühl",
+    "arrival_time_next":"19:22:00"
+  },
+  {
+    "stop_name":"Sulzberg Bühl",
+    "departure":"2026-07-17T19:22:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Hinterberg",
+    "arrival_time_next":"19:23:00"
+  },
+  {
+    "stop_name":"Sulzberg Hinterberg",
+    "departure":"2026-07-17T19:23:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Eientobel",
+    "arrival_time_next":"19:24:00"
+  },
+  {
+    "stop_name":"Sulzberg Eientobel",
+    "departure":"2026-07-17T19:24:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Brucktobel",
+    "arrival_time_next":"19:25:00"
+  },
+  {
+    "stop_name":"Sulzberg Brucktobel",
+    "departure":"2026-07-17T19:25:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Badhaus",
+    "arrival_time_next":"19:26:00"
+  },
+  {
+    "stop_name":"Sulzberg Badhaus",
+    "departure":"2026-07-17T19:26:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Dorfplatz",
+    "arrival_time_next":"19:27:00"
+  },
+  {
+    "stop_name":"Sulzberg Dorfplatz",
+    "departure":"2026-07-17T19:27:00.000",
+    "line":"823",
+    "next_stop":"Sulzberg Gemeindehaus",
+    "arrival_time_next":"19:29:00"
+  }
+]

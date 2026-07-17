@@ -1,0 +1,5252 @@
+[
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T05:04:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"05:06:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T05:06:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"05:07:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T05:15:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"05:16:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T05:16:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"05:18:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T05:58:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"05:59:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T05:59:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"06:00:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T06:00:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"06:01:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T06:01:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"06:02:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T06:07:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"06:10:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T06:08:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"06:09:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T06:10:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"06:11:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T06:11:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"06:12:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T06:15:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"06:16:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T06:16:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"06:18:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T06:24:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"06:26:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T06:26:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"06:27:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T06:30:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"06:31:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T06:31:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"06:33:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T06:39:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"06:44:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T06:43:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"06:44:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T06:44:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"06:45:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T06:44:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"06:45:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T06:45:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"06:46:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T06:45:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"06:46:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T06:46:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"06:47:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T06:46:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"06:47:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T06:47:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"06:48:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T06:49:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"06:51:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T06:51:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"06:52:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T06:52:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"06:53:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T06:53:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"06:55:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T07:02:00.000",
+    "line":"535",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"07:04:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T07:04:00.000",
+    "line":"535",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"07:05:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T07:15:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"07:16:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T07:15:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"07:16:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T07:16:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"07:17:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T07:16:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"07:18:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T07:17:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"07:18:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T07:18:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"07:19:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T07:24:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"07:26:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T07:26:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"07:27:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T07:27:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"07:28:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T07:28:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"07:29:00"
+  },
+  {
+    "stop_name":"Nenzing Heimat Augarten",
+    "departure":"2026-07-17T07:28:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Walgaukraftwerk",
+    "arrival_time_next":"07:31:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T07:29:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"07:30:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T07:30:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"07:31:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T07:31:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"07:32:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T07:32:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"07:33:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T07:33:00.000",
+    "line":"531",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"07:35:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T07:33:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"07:37:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T07:35:00.000",
+    "line":"531",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"07:36:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T07:36:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"07:37:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T07:37:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"07:39:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T07:39:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"07:41:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T07:45:00.000",
+    "line":"535",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"07:46:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T07:46:00.000",
+    "line":"535",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"07:47:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T07:55:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"07:56:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T07:56:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"07:57:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T07:56:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"07:57:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T07:57:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"07:58:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T07:57:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"07:59:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T07:58:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"07:59:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T07:58:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"07:59:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T07:59:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"08:00:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T07:59:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"08:00:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T07:59:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"08:01:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T07:59:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"08:01:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T08:00:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"08:01:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T08:00:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Kindergarten\/Sen.heim",
+    "arrival_time_next":"08:01:00"
+  },
+  {
+    "stop_name":"Nenzing Kindergarten\/Sen.heim",
+    "departure":"2026-07-17T08:01:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Gemeindeamt",
+    "arrival_time_next":"08:03:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T08:01:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"08:02:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T08:01:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"08:02:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T08:02:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"08:04:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T08:04:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"08:05:00"
+  },
+  {
+    "stop_name":"Nenzing Campingplatz",
+    "departure":"2026-07-17T08:05:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bazul",
+    "arrival_time_next":"08:07:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T08:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"08:05:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T08:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"08:05:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T08:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"08:06:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T08:06:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"08:10:00"
+  },
+  {
+    "stop_name":"Nenzing Bazul",
+    "departure":"2026-07-17T08:07:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Burgweg",
+    "arrival_time_next":"08:09:00"
+  },
+  {
+    "stop_name":"Nenzing Burgweg",
+    "departure":"2026-07-17T08:09:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Gemeindeamt",
+    "arrival_time_next":"08:13:00"
+  },
+  {
+    "stop_name":"Nenzing Gemeindeamt",
+    "departure":"2026-07-17T08:13:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Kindergarten\/Sen.heim",
+    "arrival_time_next":"08:14:00"
+  },
+  {
+    "stop_name":"Nenzing Kindergarten\/Sen.heim",
+    "departure":"2026-07-17T08:14:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"08:15:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T08:15:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"08:16:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T08:16:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"08:17:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T08:17:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"08:18:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T08:18:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"08:19:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T08:18:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"08:19:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T08:19:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"08:20:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T08:19:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"08:20:00"
+  },
+  {
+    "stop_name":"Nenzing Heimat Augarten",
+    "departure":"2026-07-17T08:21:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Walgaukraftwerk",
+    "arrival_time_next":"08:24:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T08:25:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"08:26:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T08:26:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"08:27:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T08:26:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"08:28:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T08:27:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"08:28:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T08:28:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"08:29:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T08:29:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"08:30:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T08:29:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"08:30:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T08:30:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"08:32:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T08:30:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"08:31:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T08:32:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"08:34:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T08:36:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"08:37:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T08:37:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"08:38:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T08:47:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"08:51:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T08:48:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"08:49:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T08:49:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"08:50:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T08:51:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"08:52:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T08:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"08:52:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T08:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"08:53:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T08:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"08:52:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T08:53:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"08:54:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T08:54:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"08:56:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T08:56:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"08:57:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T08:56:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"08:57:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T08:57:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"08:58:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T08:57:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"08:59:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T08:58:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"08:59:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T08:59:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"09:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T08:59:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"09:00:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T09:00:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"09:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T09:01:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"09:02:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T09:02:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"09:04:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T09:04:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"09:05:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T09:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"09:05:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T09:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"09:05:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T09:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"09:06:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T09:06:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"09:07:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T09:06:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"09:10:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T09:07:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"09:08:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T09:18:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"09:19:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T09:19:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"09:20:00"
+  },
+  {
+    "stop_name":"Nenzing Heimat Augarten",
+    "departure":"2026-07-17T09:21:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Walgaukraftwerk",
+    "arrival_time_next":"09:24:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T09:25:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"09:26:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T09:26:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"09:27:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T09:26:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"09:28:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T09:27:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"09:28:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T09:28:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"09:29:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T09:29:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"09:30:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T09:29:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"09:30:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T09:30:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"09:31:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T09:30:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"09:32:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T09:32:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"09:34:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T09:36:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"09:37:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T09:37:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"09:38:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T09:47:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"09:51:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T09:48:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"09:49:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T09:48:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"09:49:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T09:49:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"09:50:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T09:49:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"09:50:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T09:50:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"09:51:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T09:51:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"09:52:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T09:51:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"09:52:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T09:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"09:53:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T09:52:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"09:53:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T09:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"09:52:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T09:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"09:52:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T09:53:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"09:54:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T09:53:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Kindergarten\/Sen.heim",
+    "arrival_time_next":"09:54:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T09:54:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"09:56:00"
+  },
+  {
+    "stop_name":"Nenzing Kindergarten\/Sen.heim",
+    "departure":"2026-07-17T09:54:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Gemeindeamt",
+    "arrival_time_next":"09:56:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T09:56:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"09:57:00"
+  },
+  {
+    "stop_name":"Nenzing Gemeindeamt",
+    "departure":"2026-07-17T09:56:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Burgweg",
+    "arrival_time_next":"09:58:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T09:56:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"09:57:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T09:57:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"09:59:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T09:57:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"09:58:00"
+  },
+  {
+    "stop_name":"Nenzing Burgweg",
+    "departure":"2026-07-17T09:58:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bazul",
+    "arrival_time_next":"10:00:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T09:58:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"09:59:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T09:59:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"10:00:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T09:59:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"10:01:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T10:00:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"10:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bazul",
+    "departure":"2026-07-17T10:00:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Campingplatz",
+    "arrival_time_next":"10:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T10:01:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"10:02:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T10:02:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"10:04:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T10:04:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"10:05:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T10:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"10:06:00"
+  },
+  {
+    "stop_name":"Nenzing Campingplatz",
+    "departure":"2026-07-17T10:05:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bazul",
+    "arrival_time_next":"10:07:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T10:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"10:05:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T10:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"10:05:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T10:06:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"10:10:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T10:06:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"10:07:00"
+  },
+  {
+    "stop_name":"Nenzing Bazul",
+    "departure":"2026-07-17T10:07:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Burgweg",
+    "arrival_time_next":"10:09:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T10:07:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"10:08:00"
+  },
+  {
+    "stop_name":"Nenzing Burgweg",
+    "departure":"2026-07-17T10:09:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Gemeindeamt",
+    "arrival_time_next":"10:13:00"
+  },
+  {
+    "stop_name":"Nenzing Gemeindeamt",
+    "departure":"2026-07-17T10:13:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Kindergarten\/Sen.heim",
+    "arrival_time_next":"10:14:00"
+  },
+  {
+    "stop_name":"Nenzing Kindergarten\/Sen.heim",
+    "departure":"2026-07-17T10:14:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"10:15:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T10:15:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"10:16:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T10:16:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"10:17:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T10:17:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"10:18:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T10:18:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"10:19:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T10:18:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"10:19:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T10:19:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"10:20:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T10:19:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"10:20:00"
+  },
+  {
+    "stop_name":"Nenzing Heimat Augarten",
+    "departure":"2026-07-17T10:21:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Walgaukraftwerk",
+    "arrival_time_next":"10:24:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T10:25:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"10:26:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T10:26:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"10:27:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T10:26:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"10:28:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T10:27:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"10:28:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T10:28:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"10:29:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T10:29:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"10:30:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T10:29:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"10:30:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T10:30:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"10:32:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T10:30:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"10:31:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T10:32:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"10:34:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T10:36:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"10:37:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T10:37:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"10:38:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T10:47:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"10:51:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T10:48:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"10:49:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T10:49:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"10:50:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T10:51:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"10:52:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T10:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"10:52:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T10:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"10:52:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T10:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"10:53:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T10:53:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"10:54:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T10:54:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"10:56:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T10:56:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"10:57:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T10:56:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"10:57:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T10:57:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"10:59:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T10:57:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"10:58:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T10:58:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"10:59:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T10:59:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"11:00:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T10:59:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"11:01:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T11:00:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"11:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T11:01:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"11:02:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T11:02:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"11:04:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T11:04:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"11:05:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T11:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"11:06:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T11:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"11:05:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T11:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"11:05:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T11:06:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"11:07:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T11:06:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"11:10:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T11:07:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"11:08:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T11:18:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"11:19:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T11:19:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"11:20:00"
+  },
+  {
+    "stop_name":"Nenzing Heimat Augarten",
+    "departure":"2026-07-17T11:21:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Walgaukraftwerk",
+    "arrival_time_next":"11:24:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T11:25:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"11:26:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T11:26:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"11:28:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T11:26:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"11:27:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T11:27:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"11:28:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T11:28:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"11:29:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T11:29:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"11:30:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T11:29:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"11:30:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T11:30:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"11:31:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T11:30:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"11:32:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T11:32:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"11:34:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T11:36:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"11:37:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T11:37:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"11:38:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T11:47:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"11:51:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T11:48:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"11:49:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T11:48:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"11:49:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T11:49:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"11:50:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T11:49:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"11:50:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T11:50:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"11:51:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T11:51:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"11:52:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T11:51:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"11:52:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T11:52:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"11:53:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T11:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"11:53:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T11:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"11:52:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T11:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"11:52:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T11:53:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"11:54:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T11:53:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Kindergarten\/Sen.heim",
+    "arrival_time_next":"11:54:00"
+  },
+  {
+    "stop_name":"Nenzing Kindergarten\/Sen.heim",
+    "departure":"2026-07-17T11:54:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Gemeindeamt",
+    "arrival_time_next":"11:56:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T11:54:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"11:56:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T11:56:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"11:57:00"
+  },
+  {
+    "stop_name":"Nenzing Gemeindeamt",
+    "departure":"2026-07-17T11:56:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Burgweg",
+    "arrival_time_next":"11:58:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T11:56:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"11:57:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T11:57:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"11:59:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T11:57:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"11:58:00"
+  },
+  {
+    "stop_name":"Nenzing Burgweg",
+    "departure":"2026-07-17T11:58:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bazul",
+    "arrival_time_next":"12:00:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T11:58:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"11:59:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T11:59:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"12:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T11:59:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"12:00:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T12:00:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"12:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bazul",
+    "departure":"2026-07-17T12:00:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Campingplatz",
+    "arrival_time_next":"12:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T12:01:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"12:02:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T12:02:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"12:04:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T12:04:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"12:05:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T12:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"12:05:00"
+  },
+  {
+    "stop_name":"Nenzing Campingplatz",
+    "departure":"2026-07-17T12:05:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bazul",
+    "arrival_time_next":"12:07:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T12:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"12:06:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T12:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"12:05:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T12:06:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"12:07:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T12:06:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"12:10:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T12:07:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"12:08:00"
+  },
+  {
+    "stop_name":"Nenzing Bazul",
+    "departure":"2026-07-17T12:07:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Burgweg",
+    "arrival_time_next":"12:09:00"
+  },
+  {
+    "stop_name":"Nenzing Burgweg",
+    "departure":"2026-07-17T12:09:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Gemeindeamt",
+    "arrival_time_next":"12:13:00"
+  },
+  {
+    "stop_name":"Nenzing Gemeindeamt",
+    "departure":"2026-07-17T12:13:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Kindergarten\/Sen.heim",
+    "arrival_time_next":"12:14:00"
+  },
+  {
+    "stop_name":"Nenzing Kindergarten\/Sen.heim",
+    "departure":"2026-07-17T12:14:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"12:15:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T12:15:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"12:16:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T12:16:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"12:17:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T12:17:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"12:18:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T12:18:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"12:19:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T12:18:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"12:19:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T12:19:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"12:20:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T12:19:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"12:20:00"
+  },
+  {
+    "stop_name":"Nenzing Heimat Augarten",
+    "departure":"2026-07-17T12:21:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Walgaukraftwerk",
+    "arrival_time_next":"12:24:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T12:25:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"12:26:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T12:26:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"12:28:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T12:26:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"12:27:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T12:27:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"12:28:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T12:28:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"12:29:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T12:29:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"12:30:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T12:29:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"12:30:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T12:30:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"12:31:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T12:30:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"12:32:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T12:32:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"12:34:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T12:36:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"12:37:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T12:37:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"12:38:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T12:47:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"12:51:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T12:48:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"12:49:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T12:49:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"12:50:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T12:51:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"12:52:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T12:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"12:52:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T12:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"12:52:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T12:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"12:53:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T12:53:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"12:54:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T12:54:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"12:56:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T12:56:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"12:57:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T12:56:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"12:57:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T12:57:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"12:59:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T12:57:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"12:58:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T12:58:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"12:59:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T12:59:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"13:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T12:59:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"13:00:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T13:00:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"13:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T13:01:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"13:02:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T13:02:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"13:04:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T13:04:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"13:05:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T13:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"13:05:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T13:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"13:05:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T13:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"13:06:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T13:06:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"13:07:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T13:06:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"13:10:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T13:07:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"13:08:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T13:16:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"13:17:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T13:17:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"13:18:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T13:18:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"13:19:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T13:18:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"13:19:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T13:19:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"13:20:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T13:19:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"13:20:00"
+  },
+  {
+    "stop_name":"Nenzing Heimat Augarten",
+    "departure":"2026-07-17T13:21:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Walgaukraftwerk",
+    "arrival_time_next":"13:24:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T13:25:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"13:26:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T13:26:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"13:28:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T13:26:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"13:27:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T13:27:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"13:28:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T13:28:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"13:29:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T13:29:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"13:30:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T13:29:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"13:30:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T13:30:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"13:31:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T13:30:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"13:32:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T13:32:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"13:34:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T13:36:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"13:37:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T13:37:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"13:38:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T13:47:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"13:51:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T13:48:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"13:49:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T13:48:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"13:49:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T13:49:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"13:50:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T13:49:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"13:50:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T13:50:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"13:51:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T13:51:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"13:52:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T13:51:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"13:52:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T13:52:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"13:53:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T13:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"13:53:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T13:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"13:52:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T13:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"13:52:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T13:53:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Kindergarten\/Sen.heim",
+    "arrival_time_next":"13:54:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T13:53:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"13:54:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T13:54:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"13:56:00"
+  },
+  {
+    "stop_name":"Nenzing Kindergarten\/Sen.heim",
+    "departure":"2026-07-17T13:54:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Gemeindeamt",
+    "arrival_time_next":"13:56:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T13:56:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"13:57:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T13:56:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"13:57:00"
+  },
+  {
+    "stop_name":"Nenzing Gemeindeamt",
+    "departure":"2026-07-17T13:56:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Burgweg",
+    "arrival_time_next":"13:58:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T13:57:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"13:59:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T13:57:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"13:58:00"
+  },
+  {
+    "stop_name":"Nenzing Burgweg",
+    "departure":"2026-07-17T13:58:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bazul",
+    "arrival_time_next":"14:00:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T13:58:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"13:59:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T13:59:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"14:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T13:59:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"14:00:00"
+  },
+  {
+    "stop_name":"Nenzing Bazul",
+    "departure":"2026-07-17T14:00:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Campingplatz",
+    "arrival_time_next":"14:01:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T14:00:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"14:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T14:01:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"14:02:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T14:02:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"14:04:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T14:04:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"14:05:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T14:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"14:05:00"
+  },
+  {
+    "stop_name":"Nenzing Campingplatz",
+    "departure":"2026-07-17T14:05:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bazul",
+    "arrival_time_next":"14:07:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T14:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"14:06:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T14:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"14:05:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T14:06:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"14:07:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T14:06:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"14:10:00"
+  },
+  {
+    "stop_name":"Nenzing Bazul",
+    "departure":"2026-07-17T14:07:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Burgweg",
+    "arrival_time_next":"14:09:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T14:07:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"14:08:00"
+  },
+  {
+    "stop_name":"Nenzing Burgweg",
+    "departure":"2026-07-17T14:09:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Gemeindeamt",
+    "arrival_time_next":"14:13:00"
+  },
+  {
+    "stop_name":"Nenzing Gemeindeamt",
+    "departure":"2026-07-17T14:13:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Kindergarten\/Sen.heim",
+    "arrival_time_next":"14:14:00"
+  },
+  {
+    "stop_name":"Nenzing Kindergarten\/Sen.heim",
+    "departure":"2026-07-17T14:14:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"14:15:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T14:15:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"14:16:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T14:16:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"14:17:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T14:17:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"14:18:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T14:18:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"14:19:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T14:18:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"14:19:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T14:19:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"14:20:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T14:19:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"14:20:00"
+  },
+  {
+    "stop_name":"Nenzing Heimat Augarten",
+    "departure":"2026-07-17T14:21:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Walgaukraftwerk",
+    "arrival_time_next":"14:24:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T14:25:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"14:26:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T14:26:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"14:28:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T14:26:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"14:27:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T14:27:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"14:28:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T14:28:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"14:29:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T14:29:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"14:30:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T14:29:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"14:30:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T14:30:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"14:31:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T14:30:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"14:32:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T14:32:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"14:34:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T14:36:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"14:37:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T14:37:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"14:38:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T14:45:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"14:46:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T14:46:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"14:47:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T14:47:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"14:48:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T14:47:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"14:51:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T14:48:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"14:49:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T14:48:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"14:49:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T14:49:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"14:50:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T14:51:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"14:52:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T14:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"14:52:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T14:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"14:53:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T14:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"14:52:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T14:53:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"14:54:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T14:54:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"14:56:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T14:56:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"14:57:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T14:56:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"14:57:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T14:57:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"14:58:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T14:57:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"14:59:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T14:58:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"14:59:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T14:59:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"15:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T14:59:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"15:00:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T15:00:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"15:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T15:01:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"15:02:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T15:02:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"15:04:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T15:04:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"15:05:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T15:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"15:05:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T15:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"15:05:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T15:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"15:06:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T15:06:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"15:10:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T15:06:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"15:07:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T15:07:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"15:08:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T15:18:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"15:19:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T15:19:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"15:20:00"
+  },
+  {
+    "stop_name":"Nenzing Heimat Augarten",
+    "departure":"2026-07-17T15:21:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Walgaukraftwerk",
+    "arrival_time_next":"15:24:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T15:25:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"15:26:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T15:26:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"15:28:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T15:26:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"15:27:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T15:27:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"15:28:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T15:28:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"15:29:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T15:29:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"15:30:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T15:29:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"15:30:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T15:30:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"15:31:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T15:30:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"15:32:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T15:32:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"15:34:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T15:36:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"15:37:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T15:37:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"15:38:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T15:47:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"15:51:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T15:48:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"15:49:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T15:48:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"15:49:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T15:49:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"15:50:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T15:49:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"15:50:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T15:50:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"15:51:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T15:51:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"15:52:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T15:51:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"15:52:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T15:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"15:52:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T15:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"15:53:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T15:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"15:52:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T15:52:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"15:53:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T15:53:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"15:54:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T15:53:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Kindergarten\/Sen.heim",
+    "arrival_time_next":"15:54:00"
+  },
+  {
+    "stop_name":"Nenzing Kindergarten\/Sen.heim",
+    "departure":"2026-07-17T15:54:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Gemeindeamt",
+    "arrival_time_next":"15:56:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T15:54:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"15:56:00"
+  },
+  {
+    "stop_name":"Nenzing Gemeindeamt",
+    "departure":"2026-07-17T15:56:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Burgweg",
+    "arrival_time_next":"15:58:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T15:56:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"15:57:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T15:56:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"15:57:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T15:57:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"15:59:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T15:57:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"15:58:00"
+  },
+  {
+    "stop_name":"Nenzing Burgweg",
+    "departure":"2026-07-17T15:58:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bazul",
+    "arrival_time_next":"16:00:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T15:58:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"15:59:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T15:59:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"16:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T15:59:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"16:00:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T16:00:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"16:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bazul",
+    "departure":"2026-07-17T16:00:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Campingplatz",
+    "arrival_time_next":"16:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T16:01:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"16:02:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T16:02:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"16:04:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T16:04:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"16:05:00"
+  },
+  {
+    "stop_name":"Nenzing Campingplatz",
+    "departure":"2026-07-17T16:05:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bazul",
+    "arrival_time_next":"16:07:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T16:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"16:05:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T16:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"16:05:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T16:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"16:06:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T16:06:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"16:07:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T16:06:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"16:10:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T16:07:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"16:08:00"
+  },
+  {
+    "stop_name":"Nenzing Bazul",
+    "departure":"2026-07-17T16:07:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Burgweg",
+    "arrival_time_next":"16:09:00"
+  },
+  {
+    "stop_name":"Nenzing Burgweg",
+    "departure":"2026-07-17T16:09:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Gemeindeamt",
+    "arrival_time_next":"16:13:00"
+  },
+  {
+    "stop_name":"Nenzing Gemeindeamt",
+    "departure":"2026-07-17T16:13:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Kindergarten\/Sen.heim",
+    "arrival_time_next":"16:14:00"
+  },
+  {
+    "stop_name":"Nenzing Kindergarten\/Sen.heim",
+    "departure":"2026-07-17T16:14:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"16:15:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T16:15:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"16:16:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T16:16:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"16:17:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T16:17:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"16:18:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T16:18:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"16:19:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T16:18:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"16:19:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T16:19:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"16:20:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T16:19:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"16:20:00"
+  },
+  {
+    "stop_name":"Nenzing Heimat Augarten",
+    "departure":"2026-07-17T16:21:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Walgaukraftwerk",
+    "arrival_time_next":"16:24:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T16:25:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"16:26:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T16:26:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"16:28:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T16:26:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"16:27:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T16:27:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"16:28:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T16:28:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"16:29:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T16:29:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"16:30:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T16:29:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"16:30:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T16:30:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"16:32:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T16:30:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"16:31:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T16:32:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"16:34:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T16:36:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"16:37:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T16:37:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"16:38:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T16:40:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"16:41:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T16:41:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"16:42:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T16:47:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"16:51:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T16:48:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"16:49:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T16:49:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"16:50:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T16:51:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"16:52:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T16:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"16:52:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T16:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"16:53:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T16:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"16:52:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T16:53:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"16:54:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T16:54:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"16:56:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T16:56:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"16:57:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T16:56:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"16:57:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T16:57:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"16:59:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T16:57:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"16:58:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T16:58:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"16:59:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T16:58:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"16:59:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T16:59:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"17:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T16:59:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"17:00:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T17:00:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"17:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T17:01:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"17:02:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T17:02:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"17:04:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T17:04:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"17:05:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T17:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"17:05:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T17:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"17:05:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T17:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"17:06:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T17:06:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"17:07:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T17:06:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"17:10:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T17:07:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"17:08:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T17:18:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"17:19:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T17:19:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"17:20:00"
+  },
+  {
+    "stop_name":"Nenzing Heimat Augarten",
+    "departure":"2026-07-17T17:21:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Walgaukraftwerk",
+    "arrival_time_next":"17:24:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T17:22:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"17:23:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T17:23:00.000",
+    "line":"561",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"17:24:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T17:25:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"17:26:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T17:26:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"17:27:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T17:26:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"17:28:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T17:27:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"17:28:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T17:28:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"17:29:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T17:29:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"17:30:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T17:29:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"17:30:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T17:30:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"17:31:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T17:30:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"17:32:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T17:32:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"17:34:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T17:36:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"17:37:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T17:37:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"17:38:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T17:47:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"17:51:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T17:48:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"17:49:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T17:48:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"17:49:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T17:49:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"17:50:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T17:49:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"17:50:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T17:50:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"17:51:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T17:51:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"17:52:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T17:51:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"17:52:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T17:52:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"17:53:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T17:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"17:52:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T17:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"17:53:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T17:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"17:52:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T17:53:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Kindergarten\/Sen.heim",
+    "arrival_time_next":"17:54:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T17:53:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"17:54:00"
+  },
+  {
+    "stop_name":"Nenzing Kindergarten\/Sen.heim",
+    "departure":"2026-07-17T17:54:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Gemeindeamt",
+    "arrival_time_next":"17:56:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T17:54:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"17:56:00"
+  },
+  {
+    "stop_name":"Nenzing Gemeindeamt",
+    "departure":"2026-07-17T17:56:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Burgweg",
+    "arrival_time_next":"17:58:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T17:56:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"17:57:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T17:56:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"17:57:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T17:57:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"17:58:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T17:57:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"17:59:00"
+  },
+  {
+    "stop_name":"Nenzing Burgweg",
+    "departure":"2026-07-17T17:58:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bazul",
+    "arrival_time_next":"18:00:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T17:58:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"17:59:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T17:58:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"17:59:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T17:59:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"18:00:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T17:59:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"18:01:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T18:00:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"18:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bazul",
+    "departure":"2026-07-17T18:00:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Campingplatz",
+    "arrival_time_next":"18:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T18:01:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"18:02:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T18:02:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"18:04:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T18:04:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"18:05:00"
+  },
+  {
+    "stop_name":"Nenzing Campingplatz",
+    "departure":"2026-07-17T18:05:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bazul",
+    "arrival_time_next":"18:07:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T18:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"18:05:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T18:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"18:05:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T18:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"18:06:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T18:06:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"18:07:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T18:06:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"18:10:00"
+  },
+  {
+    "stop_name":"Nenzing Bazul",
+    "departure":"2026-07-17T18:07:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Burgweg",
+    "arrival_time_next":"18:09:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T18:07:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"18:08:00"
+  },
+  {
+    "stop_name":"Nenzing Burgweg",
+    "departure":"2026-07-17T18:09:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Gemeindeamt",
+    "arrival_time_next":"18:13:00"
+  },
+  {
+    "stop_name":"Nenzing Gemeindeamt",
+    "departure":"2026-07-17T18:13:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Kindergarten\/Sen.heim",
+    "arrival_time_next":"18:14:00"
+  },
+  {
+    "stop_name":"Nenzing Kindergarten\/Sen.heim",
+    "departure":"2026-07-17T18:14:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"18:15:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T18:15:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"18:16:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T18:16:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"18:17:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T18:17:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"18:18:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T18:18:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"18:19:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T18:18:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"18:19:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T18:19:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"18:20:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T18:19:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"18:20:00"
+  },
+  {
+    "stop_name":"Nenzing Heimat Augarten",
+    "departure":"2026-07-17T18:21:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Walgaukraftwerk",
+    "arrival_time_next":"18:24:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T18:25:00.000",
+    "line":"2",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"18:26:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T18:25:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"18:26:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T18:26:00.000",
+    "line":"2",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"18:27:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T18:26:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"18:28:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T18:26:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"18:27:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T18:27:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"18:28:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T18:28:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"18:29:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T18:29:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"18:30:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T18:29:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"18:30:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T18:30:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"18:31:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T18:30:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"18:32:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T18:32:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"18:34:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T18:36:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"18:37:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T18:37:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"18:38:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T18:47:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"18:51:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T18:48:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"18:49:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T18:49:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"18:50:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T18:51:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"18:52:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T18:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"18:53:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T18:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"18:52:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T18:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"18:52:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T18:53:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"18:54:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T18:54:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"18:56:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T18:55:00.000",
+    "line":"2",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"18:56:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T18:56:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"18:57:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T18:56:00.000",
+    "line":"2",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"18:57:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T18:56:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"18:57:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T18:57:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"18:58:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T18:57:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"18:59:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T18:58:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"18:59:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T18:59:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"19:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T18:59:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"19:00:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T19:00:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"19:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T19:01:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"19:02:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T19:02:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"19:04:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T19:04:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"19:05:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T19:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"19:05:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T19:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"19:05:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T19:05:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"19:06:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T19:06:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"19:07:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T19:06:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"19:10:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T19:07:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"19:08:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T19:08:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"19:09:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T19:09:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"19:10:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T19:10:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"19:11:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T19:11:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"19:12:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T19:16:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"19:17:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T19:17:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"19:18:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T19:18:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"19:19:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T19:18:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"19:19:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T19:19:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"19:20:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T19:19:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"19:20:00"
+  },
+  {
+    "stop_name":"Nenzing Heimat Augarten",
+    "departure":"2026-07-17T19:21:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Walgaukraftwerk",
+    "arrival_time_next":"19:24:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T19:25:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"19:26:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T19:25:00.000",
+    "line":"2",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"19:26:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T19:26:00.000",
+    "line":"2",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"19:27:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T19:26:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"19:27:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T19:26:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"19:28:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T19:27:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"19:28:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T19:28:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Mittelschule",
+    "arrival_time_next":"19:29:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T19:29:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"19:30:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T19:29:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"19:30:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T19:30:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"19:32:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T19:30:00.000",
+    "line":"566",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"19:31:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T19:32:00.000",
+    "line":"520",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"19:34:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T19:36:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"19:37:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T19:37:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"19:38:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T19:45:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"19:46:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T19:46:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"19:47:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T19:47:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"19:48:00"
+  },
+  {
+    "stop_name":"Nenzing Mittelschule",
+    "departure":"2026-07-17T19:47:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"19:51:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T19:48:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"19:49:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T19:49:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"19:50:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T19:50:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Schulstraße\/L190",
+    "arrival_time_next":"19:51:00"
+  },
+  {
+    "stop_name":"Nenzing Schulstraße\/L190",
+    "departure":"2026-07-17T19:51:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Burgweg",
+    "arrival_time_next":"19:55:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T19:51:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"19:52:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T19:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"19:53:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T19:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"19:52:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T19:52:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"19:52:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T19:53:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"19:54:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T19:54:00.000",
+    "line":"525",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"19:56:00"
+  },
+  {
+    "stop_name":"Nenzing Burgweg",
+    "departure":"2026-07-17T19:55:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bazul",
+    "arrival_time_next":"19:57:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T19:55:00.000",
+    "line":"2",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"19:56:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T19:56:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"19:57:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T19:56:00.000",
+    "line":"2",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"19:57:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T19:56:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"19:57:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T19:57:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"19:58:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T19:57:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"19:59:00"
+  },
+  {
+    "stop_name":"Nenzing Bazul",
+    "departure":"2026-07-17T19:57:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Campingplatz",
+    "arrival_time_next":"19:58:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T19:58:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"19:59:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T19:59:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"20:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T19:59:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"20:00:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T20:00:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"20:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T20:16:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"20:17:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T20:17:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"20:18:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T20:18:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"20:19:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T20:19:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Marmota",
+    "arrival_time_next":"20:20:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T20:25:00.000",
+    "line":"2",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"20:26:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T20:26:00.000",
+    "line":"2",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"20:27:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T20:45:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"20:46:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T20:46:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"20:47:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T20:47:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"20:48:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T20:48:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"20:49:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T20:55:00.000",
+    "line":"2",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"20:56:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T20:56:00.000",
+    "line":"2",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"20:57:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T20:56:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"20:57:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T20:57:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"20:58:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T20:57:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"20:58:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T20:58:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"20:59:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T20:59:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"21:00:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T20:59:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"21:00:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T21:00:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"21:02:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T21:00:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"21:01:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T21:25:00.000",
+    "line":"2",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"21:26:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T21:26:00.000",
+    "line":"2",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"21:27:00"
+  },
+  {
+    "stop_name":"Nenzing Marmota",
+    "departure":"2026-07-17T21:30:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Walgaubad",
+    "arrival_time_next":"21:31:00"
+  },
+  {
+    "stop_name":"Nenzing Walgaubad",
+    "departure":"2026-07-17T21:31:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Werdenbergstraße",
+    "arrival_time_next":"21:32:00"
+  },
+  {
+    "stop_name":"Nenzing Werdenbergstraße",
+    "departure":"2026-07-17T21:32:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Sportplatz\/Bahnunterf.",
+    "arrival_time_next":"21:33:00"
+  },
+  {
+    "stop_name":"Nenzing Sportplatz\/Bahnunterf.",
+    "departure":"2026-07-17T21:33:00.000",
+    "line":"550",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"21:34:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T21:56:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"21:57:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T21:57:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"21:58:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T21:57:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"21:58:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T21:58:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"21:59:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T21:59:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"22:00:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T21:59:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"22:00:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T22:00:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"22:02:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T22:00:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"22:01:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T22:56:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"22:57:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T22:57:00.000",
+    "line":"565",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"22:58:00"
+  },
+  {
+    "stop_name":"Nenzing Aluwerk",
+    "departure":"2026-07-17T22:57:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"22:58:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T22:58:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Bahnhof",
+    "arrival_time_next":"22:59:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T22:59:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"23:00:00"
+  },
+  {
+    "stop_name":"Nenzing Bahnhof",
+    "departure":"2026-07-17T22:59:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Spar-Markt",
+    "arrival_time_next":"23:00:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T23:00:00.000",
+    "line":"560",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"23:01:00"
+  },
+  {
+    "stop_name":"Nenzing Spar-Markt",
+    "departure":"2026-07-17T23:00:00.000",
+    "line":"530",
+    "next_stop":"Nenzing Aluwerk",
+    "arrival_time_next":"23:02:00"
+  }
+]

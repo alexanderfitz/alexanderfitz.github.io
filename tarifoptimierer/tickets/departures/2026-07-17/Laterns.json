@@ -1,0 +1,954 @@
+[
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T05:58:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"05:59:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T05:59:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"06:00:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T06:00:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"06:01:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T06:01:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"06:02:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T06:25:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"06:26:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T06:26:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"06:27:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T06:27:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"06:28:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T06:28:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"06:29:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T06:51:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"06:52:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T06:52:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"06:53:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T06:53:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"06:54:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T06:54:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"06:55:00"
+  },
+  {
+    "stop_name":"Laterns Rohnen",
+    "departure":"2026-07-17T06:57:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"06:58:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T06:58:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"06:59:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T06:59:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"07:00:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T07:00:00.000",
+    "line":"495",
+    "next_stop":"Laterns Krone",
+    "arrival_time_next":"07:01:00"
+  },
+  {
+    "stop_name":"Laterns Rohnen",
+    "departure":"2026-07-17T07:28:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"07:29:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T07:29:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"07:30:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T07:30:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"07:31:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T07:31:00.000",
+    "line":"495",
+    "next_stop":"Laterns Krone",
+    "arrival_time_next":"07:32:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T07:43:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"07:44:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T07:44:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"07:45:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T07:45:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"07:46:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T07:46:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"07:47:00"
+  },
+  {
+    "stop_name":"Laterns Rohnen",
+    "departure":"2026-07-17T08:33:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"08:34:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T08:34:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"08:35:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T08:35:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"08:36:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T08:36:00.000",
+    "line":"495",
+    "next_stop":"Laterns Krone",
+    "arrival_time_next":"08:37:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T09:13:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"09:14:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T09:14:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"09:15:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T09:15:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"09:16:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T09:16:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"09:17:00"
+  },
+  {
+    "stop_name":"Laterns Rohnen",
+    "departure":"2026-07-17T09:33:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"09:34:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T09:34:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"09:35:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T09:35:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"09:36:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T09:36:00.000",
+    "line":"495",
+    "next_stop":"Laterns Krone",
+    "arrival_time_next":"09:37:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T10:13:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"10:14:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T10:14:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"10:15:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T10:15:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"10:16:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T10:16:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"10:17:00"
+  },
+  {
+    "stop_name":"Laterns Rohnen",
+    "departure":"2026-07-17T10:33:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"10:34:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T10:34:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"10:35:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T10:35:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"10:36:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T10:36:00.000",
+    "line":"495",
+    "next_stop":"Laterns Krone",
+    "arrival_time_next":"10:37:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T11:13:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"11:14:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T11:14:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"11:15:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T11:15:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"11:16:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T11:16:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"11:17:00"
+  },
+  {
+    "stop_name":"Laterns Rohnen",
+    "departure":"2026-07-17T11:43:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"11:44:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T11:44:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"11:45:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T11:45:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"11:46:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T11:46:00.000",
+    "line":"495",
+    "next_stop":"Laterns Krone",
+    "arrival_time_next":"11:47:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T12:13:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"12:14:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T12:14:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"12:15:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T12:15:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"12:16:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T12:16:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"12:17:00"
+  },
+  {
+    "stop_name":"Laterns Rohnen",
+    "departure":"2026-07-17T12:43:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"12:44:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T12:44:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"12:45:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T12:45:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"12:46:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T12:46:00.000",
+    "line":"495",
+    "next_stop":"Laterns Krone",
+    "arrival_time_next":"12:47:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T13:13:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"13:14:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T13:14:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"13:15:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T13:15:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"13:16:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T13:16:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"13:17:00"
+  },
+  {
+    "stop_name":"Laterns Rohnen",
+    "departure":"2026-07-17T13:33:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"13:34:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T13:34:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"13:35:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T13:35:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"13:36:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T13:36:00.000",
+    "line":"495",
+    "next_stop":"Laterns Krone",
+    "arrival_time_next":"13:37:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T14:13:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"14:14:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T14:14:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"14:15:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T14:15:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"14:16:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T14:16:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"14:17:00"
+  },
+  {
+    "stop_name":"Laterns Rohnen",
+    "departure":"2026-07-17T14:33:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"14:34:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T14:34:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"14:35:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T14:35:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"14:36:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T14:36:00.000",
+    "line":"495",
+    "next_stop":"Laterns Krone",
+    "arrival_time_next":"14:37:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T15:13:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"15:14:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T15:14:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"15:15:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T15:15:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"15:16:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T15:16:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"15:17:00"
+  },
+  {
+    "stop_name":"Laterns Rohnen",
+    "departure":"2026-07-17T15:33:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"15:34:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T15:34:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"15:35:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T15:35:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"15:36:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T15:36:00.000",
+    "line":"495",
+    "next_stop":"Laterns Krone",
+    "arrival_time_next":"15:37:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T16:13:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"16:14:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T16:14:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"16:15:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T16:15:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"16:16:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T16:16:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"16:17:00"
+  },
+  {
+    "stop_name":"Laterns Rohnen",
+    "departure":"2026-07-17T16:23:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"16:24:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T16:24:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"16:25:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T16:25:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"16:26:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T16:26:00.000",
+    "line":"495",
+    "next_stop":"Laterns Krone",
+    "arrival_time_next":"16:27:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T17:00:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"17:01:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T17:01:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"17:02:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T17:02:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"17:03:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T17:03:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"17:04:00"
+  },
+  {
+    "stop_name":"Laterns Rohnen",
+    "departure":"2026-07-17T17:06:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"17:07:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T17:07:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"17:08:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T17:08:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"17:09:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T17:09:00.000",
+    "line":"495",
+    "next_stop":"Laterns Krone",
+    "arrival_time_next":"17:10:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T17:29:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"17:30:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T17:30:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"17:31:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T17:31:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"17:32:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T17:32:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"17:33:00"
+  },
+  {
+    "stop_name":"Laterns Rohnen",
+    "departure":"2026-07-17T17:49:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"17:50:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T17:50:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"17:51:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T17:51:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"17:52:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T17:52:00.000",
+    "line":"495",
+    "next_stop":"Laterns Krone",
+    "arrival_time_next":"17:53:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T18:00:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"18:01:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T18:01:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"18:02:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T18:02:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"18:03:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T18:03:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"18:04:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T18:13:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"18:14:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T18:14:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"18:15:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T18:15:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"18:16:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T18:16:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"18:17:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T18:29:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"18:30:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T18:30:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"18:31:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T18:31:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"18:32:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T18:32:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"18:33:00"
+  },
+  {
+    "stop_name":"Laterns Rohnen",
+    "departure":"2026-07-17T18:44:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"18:45:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T18:45:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"18:46:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T18:46:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"18:47:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T18:47:00.000",
+    "line":"495",
+    "next_stop":"Laterns Krone",
+    "arrival_time_next":"18:48:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T18:57:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"18:58:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T18:58:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"18:59:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T18:59:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"19:00:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T19:00:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"19:01:00"
+  },
+  {
+    "stop_name":"Laterns Rohnen",
+    "departure":"2026-07-17T19:44:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"19:45:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T19:45:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"19:46:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T19:46:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"19:47:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T19:47:00.000",
+    "line":"495",
+    "next_stop":"Laterns Krone",
+    "arrival_time_next":"19:48:00"
+  },
+  {
+    "stop_name":"Laterns Krone",
+    "departure":"2026-07-17T19:57:00.000",
+    "line":"495",
+    "next_stop":"Laterns Egga",
+    "arrival_time_next":"19:58:00"
+  },
+  {
+    "stop_name":"Laterns Egga",
+    "departure":"2026-07-17T19:58:00.000",
+    "line":"495",
+    "next_stop":"Laterns Buchfeld",
+    "arrival_time_next":"19:59:00"
+  },
+  {
+    "stop_name":"Laterns Buchfeld",
+    "departure":"2026-07-17T19:59:00.000",
+    "line":"495",
+    "next_stop":"Laterns Gasthaus Löwen",
+    "arrival_time_next":"20:00:00"
+  },
+  {
+    "stop_name":"Laterns Gasthaus Löwen",
+    "departure":"2026-07-17T20:00:00.000",
+    "line":"495",
+    "next_stop":"Laterns Rohnen",
+    "arrival_time_next":"20:01:00"
+  }
+]

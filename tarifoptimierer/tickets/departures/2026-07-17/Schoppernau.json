@@ -1,0 +1,1794 @@
+[
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T05:35:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"05:36:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T05:35:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"05:35:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T06:12:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"06:12:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T06:12:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"06:13:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T06:35:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"06:36:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T06:35:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"06:35:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T07:01:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"07:02:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T07:02:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"07:05:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T07:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"07:05:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T07:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"07:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T07:37:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"07:38:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T07:38:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"07:39:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T07:39:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"07:40:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterhopfreben",
+    "departure":"2026-07-17T07:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"07:56:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T07:56:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"07:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T07:57:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"07:59:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T07:59:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"08:00:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T08:00:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"08:04:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T08:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"08:05:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T08:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"08:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T08:16:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"08:17:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T08:16:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"08:16:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T08:17:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"08:20:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T08:37:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"08:38:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T08:38:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"08:39:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T08:39:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"08:40:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T08:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"08:46:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T08:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"08:47:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T08:47:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"08:50:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T08:51:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"08:52:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T08:52:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"08:52:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T08:52:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"08:54:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T08:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"08:55:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T08:55:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterhopfreben",
+    "arrival_time_next":"08:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T09:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"09:05:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T09:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"09:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T09:06:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"09:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T09:14:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"09:15:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T09:15:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"09:16:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T09:16:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"09:18:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T09:37:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"09:38:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T09:38:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"09:39:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T09:39:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"09:40:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T09:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"09:46:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T09:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"09:47:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T09:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"09:46:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T09:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"09:47:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T09:47:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"09:50:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T09:47:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"09:50:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T09:51:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"09:52:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T09:51:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"09:52:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T09:52:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"09:54:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T09:52:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"09:54:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T09:52:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"09:52:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T09:52:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"09:52:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T09:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"09:55:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T09:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"09:55:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterhopfreben",
+    "departure":"2026-07-17T09:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"09:56:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T09:55:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterhopfreben",
+    "arrival_time_next":"09:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T09:55:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterhopfreben",
+    "arrival_time_next":"09:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T09:56:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"09:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T09:57:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"09:59:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T09:59:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"10:00:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T10:00:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"10:04:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T10:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"10:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T10:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"10:05:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T10:06:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"10:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T10:14:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"10:15:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T10:15:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"10:16:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T10:16:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"10:18:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T10:37:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"10:38:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T10:38:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"10:39:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T10:39:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"10:40:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T10:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"10:47:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T10:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"10:46:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T10:47:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"10:50:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T10:51:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"10:52:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T10:52:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"10:52:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T10:52:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"10:54:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T10:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"10:55:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T10:55:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterhopfreben",
+    "arrival_time_next":"10:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T11:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"11:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T11:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"11:05:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T11:06:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"11:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T11:14:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"11:15:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T11:15:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"11:16:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T11:16:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"11:18:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T11:37:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"11:38:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T11:38:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"11:39:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T11:39:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"11:40:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T11:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"11:46:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T11:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"11:47:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T11:47:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"11:50:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T11:51:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"11:52:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T11:52:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"11:52:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T11:52:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"11:54:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T11:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"11:55:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterhopfreben",
+    "departure":"2026-07-17T11:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"11:56:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T11:55:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterhopfreben",
+    "arrival_time_next":"11:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T11:56:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"11:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T11:57:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"11:59:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T11:59:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"12:00:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T12:00:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"12:04:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T12:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"12:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T12:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"12:05:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T12:06:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"12:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T12:14:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"12:15:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T12:15:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"12:16:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T12:16:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"12:18:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T12:37:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"12:38:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T12:38:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"12:39:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T12:39:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"12:40:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T12:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"12:47:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T12:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"12:46:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T12:47:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"12:50:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T13:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"13:05:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T13:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"13:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T13:06:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"13:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T13:14:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"13:15:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T13:15:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"13:16:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T13:16:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"13:18:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T13:21:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"13:22:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T13:22:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"13:22:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T13:22:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"13:24:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T13:24:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"13:25:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T13:25:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterhopfreben",
+    "arrival_time_next":"13:27:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T13:37:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"13:38:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T13:38:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"13:39:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T13:39:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"13:40:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T13:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"13:46:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T13:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"13:47:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T13:47:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"13:50:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterhopfreben",
+    "departure":"2026-07-17T13:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"13:56:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T13:56:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"13:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T13:57:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"13:59:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T13:59:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"14:00:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T14:00:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"14:04:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T14:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"14:05:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T14:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"14:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T14:06:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"14:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T14:14:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"14:15:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T14:15:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"14:16:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T14:16:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"14:18:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T14:37:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"14:38:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T14:38:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"14:39:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T14:39:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"14:40:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T14:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"14:47:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T14:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"14:46:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T14:47:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"14:50:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T14:51:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"14:52:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T14:52:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"14:54:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T14:52:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"14:52:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T14:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"14:55:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterhopfreben",
+    "departure":"2026-07-17T14:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"14:56:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterhopfreben",
+    "departure":"2026-07-17T14:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"14:56:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T14:55:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterhopfreben",
+    "arrival_time_next":"14:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T14:56:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"14:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T14:56:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"14:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T14:57:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"14:59:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T14:57:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"14:59:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T14:59:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"15:00:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T14:59:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"15:00:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T15:00:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"15:04:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T15:00:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"15:04:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T15:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"15:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T15:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"15:05:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T15:06:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"15:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T15:14:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"15:15:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T15:15:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"15:16:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T15:16:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"15:18:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T15:37:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"15:38:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T15:38:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"15:39:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T15:39:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"15:40:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T15:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"15:46:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T15:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"15:47:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T15:47:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"15:50:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterhopfreben",
+    "departure":"2026-07-17T15:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"15:56:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterhopfreben",
+    "departure":"2026-07-17T15:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"15:56:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T15:56:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"15:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T15:56:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"15:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T15:57:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"15:59:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T15:57:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"15:59:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T15:59:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"16:00:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T15:59:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"16:00:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T16:00:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"16:04:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T16:00:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"16:04:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T16:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"16:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T16:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"16:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T16:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"16:05:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T16:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"16:05:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T16:06:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"16:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T16:06:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"16:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T16:14:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"16:15:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T16:15:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"16:16:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T16:16:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"16:18:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T16:37:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"16:38:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T16:38:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"16:39:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T16:39:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"16:40:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T16:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"16:46:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T16:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"16:47:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T16:47:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"16:50:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T16:51:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"16:52:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T16:52:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"16:54:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T16:52:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"16:52:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterhopfreben",
+    "departure":"2026-07-17T16:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"16:56:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T16:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"16:55:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T16:55:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterhopfreben",
+    "arrival_time_next":"16:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T16:56:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"16:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T16:57:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"16:59:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T16:59:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"17:00:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T17:00:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"17:04:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T17:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"17:05:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T17:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"17:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T17:06:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"17:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T17:14:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"17:15:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T17:15:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"17:16:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T17:16:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"17:18:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T17:37:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"17:38:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T17:38:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"17:39:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T17:39:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"17:40:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T17:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"17:46:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T17:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"17:47:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T17:47:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"17:50:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterhopfreben",
+    "departure":"2026-07-17T17:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"17:56:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T17:56:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"17:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T17:57:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"17:59:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T17:59:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"18:00:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T18:00:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"18:04:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T18:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"18:05:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T18:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"18:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T18:14:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"18:15:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T18:15:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"18:16:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T18:16:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"18:18:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T18:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"18:47:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T18:47:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"18:50:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T18:51:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Oberdorf",
+    "arrival_time_next":"18:52:00"
+  },
+  {
+    "stop_name":"Schoppernau Oberdorf",
+    "departure":"2026-07-17T18:52:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterm Stein",
+    "arrival_time_next":"18:52:00"
+  },
+  {
+    "stop_name":"Schoppernau Hinterm Stein",
+    "departure":"2026-07-17T18:52:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Schalzbach",
+    "arrival_time_next":"18:54:00"
+  },
+  {
+    "stop_name":"Schoppernau Schalzbach",
+    "departure":"2026-07-17T18:54:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Vorderhopfreben",
+    "arrival_time_next":"18:55:00"
+  },
+  {
+    "stop_name":"Schoppernau Vorderhopfreben",
+    "departure":"2026-07-17T18:55:00.000",
+    "line":"852",
+    "next_stop":"Schoppernau Hinterhopfreben",
+    "arrival_time_next":"18:57:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T19:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"19:05:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T19:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"19:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T19:08:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"19:09:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T19:09:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"19:11:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T19:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"19:47:00"
+  },
+  {
+    "stop_name":"Schoppernau Diedamskopfbahn",
+    "departure":"2026-07-17T19:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"19:46:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T19:47:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"19:50:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T20:18:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"20:19:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T20:19:00.000",
+    "line":"840",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"20:21:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T20:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"20:47:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T20:47:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"20:50:00"
+  },
+  {
+    "stop_name":"Schoppernau Gemeindeamt",
+    "departure":"2026-07-17T21:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"21:05:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T21:05:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Niederau",
+    "arrival_time_next":"21:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T21:06:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Diedamskopfbahn",
+    "arrival_time_next":"21:06:00"
+  },
+  {
+    "stop_name":"Schoppernau Niederau",
+    "departure":"2026-07-17T22:46:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Riese",
+    "arrival_time_next":"22:47:00"
+  },
+  {
+    "stop_name":"Schoppernau Riese",
+    "departure":"2026-07-17T22:47:00.000",
+    "line":"850",
+    "next_stop":"Schoppernau Gemeindeamt",
+    "arrival_time_next":"22:50:00"
+  }
+]
