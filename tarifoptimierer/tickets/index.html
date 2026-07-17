@@ -1,0 +1,380 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Departure Finder</title>
+
+<style>
+
+body {
+    font-family: Arial, sans-serif;
+    max-width: 500px;
+    margin: 40px auto;
+}
+
+input, button {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0;
+    font-size: 16px;
+}
+
+button {
+    cursor: pointer;
+}
+
+#result {
+    margin-top: 20px;
+    padding: 15px;
+    background: #eeeeee;
+}
+
+a {
+    font-size: 18px;
+}
+
+</style>
+
+</head>
+
+
+<body>
+
+<h2>Departure Finder</h2>
+
+
+<label>Datum</label>
+<input id="date" type="date">
+
+
+<label>Ort</label>
+<input id="place" placeholder="Lauterach">
+
+
+<label>Zeit</label>
+<input id="time" type="time">
+
+
+<button onclick="findDeparture()">
+Abfahrt suchen
+</button>
+
+
+<div id="result"></div>
+
+
+<script>
+
+let stations = {};
+
+
+// =============================
+// Load EVA data
+// =============================
+
+async function loadStations(){
+
+    const response =
+        await fetch(
+            "stations.json"
+        );
+
+    stations =
+        await response.json();
+}
+
+
+loadStations();
+
+
+
+// =============================
+// Create ÖBB ticket link
+// =============================
+
+function createOebbLink(
+    from,
+    to,
+    departure,
+    arrival,
+    date
+){
+
+    const dep =
+        departure.substring(0,16);
+
+
+    let arr;
+
+
+    // GTFS arrival_time ist nur HH:MM:SS
+    if(arrival.length <= 8){
+
+        arr =
+            date
+            + "T"
+            + arrival.substring(0,5);
+
+    }
+    else {
+
+        arr =
+            arrival.substring(0,16);
+
+    }
+
+
+    const fromEva =
+        stations[from]?.eva || "";
+
+
+    const toEva =
+        stations[to]?.eva || "";
+
+
+
+    return (
+        "https://shop.oebbtickets.at/de/ticket?"
+        +
+        "cref=scotty"
+        +
+        "&connectionDatetimeDeparture="
+        +
+        encodeURIComponent(dep)
+
+        +
+
+        "&connectionDatetimeArrival="
+        +
+        encodeURIComponent(arr)
+
+        +
+
+        "&connectionOrigEva="
+        +
+        encodeURIComponent(fromEva)
+
+        +
+
+        "&connectionDestEva="
+        +
+        encodeURIComponent(toEva)
+
+        +
+
+        "&stationOrigName="
+        +
+        encodeURIComponent(from)
+
+        +
+
+        "&stationDestName="
+        +
+        encodeURIComponent(to)
+    );
+}
+
+
+
+// =============================
+// Search departure
+// =============================
+
+async function findDeparture(){
+
+
+    const date =
+        document.getElementById(
+            "date"
+        ).value;
+
+
+    const place =
+        document.getElementById(
+            "place"
+        ).value;
+
+
+    const time =
+        document.getElementById(
+            "time"
+        ).value;
+
+
+
+    if(
+        !date ||
+        !place ||
+        !time
+    ){
+
+        show(
+            "Bitte alle Felder ausfüllen"
+        );
+
+        return;
+    }
+
+
+
+    const file =
+        `departures/${date}/${place}.json`;
+
+
+
+    let departures;
+
+
+    try {
+
+
+        const response =
+            await fetch(file);
+
+
+        if(!response.ok){
+
+            throw new Error();
+
+        }
+
+
+        departures =
+            await response.json();
+
+
+    }
+    catch(e){
+
+        show(
+            "Keine Daten für diesen Ort/Tag gefunden"
+        );
+
+        return;
+
+    }
+
+
+
+    let best = null;
+
+
+
+    for(
+        const dep of departures
+    ){
+
+
+        const depTime =
+            dep.departure.substring(
+                11,
+                16
+            );
+
+
+
+        if(
+            depTime === time
+        ){
+
+            best = dep;
+            break;
+
+        }
+
+
+
+        if(
+            depTime < time
+        ){
+
+            if(
+                best === null
+                ||
+                depTime >
+                best.departure.substring(
+                    11,
+                    16
+                )
+            ){
+
+                best = dep;
+
+            }
+
+        }
+
+    }
+
+
+
+    if(!best){
+
+        show(
+            "Keine frühere Abfahrt gefunden"
+        );
+
+        return;
+
+    }
+
+
+
+    const ticket =
+        createOebbLink(
+            best.stop_name,
+            best.next_stop,
+            best.departure,
+            best.arrival_time_next,
+            date
+        )
+
+
+
+    show(`
+
+        <b>Abfahrt:</b>
+        ${best.departure.substring(11,16)}
+
+        <br>
+
+        <b>Haltestelle:</b>
+        ${best.stop_name}
+
+        <br>
+
+        <b>Linie:</b>
+        ${best.line}
+
+        <br>
+
+        <b>Nächster Halt:</b>
+        ${best.next_stop}
+
+        <br><br>
+
+        <a href="${ticket}" target="_blank">
+        🎫 Ticket bei ÖBB kaufen
+        </a>
+
+    `);
+
+
+}
+
+
+
+function show(text){
+
+    document.getElementById(
+        "result"
+    ).innerHTML = text;
+
+}
+
+
+</script>
+
+
+</body>
+</html>
