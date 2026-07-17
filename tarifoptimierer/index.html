@@ -1,0 +1,265 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<title>VVV Tarif-Optimierer</title>
+
+<style>
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+  background: #f6f6f6;
+}
+
+h2 {
+  margin-bottom: 15px;
+}
+
+input {
+  padding: 10px;
+  margin: 6px 0;
+  width: 420px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+}
+
+button {
+  padding: 10px;
+  margin-top: 10px;
+  width: 420px;
+  border: none;
+  border-radius: 6px;
+  background: #2d7ef7;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: #1d5fd0;
+}
+
+.suggest {
+  position: relative;
+  width: 420px;
+}
+
+.suggest-box {
+  position: absolute;
+  background: white;
+  border: 1px solid #ddd;
+  border-top: none;
+  width: 420px;
+  max-height: 180px;
+  overflow-y: auto;
+  z-index: 999;
+}
+
+.suggest-item {
+  padding: 8px;
+  cursor: pointer;
+}
+
+.suggest-item:hover {
+  background: #eee;
+}
+
+#result {
+  margin-top: 20px;
+  white-space: pre-line;
+  font-size: 13px;
+  background: white;
+  padding: 12px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  width: 420px;
+}
+
+select {
+  padding: 10px;
+  margin: 6px 0;
+  width: 420px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  background: white;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+select:hover {
+  border-color: #2d7ef7;
+}
+
+select:focus {
+  outline: none;
+  border-color: #2d7ef7;
+  box-shadow: 0 0 0 2px rgba(45,126,247,0.2);
+}
+
+.normalwidth {
+width:420px; 
+text-align: justify; 
+}
+</style>
+</head>
+
+<body>
+
+<h2>VVV Tarif-Optimierer</h2>
+<div class="normalwidth">
+<p>Die neue Tarifwelt des Vorarlberger Verkehrsverbunds ist eine der undurchdachtesten "Reformen" unserer schwarz-blauen Landesregierung. Dieses Tool berechnet den günstigsten Tarif, um den eine gewählte Strecke zurückgelegt werden kann und listet die notwendigen Tickets auf.<br><br>Das Berechnen kann einige Sekunden dauern, da alles lokal auf Ihrem Gerät berechnet wird.<br><br><b>Ist das erlaubt?</b><br>Ja. Gemäß der Beförderungsbedingungen gelten Tickets <b>für alle Fahrten</b> im Geltungsbereich während des Gültigkeitszeitraums. Split-Ticketing ist kein Novum, nur in Vorarlberg vorher dank eines logischen Systems nicht relevant gewesen.<br><br>Achtung! Das Programm beachtet die Fahrzeit aktuell noch nicht. Einzelfahrten gelten nur mehr 60 Minuten! Ich arbeite an einer Lösung.</p>
+</div>
+<input id="start" placeholder="Von Gemeinde" autocomplete="off">
+<div id="startSug" class="suggest"></div>
+
+<input id="ziel" placeholder="Nach Gemeinde" autocomplete="off">
+<div id="zielSug" class="suggest"></div>
+
+<select id="pricing">
+  <option value="vollpreis">Vollpreis (ab 15 Jahren)</option>
+  <option value="kind">Kind (6-14 Jahre)</option>
+</select><br>
+
+<button onclick="berechnen()">Berechnen</button>
+
+<div id="result"></div>
+<br>
+<div class="normalwidth"><center>
+&copy; 2026 Alexander Fitz</center></div>
+<script src="data.js"></script>
+<script src="helpers.js"></script>
+<script>
+
+// ================= WORKER =================
+const worker = new Worker("worker.js");
+
+let ALL_CITIES = [];
+
+// Ergebnis anzeigen
+// ================= CITIES LADEN =================
+setTimeout(() => {
+  worker.postMessage({ type: "cities" });
+}, 50);
+
+worker.onmessage = (e) => {
+
+  // 1) Cities Response
+  if (e.data.type === "cities") {
+    ALL_CITIES = e.data.data;
+    return;
+  }
+
+  // 2) Routing Response
+  const r = e.data;
+
+  let out = "";
+
+  if (r.steps) {
+    r.steps.forEach((s, i) => {
+
+      const zoneInfo = parseZone(s.type, s.zone);
+
+      out += `\nSchritt ${i+1}: ${formatCity(s.from)} → ${formatCity(s.to)}\n`;
+      out += `${s.type} (${zoneInfo.name})\n`;
+
+      if (zoneInfo.image){
+        out += `<img src="${zoneInfo.image}" style="width:300px">\n`;
+      }
+    });
+  }
+
+  console.log(formatCity("dornbirn"))
+  document.getElementById("result").innerHTML =
+`--- ERGEBNIS ---
+Preis: ${r.cost.toFixed(2)} €
+Tickets: ${r.tickets}
+
+Route:
+${r.path.map(c => formatCity(c)).join(" → ")}
+
+--- DETAILS ---
+${out}`;
+};
+
+// ================= BERECHNEN =================
+function berechnen(){
+    worker.postMessage({
+    start: document.getElementById("start").value,
+    ziel: document.getElementById("ziel").value,
+    pricing: document.getElementById("pricing").value
+    });
+}
+
+// ================= AUTOCOMPLETE =================
+function setupAutocomplete(inputId, boxId){
+
+  const input = document.getElementById(inputId);
+  const box = document.getElementById(boxId);
+
+  input.addEventListener("input", () => {
+
+    const val = input.value.toLowerCase();
+    box.innerHTML = "";
+
+    if (!val || ALL_CITIES.length === 0) return;
+
+    const matches = ALL_CITIES
+      .filter(c => c.toLowerCase().includes(val))
+      .slice(0, 10);
+
+    const container = document.createElement("div");
+    container.className = "suggest-box";
+
+    matches.forEach(m => {
+      const item = document.createElement("div");
+      item.className = "suggest-item";
+      item.innerText = m;
+
+      item.onclick = () => {
+        input.value = m;
+        box.innerHTML = "";
+      };
+
+      container.appendChild(item);
+    });
+
+    box.appendChild(container);
+  });
+
+  document.addEventListener("click", (e) => {
+    if (!box.contains(e.target) && e.target !== input) {
+      box.innerHTML = "";
+    }
+  });
+}
+
+function parseZone(type, zone){
+  if (!zone) return { name: "", image: null };
+
+  let imagePrefix = "";
+  if (type == "LOKAL"){
+    imagePrefix = "https://www.vmobil.at/sites/default/files/2026-03/Lokalzone%20";
+  } else if (type == "REGIO"){
+    imagePrefix = "https://www.vmobil.at/sites/default/files/2026-03/Regio%20";
+  } else if (type == "REGIO"){
+    return {
+        name: "Direkt",
+        image: `https://www.vmobil.at/sites/default/files/2026-03/Maximo_0.svg`
+    };
+  }
+
+  const [name, imgId] = zone.split("*");
+
+  return {
+    name: name,
+    image: imgId ? `${imagePrefix}${imgId}.svg` : null
+  };
+}
+
+setupAutocomplete("start", "startSug");
+setupAutocomplete("ziel", "zielSug");
+
+</script>
+
+</body>
+</html>
