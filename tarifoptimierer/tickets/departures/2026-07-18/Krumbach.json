@@ -1,0 +1,1759 @@
+[
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T00:45:00.000",
+    "line":"5",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"24:46:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T00:45:00.000",
+    "line":"4",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"24:46:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T00:45:00.000",
+    "line":"3",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"24:46:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T00:46:00.000",
+    "line":"4",
+    "next_stop":"Krumbach Bränden",
+    "arrival_time_next":"24:47:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T00:46:00.000",
+    "line":"3",
+    "next_stop":"Krumbach Bränden",
+    "arrival_time_next":"24:47:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T00:46:00.000",
+    "line":"5",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"24:47:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T00:47:00.000",
+    "line":"5",
+    "next_stop":"Krumbach Glatzegg",
+    "arrival_time_next":"24:48:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T01:00:00.000",
+    "line":"6",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"25:01:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T01:00:00.000",
+    "line":"7",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"25:01:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T01:00:00.000",
+    "line":"1",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"25:01:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T01:01:00.000",
+    "line":"6",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"25:02:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T01:01:00.000",
+    "line":"1",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"25:01:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T01:01:00.000",
+    "line":"1",
+    "next_stop":"Krumbach Glatzegg",
+    "arrival_time_next":"25:02:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T01:01:00.000",
+    "line":"7",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"25:02:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T01:02:00.000",
+    "line":"6",
+    "next_stop":"Krumbach Glatzegg",
+    "arrival_time_next":"25:03:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T01:02:00.000",
+    "line":"7",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"25:03:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T01:03:00.000",
+    "line":"7",
+    "next_stop":"Krumbach Gießen",
+    "arrival_time_next":"25:04:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T01:30:00.000",
+    "line":"2",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"25:31:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T01:41:00.000",
+    "line":"MFW2",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"25:42:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T01:42:00.000",
+    "line":"MFW2",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"25:43:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T01:43:00.000",
+    "line":"MFW2",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"25:45:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T01:45:00.000",
+    "line":"MFW2",
+    "next_stop":"Krumbach Bränden",
+    "arrival_time_next":"25:46:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T01:45:00.000",
+    "line":"7",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"25:46:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T01:45:00.000",
+    "line":"5",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"25:46:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T01:46:00.000",
+    "line":"5",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"25:47:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T01:46:00.000",
+    "line":"7",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"25:47:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T01:47:00.000",
+    "line":"7",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"25:48:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T01:47:00.000",
+    "line":"5",
+    "next_stop":"Krumbach Glatzegg",
+    "arrival_time_next":"25:48:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T01:48:00.000",
+    "line":"7",
+    "next_stop":"Krumbach Gießen",
+    "arrival_time_next":"25:49:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T02:00:00.000",
+    "line":"1",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"26:01:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T02:01:00.000",
+    "line":"1",
+    "next_stop":"Krumbach Glatzegg",
+    "arrival_time_next":"26:02:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T02:01:00.000",
+    "line":"1",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"26:01:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T02:45:00.000",
+    "line":"7",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"26:46:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T02:45:00.000",
+    "line":"5",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"26:46:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T02:45:00.000",
+    "line":"6",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"26:46:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T02:45:00.000",
+    "line":"2",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"26:46:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T02:45:00.000",
+    "line":"3",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"26:46:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T02:45:00.000",
+    "line":"4",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"26:46:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T02:46:00.000",
+    "line":"5",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"26:47:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T02:46:00.000",
+    "line":"4",
+    "next_stop":"Krumbach Bränden",
+    "arrival_time_next":"26:47:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T02:46:00.000",
+    "line":"7",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"26:47:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T02:46:00.000",
+    "line":"6",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"26:47:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T02:46:00.000",
+    "line":"3",
+    "next_stop":"Krumbach Bränden",
+    "arrival_time_next":"26:47:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T02:47:00.000",
+    "line":"6",
+    "next_stop":"Krumbach Glatzegg",
+    "arrival_time_next":"26:48:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T02:47:00.000",
+    "line":"7",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"26:48:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T02:47:00.000",
+    "line":"5",
+    "next_stop":"Krumbach Glatzegg",
+    "arrival_time_next":"26:48:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T02:48:00.000",
+    "line":"7",
+    "next_stop":"Krumbach Gießen",
+    "arrival_time_next":"26:49:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T03:26:00.000",
+    "line":"MFW2",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"27:27:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T03:27:00.000",
+    "line":"MFW2",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"27:28:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T03:28:00.000",
+    "line":"MFW2",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"27:30:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T03:30:00.000",
+    "line":"MFW2",
+    "next_stop":"Krumbach Bränden",
+    "arrival_time_next":"27:31:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T06:23:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"06:24:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T06:24:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"06:25:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T06:25:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"06:26:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T06:26:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Gießen",
+    "arrival_time_next":"06:27:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T06:32:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"06:33:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T06:33:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"06:34:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T06:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"06:34:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T06:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Glatzegg",
+    "arrival_time_next":"06:35:00"
+  },
+  {
+    "stop_name":"Krumbach Glatzegg",
+    "departure":"2026-07-18T07:20:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"07:21:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T07:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"07:21:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T07:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"07:22:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T07:22:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"07:23:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T07:23:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"07:24:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T07:24:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"07:25:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T07:25:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"07:26:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T07:26:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Gießen",
+    "arrival_time_next":"07:27:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T07:27:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"07:28:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T07:28:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"07:29:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T07:29:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"07:31:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T07:32:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Bränden",
+    "arrival_time_next":"07:33:00"
+  },
+  {
+    "stop_name":"Krumbach Glatzegg",
+    "departure":"2026-07-18T08:20:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"08:21:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T08:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"08:22:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T08:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"08:21:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T08:22:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"08:23:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T08:23:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"08:24:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T08:24:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"08:25:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T08:25:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"08:26:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T08:26:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Gießen",
+    "arrival_time_next":"08:27:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T08:27:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"08:28:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T08:28:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"08:29:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T08:29:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"08:31:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T08:32:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"08:33:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T08:33:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"08:34:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T08:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"08:34:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T08:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Glatzegg",
+    "arrival_time_next":"08:35:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T09:23:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"09:24:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T09:24:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"09:25:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T09:25:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"09:26:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T09:26:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Gießen",
+    "arrival_time_next":"09:27:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T09:27:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"09:28:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T09:28:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"09:29:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T09:29:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"09:31:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T09:32:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Bränden",
+    "arrival_time_next":"09:33:00"
+  },
+  {
+    "stop_name":"Krumbach Glatzegg",
+    "departure":"2026-07-18T10:20:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"10:21:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T10:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"10:21:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T10:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"10:22:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T10:22:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"10:23:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T10:23:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"10:24:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T10:24:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"10:25:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T10:25:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"10:26:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T10:26:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Gießen",
+    "arrival_time_next":"10:27:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T10:27:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"10:28:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T10:28:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"10:29:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T10:29:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"10:31:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T10:32:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"10:33:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T10:33:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"10:34:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T10:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Glatzegg",
+    "arrival_time_next":"10:35:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T10:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"10:34:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T11:23:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"11:24:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T11:24:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"11:25:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T11:25:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"11:26:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T11:26:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Gießen",
+    "arrival_time_next":"11:27:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T11:27:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"11:28:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T11:28:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"11:29:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T11:29:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"11:31:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T11:32:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Bränden",
+    "arrival_time_next":"11:33:00"
+  },
+  {
+    "stop_name":"Krumbach Glatzegg",
+    "departure":"2026-07-18T12:20:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"12:21:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T12:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"12:21:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T12:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"12:22:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T12:22:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"12:23:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T12:23:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"12:24:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T12:24:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"12:25:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T12:25:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"12:26:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T12:26:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Gießen",
+    "arrival_time_next":"12:27:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T12:27:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"12:28:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T12:28:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"12:29:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T12:29:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"12:31:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T12:32:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"12:33:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T12:33:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"12:34:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T12:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Glatzegg",
+    "arrival_time_next":"12:35:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T12:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"12:34:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T13:23:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"13:24:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T13:24:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"13:25:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T13:25:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"13:26:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T13:26:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Gießen",
+    "arrival_time_next":"13:27:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T13:27:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"13:28:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T13:28:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"13:29:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T13:29:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"13:31:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T13:32:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Bränden",
+    "arrival_time_next":"13:33:00"
+  },
+  {
+    "stop_name":"Krumbach Glatzegg",
+    "departure":"2026-07-18T14:20:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"14:21:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T14:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"14:21:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T14:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"14:22:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T14:22:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"14:23:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T14:23:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"14:24:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T14:24:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"14:25:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T14:25:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"14:26:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T14:26:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Gießen",
+    "arrival_time_next":"14:27:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T14:27:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"14:28:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T14:28:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"14:29:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T14:29:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"14:31:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T14:32:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"14:33:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T14:33:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"14:34:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T14:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"14:34:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T14:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Glatzegg",
+    "arrival_time_next":"14:35:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T15:23:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"15:24:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T15:24:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"15:25:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T15:25:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"15:26:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T15:26:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Gießen",
+    "arrival_time_next":"15:27:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T15:27:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"15:28:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T15:28:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"15:29:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T15:29:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"15:31:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T15:32:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Bränden",
+    "arrival_time_next":"15:33:00"
+  },
+  {
+    "stop_name":"Krumbach Glatzegg",
+    "departure":"2026-07-18T16:20:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"16:21:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T16:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"16:21:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T16:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"16:22:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T16:22:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"16:23:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T16:23:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"16:24:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T16:24:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"16:25:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T16:25:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"16:26:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T16:26:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Gießen",
+    "arrival_time_next":"16:27:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T16:27:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"16:28:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T16:28:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"16:29:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T16:29:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"16:31:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T16:32:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"16:33:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T16:33:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"16:34:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T16:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Glatzegg",
+    "arrival_time_next":"16:35:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T16:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"16:34:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T17:23:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"17:24:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T17:24:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"17:25:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T17:25:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"17:26:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T17:26:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Gießen",
+    "arrival_time_next":"17:27:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T17:27:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"17:28:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T17:28:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"17:29:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T17:29:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"17:31:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T17:32:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Bränden",
+    "arrival_time_next":"17:33:00"
+  },
+  {
+    "stop_name":"Krumbach Glatzegg",
+    "departure":"2026-07-18T18:20:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"18:21:00"
+  },
+  {
+    "stop_name":"Krumbach Glatzegg",
+    "departure":"2026-07-18T18:20:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"18:21:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T18:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"18:21:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T18:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"18:21:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T18:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"18:22:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T18:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"18:22:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T18:22:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"18:23:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T18:23:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"18:24:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T18:24:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"18:25:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T18:25:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"18:26:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T18:26:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Gießen",
+    "arrival_time_next":"18:27:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T18:27:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"18:28:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T18:28:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"18:29:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T18:29:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"18:31:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T18:31:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"18:32:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T18:32:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"18:33:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T18:32:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"18:33:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T18:32:00.000",
+    "line":"4",
+    "next_stop":"Krumbach Bränden",
+    "arrival_time_next":"18:33:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T18:33:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"18:34:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T18:33:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"18:34:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T18:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Glatzegg",
+    "arrival_time_next":"18:35:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T18:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"18:34:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T18:34:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"18:35:00"
+  },
+  {
+    "stop_name":"Krumbach Glatzegg",
+    "departure":"2026-07-18T19:20:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"19:21:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T19:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"19:21:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T19:21:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"19:22:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T19:23:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"19:24:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T19:24:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"19:25:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T19:25:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"19:26:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T19:26:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Gießen",
+    "arrival_time_next":"19:27:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T19:27:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"19:28:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T19:28:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"19:29:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T19:29:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"19:31:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T19:31:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"19:32:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T19:32:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"19:33:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T19:32:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Bränden",
+    "arrival_time_next":"19:33:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T19:33:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"19:34:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T19:34:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"19:35:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T20:21:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"20:22:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T20:26:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"20:27:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T20:27:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"20:28:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T20:28:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"20:29:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T20:29:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"20:31:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T20:31:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"20:32:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T20:32:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"20:33:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T20:32:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"20:33:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T20:33:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"20:34:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T20:33:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"20:34:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T20:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"20:34:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T20:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Glatzegg",
+    "arrival_time_next":"20:35:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T20:34:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"20:35:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T21:56:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"21:57:00"
+  },
+  {
+    "stop_name":"Krumbach Gießen",
+    "departure":"2026-07-18T21:57:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Zwing",
+    "arrival_time_next":"21:58:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T21:57:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"21:58:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T21:58:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"21:59:00"
+  },
+  {
+    "stop_name":"Krumbach Zwing",
+    "departure":"2026-07-18T21:58:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Unterkrumbach",
+    "arrival_time_next":"21:59:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T21:59:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"22:00:00"
+  },
+  {
+    "stop_name":"Krumbach Unterkrumbach",
+    "departure":"2026-07-18T21:59:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"22:01:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T22:02:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Bränden",
+    "arrival_time_next":"22:03:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T22:21:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"22:22:00"
+  },
+  {
+    "stop_name":"Krumbach Bränden",
+    "departure":"2026-07-18T22:23:00.000",
+    "line":"820",
+    "next_stop":"Krumbach Dorf",
+    "arrival_time_next":"22:24:00"
+  },
+  {
+    "stop_name":"Krumbach Dorf",
+    "departure":"2026-07-18T22:32:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Oberkrumbach",
+    "arrival_time_next":"22:33:00"
+  },
+  {
+    "stop_name":"Krumbach Oberkrumbach",
+    "departure":"2026-07-18T22:33:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Moos",
+    "arrival_time_next":"22:34:00"
+  },
+  {
+    "stop_name":"Krumbach Wolfbühl",
+    "departure":"2026-07-18T22:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Glatzegg",
+    "arrival_time_next":"22:35:00"
+  },
+  {
+    "stop_name":"Krumbach Moos",
+    "departure":"2026-07-18T22:34:00.000",
+    "line":"890",
+    "next_stop":"Krumbach Wolfbühl",
+    "arrival_time_next":"22:34:00"
+  }
+]

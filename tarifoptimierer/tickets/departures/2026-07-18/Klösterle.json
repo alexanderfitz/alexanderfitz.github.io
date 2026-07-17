@@ -1,0 +1,954 @@
+[
+  {
+    "stop_name":"Klösterle Wilden",
+    "departure":"2026-07-18T00:33:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"24:34:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T00:34:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"24:35:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T00:35:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Campingplatz",
+    "arrival_time_next":"24:36:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T00:35:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"24:35:00"
+  },
+  {
+    "stop_name":"Klösterle Campingplatz",
+    "departure":"2026-07-18T05:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"05:16:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T05:16:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"05:17:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T05:17:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Wilden",
+    "arrival_time_next":"05:18:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T05:17:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"05:17:00"
+  },
+  {
+    "stop_name":"Klösterle Campingplatz",
+    "departure":"2026-07-18T06:33:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"06:35:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T06:35:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"06:36:00"
+  },
+  {
+    "stop_name":"Klösterle Wilden",
+    "departure":"2026-07-18T06:36:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"06:37:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T06:36:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Wilden",
+    "arrival_time_next":"06:37:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T06:36:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"06:36:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T06:37:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"06:38:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T06:37:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"06:37:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T06:38:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Campingplatz",
+    "arrival_time_next":"06:39:00"
+  },
+  {
+    "stop_name":"Klösterle Campingplatz",
+    "departure":"2026-07-18T07:39:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"07:41:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T07:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"07:42:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T07:42:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Wilden",
+    "arrival_time_next":"07:43:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T07:42:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"07:42:00"
+  },
+  {
+    "stop_name":"Klösterle Campingplatz",
+    "departure":"2026-07-18T08:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"08:13:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T08:13:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"08:14:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T08:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Wilden",
+    "arrival_time_next":"08:15:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T08:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"08:14:00"
+  },
+  {
+    "stop_name":"Klösterle Wilden",
+    "departure":"2026-07-18T08:40:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"08:41:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T08:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"08:41:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T08:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"08:41:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T08:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Campingplatz",
+    "arrival_time_next":"08:42:00"
+  },
+  {
+    "stop_name":"Klösterle Campingplatz",
+    "departure":"2026-07-18T09:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"09:13:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T09:13:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"09:14:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T09:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Wilden",
+    "arrival_time_next":"09:15:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T09:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"09:14:00"
+  },
+  {
+    "stop_name":"Klösterle Wilden",
+    "departure":"2026-07-18T09:40:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"09:41:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T09:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Campingplatz",
+    "arrival_time_next":"09:42:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T09:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"09:41:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T09:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"09:41:00"
+  },
+  {
+    "stop_name":"Klösterle Campingplatz",
+    "departure":"2026-07-18T10:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"10:13:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T10:13:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"10:14:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T10:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Wilden",
+    "arrival_time_next":"10:15:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T10:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"10:14:00"
+  },
+  {
+    "stop_name":"Klösterle Wilden",
+    "departure":"2026-07-18T10:40:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"10:41:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T10:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"10:41:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T10:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"10:41:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T10:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Campingplatz",
+    "arrival_time_next":"10:42:00"
+  },
+  {
+    "stop_name":"Klösterle Campingplatz",
+    "departure":"2026-07-18T11:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"11:13:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T11:13:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"11:14:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T11:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"11:14:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T11:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Wilden",
+    "arrival_time_next":"11:15:00"
+  },
+  {
+    "stop_name":"Klösterle Wilden",
+    "departure":"2026-07-18T11:40:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"11:41:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T11:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"11:41:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T11:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"11:41:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T11:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Campingplatz",
+    "arrival_time_next":"11:42:00"
+  },
+  {
+    "stop_name":"Klösterle Campingplatz",
+    "departure":"2026-07-18T12:22:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"12:24:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T12:24:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"12:25:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T12:25:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"12:25:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T12:25:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Wilden",
+    "arrival_time_next":"12:26:00"
+  },
+  {
+    "stop_name":"Klösterle Wilden",
+    "departure":"2026-07-18T12:40:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"12:41:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T12:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"12:41:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T12:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Campingplatz",
+    "arrival_time_next":"12:42:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T12:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"12:41:00"
+  },
+  {
+    "stop_name":"Klösterle Campingplatz",
+    "departure":"2026-07-18T13:04:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"13:06:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T13:06:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"13:07:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T13:07:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Wilden",
+    "arrival_time_next":"13:08:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T13:07:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"13:07:00"
+  },
+  {
+    "stop_name":"Klösterle Wilden",
+    "departure":"2026-07-18T13:40:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"13:41:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T13:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"13:41:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T13:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Campingplatz",
+    "arrival_time_next":"13:42:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T13:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"13:41:00"
+  },
+  {
+    "stop_name":"Klösterle Campingplatz",
+    "departure":"2026-07-18T14:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"14:13:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T14:13:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"14:14:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T14:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Wilden",
+    "arrival_time_next":"14:15:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T14:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"14:14:00"
+  },
+  {
+    "stop_name":"Klösterle Wilden",
+    "departure":"2026-07-18T14:40:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"14:41:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T14:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Campingplatz",
+    "arrival_time_next":"14:42:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T14:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"14:41:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T14:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"14:41:00"
+  },
+  {
+    "stop_name":"Klösterle Campingplatz",
+    "departure":"2026-07-18T15:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"15:13:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T15:13:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"15:14:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T15:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Wilden",
+    "arrival_time_next":"15:15:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T15:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"15:14:00"
+  },
+  {
+    "stop_name":"Klösterle Wilden",
+    "departure":"2026-07-18T16:10:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"16:11:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T16:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Campingplatz",
+    "arrival_time_next":"16:12:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T16:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"16:11:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T16:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"16:11:00"
+  },
+  {
+    "stop_name":"Klösterle Campingplatz",
+    "departure":"2026-07-18T16:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"16:13:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T16:13:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"16:14:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T16:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"16:14:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T16:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Wilden",
+    "arrival_time_next":"16:15:00"
+  },
+  {
+    "stop_name":"Klösterle Wilden",
+    "departure":"2026-07-18T17:10:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"17:11:00"
+  },
+  {
+    "stop_name":"Klösterle Campingplatz",
+    "departure":"2026-07-18T17:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"17:13:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T17:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"17:11:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T17:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Campingplatz",
+    "arrival_time_next":"17:12:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T17:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"17:11:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T17:13:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"17:14:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T17:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Wilden",
+    "arrival_time_next":"17:15:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T17:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"17:14:00"
+  },
+  {
+    "stop_name":"Klösterle Campingplatz",
+    "departure":"2026-07-18T17:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"17:43:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T17:43:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"17:44:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T17:44:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Wilden",
+    "arrival_time_next":"17:45:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T17:44:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"17:44:00"
+  },
+  {
+    "stop_name":"Klösterle Wilden",
+    "departure":"2026-07-18T18:10:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"18:11:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T18:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Campingplatz",
+    "arrival_time_next":"18:12:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T18:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"18:11:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T18:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"18:11:00"
+  },
+  {
+    "stop_name":"Klösterle Wilden",
+    "departure":"2026-07-18T18:42:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"18:43:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T18:43:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Campingplatz",
+    "arrival_time_next":"18:44:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T18:43:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"18:43:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T18:43:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"18:43:00"
+  },
+  {
+    "stop_name":"Klösterle Wilden",
+    "departure":"2026-07-18T19:10:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"19:11:00"
+  },
+  {
+    "stop_name":"Klösterle Campingplatz",
+    "departure":"2026-07-18T19:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"19:13:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T19:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"19:11:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T19:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"19:11:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T19:11:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Campingplatz",
+    "arrival_time_next":"19:12:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T19:13:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"19:14:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T19:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Wilden",
+    "arrival_time_next":"19:15:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T19:14:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"19:14:00"
+  },
+  {
+    "stop_name":"Klösterle Wilden",
+    "departure":"2026-07-18T19:40:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"19:41:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T19:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"19:41:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T19:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"19:41:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T19:41:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Campingplatz",
+    "arrival_time_next":"19:42:00"
+  },
+  {
+    "stop_name":"Klösterle Wilden",
+    "departure":"2026-07-18T20:35:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"20:36:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T20:36:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Campingplatz",
+    "arrival_time_next":"20:37:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T20:36:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"20:36:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T20:36:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"20:36:00"
+  },
+  {
+    "stop_name":"Klösterle Campingplatz",
+    "departure":"2026-07-18T20:52:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"20:53:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T20:53:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"20:54:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T20:54:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Wilden",
+    "arrival_time_next":"20:55:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T20:54:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"20:54:00"
+  },
+  {
+    "stop_name":"Klösterle Wilden",
+    "departure":"2026-07-18T22:43:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"22:44:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T22:44:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"22:45:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T22:45:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"22:45:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T22:45:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Campingplatz",
+    "arrival_time_next":"22:46:00"
+  },
+  {
+    "stop_name":"Klösterle Campingplatz",
+    "departure":"2026-07-18T22:52:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Dorfzentrum",
+    "arrival_time_next":"22:53:00"
+  },
+  {
+    "stop_name":"Klösterle Dorfzentrum",
+    "departure":"2026-07-18T22:53:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Klostertaler Hof",
+    "arrival_time_next":"22:54:00"
+  },
+  {
+    "stop_name":"Klösterle Klostertaler Hof",
+    "departure":"2026-07-18T22:54:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Sand",
+    "arrival_time_next":"22:54:00"
+  },
+  {
+    "stop_name":"Klösterle Sand",
+    "departure":"2026-07-18T22:54:00.000",
+    "line":"720",
+    "next_stop":"Klösterle Wilden",
+    "arrival_time_next":"22:55:00"
+  }
+]

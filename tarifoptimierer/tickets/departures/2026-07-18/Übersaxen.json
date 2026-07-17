@@ -1,0 +1,408 @@
+[
+  {
+    "stop_name":"Übersaxen Gemeindeamt",
+    "departure":"2026-07-18T00:08:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"24:09:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T00:09:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Rainberg",
+    "arrival_time_next":"24:10:00"
+  },
+  {
+    "stop_name":"Übersaxen Gemeindeamt",
+    "departure":"2026-07-18T00:38:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"24:39:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T00:39:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Rainberg",
+    "arrival_time_next":"24:40:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T10:19:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"10:20:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T10:20:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"10:21:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T10:49:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"10:50:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T10:50:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"10:51:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T11:19:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"11:20:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T11:20:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"11:21:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T11:49:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"11:50:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T11:50:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"11:51:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T12:19:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"12:20:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T12:20:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"12:21:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T12:49:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"12:50:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T12:50:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"12:51:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T13:19:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"13:20:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T13:20:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"13:21:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T13:49:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"13:50:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T13:50:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"13:51:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T14:19:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"14:20:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T14:20:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"14:21:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T14:49:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"14:50:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T14:50:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"14:51:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T15:19:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"15:20:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T15:20:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"15:21:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T15:49:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"15:50:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T15:50:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"15:51:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T16:19:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"16:20:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T16:20:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"16:21:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T16:49:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"16:50:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T16:50:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"16:51:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T17:19:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"17:20:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T17:20:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"17:21:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T17:49:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"17:50:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T17:50:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"17:51:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T18:19:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"18:20:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T18:20:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"18:21:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T18:49:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"18:50:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T18:50:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"18:51:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T19:19:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"19:20:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T19:20:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"19:21:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T19:49:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"19:50:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T19:50:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"19:51:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T20:19:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"20:20:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T20:20:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"20:21:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T20:49:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"20:50:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T20:50:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"20:51:00"
+  },
+  {
+    "stop_name":"Übersaxen Rainberg",
+    "departure":"2026-07-18T21:19:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"21:20:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T21:20:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Gemeindeamt",
+    "arrival_time_next":"21:21:00"
+  },
+  {
+    "stop_name":"Übersaxen Gemeindeamt",
+    "departure":"2026-07-18T22:08:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"22:09:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T22:09:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Rainberg",
+    "arrival_time_next":"22:10:00"
+  },
+  {
+    "stop_name":"Übersaxen Gemeindeamt",
+    "departure":"2026-07-18T22:38:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"22:39:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T22:39:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Rainberg",
+    "arrival_time_next":"22:40:00"
+  },
+  {
+    "stop_name":"Übersaxen Gemeindeamt",
+    "departure":"2026-07-18T23:08:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"23:09:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T23:09:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Rainberg",
+    "arrival_time_next":"23:10:00"
+  },
+  {
+    "stop_name":"Übersaxen Gemeindeamt",
+    "departure":"2026-07-18T23:38:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Kirchstraße",
+    "arrival_time_next":"23:39:00"
+  },
+  {
+    "stop_name":"Übersaxen Kirchstraße",
+    "departure":"2026-07-18T23:39:00.000",
+    "line":"LWS",
+    "next_stop":"Übersaxen Rainberg",
+    "arrival_time_next":"23:40:00"
+  }
+]

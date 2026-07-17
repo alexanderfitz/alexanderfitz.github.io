@@ -1,0 +1,2305 @@
+[
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T00:07:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"24:08:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T00:08:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"24:09:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T00:09:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"24:10:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T00:10:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"24:12:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T00:14:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"24:15:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T00:15:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"24:16:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T00:16:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"24:17:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T00:17:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"24:18:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T01:07:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"25:08:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T01:08:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"25:09:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T01:09:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"25:10:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T01:10:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"25:12:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T01:14:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"25:15:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T01:15:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"25:16:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T01:16:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"25:17:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T01:17:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"25:18:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T02:07:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"26:08:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T02:08:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"26:09:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T02:09:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"26:10:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T02:10:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"26:12:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T06:00:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"06:03:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T06:03:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"06:04:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T06:04:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"06:05:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T06:05:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"06:06:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T06:06:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"06:07:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T06:30:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"06:33:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T06:33:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"06:34:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T06:34:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"06:35:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T06:35:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"06:36:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T06:36:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"06:37:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T06:46:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"06:47:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T06:47:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"06:48:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T06:48:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"06:49:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T06:49:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"06:51:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T06:51:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"06:53:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T07:00:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"07:03:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T07:03:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"07:04:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T07:04:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"07:05:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T07:05:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"07:06:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T07:06:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"07:07:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T07:16:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"07:17:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T07:17:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"07:18:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T07:18:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"07:19:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T07:19:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"07:21:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T07:21:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"07:23:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T07:30:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"07:33:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T07:33:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"07:34:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T07:34:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"07:35:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T07:35:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"07:36:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T07:36:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"07:37:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T07:46:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"07:47:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T07:47:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"07:48:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T07:48:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"07:49:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T07:49:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"07:51:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T07:51:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"07:53:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T08:00:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"08:03:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T08:03:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"08:04:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T08:04:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"08:05:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T08:05:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"08:06:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T08:06:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"08:07:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T08:16:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"08:17:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T08:17:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"08:18:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T08:18:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"08:19:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T08:19:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"08:21:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T08:21:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"08:23:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T08:30:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"08:33:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T08:33:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"08:34:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T08:34:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"08:35:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T08:35:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"08:36:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T08:36:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"08:37:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T08:46:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"08:47:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T08:47:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"08:48:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T08:48:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"08:49:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T08:49:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"08:51:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T08:51:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"08:53:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T09:00:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"09:03:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T09:03:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"09:04:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T09:04:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"09:05:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T09:05:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"09:06:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T09:06:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"09:07:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T09:16:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"09:17:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T09:17:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"09:18:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T09:18:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"09:19:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T09:19:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"09:21:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T09:21:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"09:23:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T09:30:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"09:33:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T09:33:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"09:34:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T09:34:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"09:35:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T09:35:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"09:36:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T09:36:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"09:37:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T09:46:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"09:47:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T09:47:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"09:48:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T09:48:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"09:49:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T09:49:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"09:51:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T09:51:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"09:53:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T10:00:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"10:03:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T10:03:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"10:04:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T10:04:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"10:05:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T10:05:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"10:06:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T10:06:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"10:07:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T10:16:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"10:17:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T10:17:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"10:18:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T10:18:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"10:19:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T10:19:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"10:21:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T10:21:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"10:23:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T10:30:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"10:33:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T10:33:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"10:34:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T10:34:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"10:35:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T10:35:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"10:36:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T10:36:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"10:37:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T10:46:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"10:47:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T10:47:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"10:48:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T10:48:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"10:49:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T10:49:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"10:51:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T10:51:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"10:53:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T11:00:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"11:03:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T11:03:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"11:04:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T11:04:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"11:05:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T11:05:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"11:06:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T11:06:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"11:07:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T11:16:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"11:17:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T11:17:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"11:18:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T11:18:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"11:19:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T11:19:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"11:21:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T11:21:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"11:23:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T11:30:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"11:33:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T11:33:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"11:34:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T11:34:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"11:35:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T11:35:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"11:36:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T11:36:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"11:37:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T11:46:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"11:47:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T11:47:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"11:48:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T11:48:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"11:49:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T11:49:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"11:51:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T11:51:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"11:53:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T12:00:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"12:03:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T12:03:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"12:04:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T12:04:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"12:05:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T12:05:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"12:06:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T12:06:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"12:07:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T12:16:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"12:17:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T12:17:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"12:18:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T12:18:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"12:19:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T12:19:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"12:21:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T12:21:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"12:23:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T12:30:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"12:33:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T12:33:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"12:34:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T12:34:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"12:35:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T12:35:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"12:36:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T12:36:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"12:37:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T12:46:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"12:47:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T12:47:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"12:48:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T12:48:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"12:49:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T12:49:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"12:51:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T12:51:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"12:53:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T13:00:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"13:03:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T13:03:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"13:04:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T13:04:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"13:05:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T13:05:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"13:06:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T13:06:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"13:07:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T13:16:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"13:17:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T13:17:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"13:18:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T13:18:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"13:19:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T13:19:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"13:21:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T13:21:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"13:23:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T13:30:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"13:33:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T13:33:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"13:34:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T13:34:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"13:35:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T13:35:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"13:36:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T13:36:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"13:37:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T13:46:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"13:47:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T13:47:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"13:48:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T13:48:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"13:49:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T13:49:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"13:51:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T13:51:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"13:53:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T14:00:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"14:03:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T14:03:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"14:04:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T14:04:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"14:05:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T14:05:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"14:06:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T14:06:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"14:07:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T14:16:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"14:17:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T14:17:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"14:18:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T14:18:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"14:19:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T14:19:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"14:21:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T14:21:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"14:23:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T14:30:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"14:33:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T14:33:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"14:34:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T14:34:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"14:35:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T14:35:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"14:36:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T14:36:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"14:37:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T14:46:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"14:47:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T14:47:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"14:48:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T14:48:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"14:49:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T14:49:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"14:51:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T14:51:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"14:53:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T15:00:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"15:03:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T15:03:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"15:04:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T15:04:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"15:05:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T15:05:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"15:06:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T15:06:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"15:07:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T15:16:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"15:17:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T15:17:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"15:18:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T15:18:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"15:19:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T15:19:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"15:21:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T15:21:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"15:23:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T15:30:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"15:33:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T15:33:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"15:34:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T15:34:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"15:35:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T15:35:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"15:36:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T15:36:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"15:37:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T15:46:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"15:47:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T15:47:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"15:48:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T15:48:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"15:49:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T15:49:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"15:51:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T15:51:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"15:53:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T16:00:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"16:03:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T16:03:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"16:04:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T16:04:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"16:05:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T16:05:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"16:06:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T16:06:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"16:07:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T16:16:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"16:17:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T16:17:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"16:18:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T16:18:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"16:19:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T16:19:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"16:21:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T16:21:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"16:23:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T16:30:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"16:33:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T16:33:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"16:34:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T16:34:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"16:35:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T16:35:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"16:36:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T16:36:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"16:37:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T16:46:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"16:47:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T16:47:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"16:48:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T16:48:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"16:49:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T16:49:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"16:51:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T16:51:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"16:53:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T17:00:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"17:03:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T17:03:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"17:04:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T17:04:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"17:05:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T17:05:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"17:06:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T17:06:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"17:07:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T17:16:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"17:17:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T17:17:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"17:18:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T17:18:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"17:19:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T17:19:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"17:21:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T17:21:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"17:23:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T17:30:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"17:33:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T17:33:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"17:34:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T17:34:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"17:35:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T17:35:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"17:36:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T17:36:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"17:37:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T17:46:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"17:47:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T17:47:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"17:48:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T17:48:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"17:49:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T17:49:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"17:51:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T17:51:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"17:53:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T18:00:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"18:03:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T18:03:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"18:04:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T18:04:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"18:05:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T18:05:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"18:06:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T18:06:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"18:07:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T18:16:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"18:17:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T18:17:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"18:18:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T18:18:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"18:19:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T18:19:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"18:21:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T18:21:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"18:23:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T18:30:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"18:33:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T18:33:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"18:34:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T18:34:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"18:35:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T18:35:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"18:36:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T18:36:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"18:37:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T18:46:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"18:47:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T18:47:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"18:48:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T18:48:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"18:49:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T18:49:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"18:51:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T18:51:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"18:53:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T19:00:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"19:03:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T19:03:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"19:04:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T19:04:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"19:05:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T19:05:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"19:06:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T19:06:00.000",
+    "line":"126",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"19:07:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T19:16:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"19:17:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T19:17:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"19:18:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T19:18:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"19:19:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T19:19:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"19:21:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T19:21:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"19:23:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T19:30:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"19:33:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T19:33:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"19:34:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T19:34:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"19:35:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T19:35:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"19:36:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T19:36:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"19:37:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T19:46:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"19:47:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T19:47:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"19:48:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T19:48:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"19:49:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T19:49:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"19:51:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T19:51:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"19:53:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T20:00:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"20:03:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T20:03:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"20:04:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T20:04:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"20:05:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T20:05:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"20:06:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T20:06:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"20:07:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T20:46:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"20:47:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T20:47:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"20:48:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T20:48:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"20:49:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T20:49:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"20:51:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T20:51:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"20:53:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T21:00:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"21:03:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T21:03:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"21:04:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T21:04:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"21:05:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T21:05:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"21:06:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T21:06:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"21:07:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T21:46:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"21:47:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T21:47:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"21:48:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T21:48:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"21:49:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T21:49:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"21:51:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T21:51:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"21:53:00"
+  },
+  {
+    "stop_name":"Hohenweiler Grenze",
+    "departure":"2026-07-18T22:00:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"22:03:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T22:03:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"22:04:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T22:04:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"22:05:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T22:05:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"22:06:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T22:06:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"22:07:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gwiggen",
+    "departure":"2026-07-18T22:46:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"22:47:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T22:47:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"22:48:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T22:48:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"22:49:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T22:49:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gemeindeamt",
+    "arrival_time_next":"22:51:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T22:51:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Grenze",
+    "arrival_time_next":"22:53:00"
+  },
+  {
+    "stop_name":"Hohenweiler Gemeindeamt",
+    "departure":"2026-07-18T23:24:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Bruck",
+    "arrival_time_next":"23:25:00"
+  },
+  {
+    "stop_name":"Hohenweiler Bruck",
+    "departure":"2026-07-18T23:25:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Leutenhofen",
+    "arrival_time_next":"23:26:00"
+  },
+  {
+    "stop_name":"Hohenweiler Leutenhofen",
+    "departure":"2026-07-18T23:26:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Fesslers",
+    "arrival_time_next":"23:27:00"
+  },
+  {
+    "stop_name":"Hohenweiler Fesslers",
+    "departure":"2026-07-18T23:27:00.000",
+    "line":"121",
+    "next_stop":"Hohenweiler Gwiggen",
+    "arrival_time_next":"23:28:00"
+  }
+]

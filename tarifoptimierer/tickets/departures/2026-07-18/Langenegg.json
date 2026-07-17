@@ -1,0 +1,1052 @@
+[
+  {
+    "stop_name":"Langenegg Gfäll",
+    "departure":"2026-07-18T00:49:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"24:50:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T00:50:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"24:51:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T00:51:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"24:52:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T00:52:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"24:53:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T00:53:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"24:54:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T00:54:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Rotenberg",
+    "arrival_time_next":"24:55:00"
+  },
+  {
+    "stop_name":"Langenegg Gfäll",
+    "departure":"2026-07-18T01:03:00.000",
+    "line":"1",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"25:04:00"
+  },
+  {
+    "stop_name":"Langenegg Gfäll",
+    "departure":"2026-07-18T01:04:00.000",
+    "line":"6",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"25:05:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T01:04:00.000",
+    "line":"1",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"25:05:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T01:05:00.000",
+    "line":"1",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"25:06:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T01:05:00.000",
+    "line":"1",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"25:05:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T01:05:00.000",
+    "line":"6",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"25:06:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T01:06:00.000",
+    "line":"1",
+    "next_stop":"Langenegg Rotenberg",
+    "arrival_time_next":"25:07:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T01:06:00.000",
+    "line":"6",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"25:07:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T01:06:00.000",
+    "line":"1",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"25:06:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T01:07:00.000",
+    "line":"6",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"25:08:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T01:08:00.000",
+    "line":"6",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"25:09:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T01:09:00.000",
+    "line":"6",
+    "next_stop":"Langenegg Rotenberg",
+    "arrival_time_next":"25:10:00"
+  },
+  {
+    "stop_name":"Langenegg Gfäll",
+    "departure":"2026-07-18T01:49:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"25:50:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T01:50:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"25:51:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T01:51:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"25:52:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T01:52:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"25:53:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T01:53:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"25:54:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T01:54:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Rotenberg",
+    "arrival_time_next":"25:55:00"
+  },
+  {
+    "stop_name":"Langenegg Gfäll",
+    "departure":"2026-07-18T02:03:00.000",
+    "line":"1",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"26:04:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T02:04:00.000",
+    "line":"1",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"26:05:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T02:05:00.000",
+    "line":"1",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"26:06:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T02:05:00.000",
+    "line":"1",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"26:05:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T02:06:00.000",
+    "line":"1",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"26:06:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T02:06:00.000",
+    "line":"1",
+    "next_stop":"Langenegg Rotenberg",
+    "arrival_time_next":"26:07:00"
+  },
+  {
+    "stop_name":"Langenegg Gfäll",
+    "departure":"2026-07-18T02:49:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"26:50:00"
+  },
+  {
+    "stop_name":"Langenegg Gfäll",
+    "departure":"2026-07-18T02:49:00.000",
+    "line":"6",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"26:50:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T02:50:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"26:51:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T02:50:00.000",
+    "line":"6",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"26:51:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T02:51:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"26:52:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T02:51:00.000",
+    "line":"6",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"26:52:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T02:52:00.000",
+    "line":"6",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"26:53:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T02:52:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"26:53:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T02:53:00.000",
+    "line":"6",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"26:54:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T02:53:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"26:54:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T02:54:00.000",
+    "line":"5",
+    "next_stop":"Langenegg Rotenberg",
+    "arrival_time_next":"26:55:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T02:54:00.000",
+    "line":"6",
+    "next_stop":"Langenegg Rotenberg",
+    "arrival_time_next":"26:55:00"
+  },
+  {
+    "stop_name":"Langenegg Gfäll",
+    "departure":"2026-07-18T06:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"06:36:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T06:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"06:37:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T06:37:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"06:38:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T06:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"06:39:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T06:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"06:38:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T06:39:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Rotenberg",
+    "arrival_time_next":"06:40:00"
+  },
+  {
+    "stop_name":"Langenegg Rotenberg",
+    "departure":"2026-07-18T07:15:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"07:16:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T07:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"07:16:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T07:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"07:17:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T07:17:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"07:18:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T07:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"07:18:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T07:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Gfäll",
+    "arrival_time_next":"07:19:00"
+  },
+  {
+    "stop_name":"Langenegg Rotenberg",
+    "departure":"2026-07-18T08:15:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"08:16:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T08:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"08:16:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T08:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"08:17:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T08:17:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"08:18:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T08:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Gfäll",
+    "arrival_time_next":"08:19:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T08:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"08:18:00"
+  },
+  {
+    "stop_name":"Langenegg Gfäll",
+    "departure":"2026-07-18T08:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"08:36:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T08:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"08:37:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T08:37:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"08:38:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T08:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"08:38:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T08:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"08:39:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T08:39:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Rotenberg",
+    "arrival_time_next":"08:40:00"
+  },
+  {
+    "stop_name":"Langenegg Rotenberg",
+    "departure":"2026-07-18T10:15:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"10:16:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T10:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"10:17:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T10:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"10:16:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T10:17:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"10:18:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T10:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"10:18:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T10:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Gfäll",
+    "arrival_time_next":"10:19:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T10:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"10:37:00"
+  },
+  {
+    "stop_name":"Langenegg Gfäll",
+    "departure":"2026-07-18T10:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"10:36:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T10:37:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"10:38:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T10:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"10:39:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T10:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"10:38:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T10:39:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Rotenberg",
+    "arrival_time_next":"10:40:00"
+  },
+  {
+    "stop_name":"Langenegg Rotenberg",
+    "departure":"2026-07-18T12:15:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"12:16:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T12:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"12:16:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T12:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"12:17:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T12:17:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"12:18:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T12:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Gfäll",
+    "arrival_time_next":"12:19:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T12:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"12:18:00"
+  },
+  {
+    "stop_name":"Langenegg Gfäll",
+    "departure":"2026-07-18T12:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"12:36:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T12:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"12:37:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T12:37:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"12:38:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T12:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"12:39:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T12:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"12:38:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T12:39:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Rotenberg",
+    "arrival_time_next":"12:40:00"
+  },
+  {
+    "stop_name":"Langenegg Rotenberg",
+    "departure":"2026-07-18T14:15:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"14:16:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T14:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"14:16:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T14:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"14:17:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T14:17:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"14:18:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T14:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"14:18:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T14:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Gfäll",
+    "arrival_time_next":"14:19:00"
+  },
+  {
+    "stop_name":"Langenegg Gfäll",
+    "departure":"2026-07-18T14:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"14:36:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T14:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"14:37:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T14:37:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"14:38:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T14:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"14:38:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T14:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"14:39:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T14:39:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Rotenberg",
+    "arrival_time_next":"14:40:00"
+  },
+  {
+    "stop_name":"Langenegg Rotenberg",
+    "departure":"2026-07-18T16:15:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"16:16:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T16:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"16:16:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T16:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"16:17:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T16:17:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"16:18:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T16:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Gfäll",
+    "arrival_time_next":"16:19:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T16:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"16:18:00"
+  },
+  {
+    "stop_name":"Langenegg Gfäll",
+    "departure":"2026-07-18T16:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"16:36:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T16:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"16:37:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T16:37:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"16:38:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T16:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"16:39:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T16:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"16:38:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T16:39:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Rotenberg",
+    "arrival_time_next":"16:40:00"
+  },
+  {
+    "stop_name":"Langenegg Rotenberg",
+    "departure":"2026-07-18T18:15:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"18:16:00"
+  },
+  {
+    "stop_name":"Langenegg Rotenberg",
+    "departure":"2026-07-18T18:15:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"18:16:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T18:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"18:17:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T18:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"18:16:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T18:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"18:17:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T18:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"18:16:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T18:17:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"18:18:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T18:17:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"18:18:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T18:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"18:18:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T18:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"18:18:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T18:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Gfäll",
+    "arrival_time_next":"18:19:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T18:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Gfäll",
+    "arrival_time_next":"18:19:00"
+  },
+  {
+    "stop_name":"Langenegg Gfäll",
+    "departure":"2026-07-18T18:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"18:36:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T18:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"18:37:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T18:37:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"18:38:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T18:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"18:39:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T18:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"18:38:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T18:39:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Rotenberg",
+    "arrival_time_next":"18:40:00"
+  },
+  {
+    "stop_name":"Langenegg Rotenberg",
+    "departure":"2026-07-18T19:15:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"19:16:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T19:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"19:16:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T19:16:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"19:17:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T19:17:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"19:18:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T19:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"19:18:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T19:18:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Gfäll",
+    "arrival_time_next":"19:19:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T20:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"20:37:00"
+  },
+  {
+    "stop_name":"Langenegg Gfäll",
+    "departure":"2026-07-18T20:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"20:36:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T20:37:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"20:38:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T20:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"20:38:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T20:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"20:39:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T20:39:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Rotenberg",
+    "arrival_time_next":"20:40:00"
+  },
+  {
+    "stop_name":"Langenegg Gfäll",
+    "departure":"2026-07-18T22:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Krone",
+    "arrival_time_next":"22:36:00"
+  },
+  {
+    "stop_name":"Langenegg Krone",
+    "departure":"2026-07-18T22:36:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Zentrum",
+    "arrival_time_next":"22:37:00"
+  },
+  {
+    "stop_name":"Langenegg Zentrum",
+    "departure":"2026-07-18T22:37:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Weg",
+    "arrival_time_next":"22:38:00"
+  },
+  {
+    "stop_name":"Langenegg Weg",
+    "departure":"2026-07-18T22:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirchdorf",
+    "arrival_time_next":"22:38:00"
+  },
+  {
+    "stop_name":"Langenegg Kirchdorf",
+    "departure":"2026-07-18T22:38:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Kirche",
+    "arrival_time_next":"22:39:00"
+  },
+  {
+    "stop_name":"Langenegg Kirche",
+    "departure":"2026-07-18T22:39:00.000",
+    "line":"890",
+    "next_stop":"Langenegg Rotenberg",
+    "arrival_time_next":"22:40:00"
+  }
+]

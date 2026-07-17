@@ -1,0 +1,296 @@
+[
+  {
+    "stop_name":"St. Gerold Außerberg",
+    "departure":"2026-07-18T01:03:00.000",
+    "line":"1",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"25:04:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T01:04:00.000",
+    "line":"1",
+    "next_stop":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "arrival_time_next":"25:05:00"
+  },
+  {
+    "stop_name":"St. Gerold Außerberg",
+    "departure":"2026-07-18T02:03:00.000",
+    "line":"1",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"26:04:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T02:04:00.000",
+    "line":"1",
+    "next_stop":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "arrival_time_next":"26:05:00"
+  },
+  {
+    "stop_name":"St. Gerold Außerberg",
+    "departure":"2026-07-18T03:03:00.000",
+    "line":"1",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"27:04:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T03:04:00.000",
+    "line":"1",
+    "next_stop":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "arrival_time_next":"27:05:00"
+  },
+  {
+    "stop_name":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "departure":"2026-07-18T06:35:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"06:37:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T06:37:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Außerberg",
+    "arrival_time_next":"06:38:00"
+  },
+  {
+    "stop_name":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "departure":"2026-07-18T07:25:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"07:27:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T07:27:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Außerberg",
+    "arrival_time_next":"07:28:00"
+  },
+  {
+    "stop_name":"St. Gerold Außerberg",
+    "departure":"2026-07-18T07:48:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"07:49:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T07:49:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "arrival_time_next":"07:50:00"
+  },
+  {
+    "stop_name":"St. Gerold Außerberg",
+    "departure":"2026-07-18T08:28:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"08:29:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T08:29:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "arrival_time_next":"08:30:00"
+  },
+  {
+    "stop_name":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "departure":"2026-07-18T09:25:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"09:27:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T09:27:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Außerberg",
+    "arrival_time_next":"09:28:00"
+  },
+  {
+    "stop_name":"St. Gerold Außerberg",
+    "departure":"2026-07-18T09:28:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"09:29:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T09:29:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "arrival_time_next":"09:30:00"
+  },
+  {
+    "stop_name":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "departure":"2026-07-18T11:25:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"11:27:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T11:27:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Außerberg",
+    "arrival_time_next":"11:28:00"
+  },
+  {
+    "stop_name":"St. Gerold Außerberg",
+    "departure":"2026-07-18T11:28:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"11:29:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T11:29:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "arrival_time_next":"11:30:00"
+  },
+  {
+    "stop_name":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "departure":"2026-07-18T13:25:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"13:27:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T13:27:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Außerberg",
+    "arrival_time_next":"13:28:00"
+  },
+  {
+    "stop_name":"St. Gerold Außerberg",
+    "departure":"2026-07-18T13:28:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"13:29:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T13:29:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "arrival_time_next":"13:30:00"
+  },
+  {
+    "stop_name":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "departure":"2026-07-18T15:25:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"15:27:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T15:27:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Außerberg",
+    "arrival_time_next":"15:28:00"
+  },
+  {
+    "stop_name":"St. Gerold Außerberg",
+    "departure":"2026-07-18T15:28:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"15:29:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T15:29:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "arrival_time_next":"15:30:00"
+  },
+  {
+    "stop_name":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "departure":"2026-07-18T17:25:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"17:27:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T17:27:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Außerberg",
+    "arrival_time_next":"17:28:00"
+  },
+  {
+    "stop_name":"St. Gerold Außerberg",
+    "departure":"2026-07-18T17:28:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"17:29:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T17:29:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "arrival_time_next":"17:30:00"
+  },
+  {
+    "stop_name":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "departure":"2026-07-18T19:25:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"19:27:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T19:27:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Außerberg",
+    "arrival_time_next":"19:28:00"
+  },
+  {
+    "stop_name":"St. Gerold Außerberg",
+    "departure":"2026-07-18T19:28:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"19:29:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T19:29:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "arrival_time_next":"19:30:00"
+  },
+  {
+    "stop_name":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "departure":"2026-07-18T21:25:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"21:27:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T21:27:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Außerberg",
+    "arrival_time_next":"21:28:00"
+  },
+  {
+    "stop_name":"St. Gerold Außerberg",
+    "departure":"2026-07-18T21:28:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gemeindeamt",
+    "arrival_time_next":"21:29:00"
+  },
+  {
+    "stop_name":"St. Gerold Gemeindeamt",
+    "departure":"2026-07-18T21:29:00.000",
+    "line":"570",
+    "next_stop":"St. Gerold Gasthaus Kreuz\/Johannishof",
+    "arrival_time_next":"21:30:00"
+  }
+]

@@ -1,0 +1,583 @@
+[
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T06:52:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Tobel",
+    "arrival_time_next":"06:53:00"
+  },
+  {
+    "stop_name":"Schnifis Tobel",
+    "departure":"2026-07-18T07:12:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"07:13:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T07:52:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Tobel",
+    "arrival_time_next":"07:53:00"
+  },
+  {
+    "stop_name":"Schnifis Tobel",
+    "departure":"2026-07-18T08:32:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"08:33:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T08:33:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"08:34:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T08:34:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Seilbahn",
+    "arrival_time_next":"08:35:00"
+  },
+  {
+    "stop_name":"Schnifis Seilbahn",
+    "departure":"2026-07-18T08:35:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"08:36:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T08:36:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"08:36:00"
+  },
+  {
+    "stop_name":"Schnifis Tobel",
+    "departure":"2026-07-18T09:22:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"09:23:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T09:23:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"09:24:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T09:24:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Seilbahn",
+    "arrival_time_next":"09:25:00"
+  },
+  {
+    "stop_name":"Schnifis Seilbahn",
+    "departure":"2026-07-18T09:25:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"09:26:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T09:26:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"09:26:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T09:32:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Seilbahn",
+    "arrival_time_next":"09:33:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T09:32:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"09:32:00"
+  },
+  {
+    "stop_name":"Schnifis Seilbahn",
+    "departure":"2026-07-18T09:33:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"09:34:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T09:34:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"09:35:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T09:35:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Tobel",
+    "arrival_time_next":"09:36:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T10:27:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Tobel",
+    "arrival_time_next":"10:28:00"
+  },
+  {
+    "stop_name":"Schnifis Tobel",
+    "departure":"2026-07-18T10:32:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"10:33:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T10:33:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"10:34:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T10:34:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Seilbahn",
+    "arrival_time_next":"10:35:00"
+  },
+  {
+    "stop_name":"Schnifis Seilbahn",
+    "departure":"2026-07-18T10:35:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"10:36:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T10:36:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"10:36:00"
+  },
+  {
+    "stop_name":"Schnifis Tobel",
+    "departure":"2026-07-18T11:22:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"11:23:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T11:23:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"11:24:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T11:24:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Seilbahn",
+    "arrival_time_next":"11:25:00"
+  },
+  {
+    "stop_name":"Schnifis Seilbahn",
+    "departure":"2026-07-18T11:25:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"11:26:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T11:26:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"11:26:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T11:32:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"11:32:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T11:32:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Seilbahn",
+    "arrival_time_next":"11:33:00"
+  },
+  {
+    "stop_name":"Schnifis Seilbahn",
+    "departure":"2026-07-18T11:33:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"11:34:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T11:34:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"11:35:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T11:35:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Tobel",
+    "arrival_time_next":"11:36:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T12:27:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Tobel",
+    "arrival_time_next":"12:28:00"
+  },
+  {
+    "stop_name":"Schnifis Tobel",
+    "departure":"2026-07-18T12:32:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"12:33:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T12:33:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"12:34:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T12:34:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Seilbahn",
+    "arrival_time_next":"12:35:00"
+  },
+  {
+    "stop_name":"Schnifis Seilbahn",
+    "departure":"2026-07-18T12:35:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"12:36:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T12:36:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"12:36:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T13:32:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"13:32:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T13:32:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Seilbahn",
+    "arrival_time_next":"13:33:00"
+  },
+  {
+    "stop_name":"Schnifis Seilbahn",
+    "departure":"2026-07-18T13:33:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"13:34:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T13:34:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"13:35:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T13:35:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Tobel",
+    "arrival_time_next":"13:36:00"
+  },
+  {
+    "stop_name":"Schnifis Tobel",
+    "departure":"2026-07-18T14:32:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"14:33:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T14:33:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"14:34:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T14:34:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Seilbahn",
+    "arrival_time_next":"14:35:00"
+  },
+  {
+    "stop_name":"Schnifis Seilbahn",
+    "departure":"2026-07-18T14:35:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"14:36:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T14:36:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"14:36:00"
+  },
+  {
+    "stop_name":"Schnifis Tobel",
+    "departure":"2026-07-18T15:22:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"15:23:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T15:32:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Seilbahn",
+    "arrival_time_next":"15:33:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T15:32:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"15:32:00"
+  },
+  {
+    "stop_name":"Schnifis Seilbahn",
+    "departure":"2026-07-18T15:33:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"15:34:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T15:34:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"15:35:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T15:35:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Tobel",
+    "arrival_time_next":"15:36:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T16:27:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"16:27:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T16:27:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Seilbahn",
+    "arrival_time_next":"16:28:00"
+  },
+  {
+    "stop_name":"Schnifis Seilbahn",
+    "departure":"2026-07-18T16:28:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"16:29:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T16:29:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"16:30:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T16:30:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Tobel",
+    "arrival_time_next":"16:31:00"
+  },
+  {
+    "stop_name":"Schnifis Tobel",
+    "departure":"2026-07-18T16:32:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"16:33:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T16:33:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"16:34:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T16:34:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Seilbahn",
+    "arrival_time_next":"16:35:00"
+  },
+  {
+    "stop_name":"Schnifis Seilbahn",
+    "departure":"2026-07-18T16:35:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"16:36:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T16:36:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"16:36:00"
+  },
+  {
+    "stop_name":"Schnifis Tobel",
+    "departure":"2026-07-18T17:22:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"17:23:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T17:32:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"17:32:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T17:32:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Seilbahn",
+    "arrival_time_next":"17:33:00"
+  },
+  {
+    "stop_name":"Schnifis Seilbahn",
+    "departure":"2026-07-18T17:33:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"17:34:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T17:34:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"17:35:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T17:35:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Tobel",
+    "arrival_time_next":"17:36:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T18:27:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Seilbahn",
+    "arrival_time_next":"18:28:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T18:27:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"18:27:00"
+  },
+  {
+    "stop_name":"Schnifis Seilbahn",
+    "departure":"2026-07-18T18:28:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"18:29:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T18:29:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"18:30:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T18:30:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Tobel",
+    "arrival_time_next":"18:31:00"
+  },
+  {
+    "stop_name":"Schnifis Tobel",
+    "departure":"2026-07-18T18:32:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"18:33:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T18:33:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"18:34:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T18:34:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Seilbahn",
+    "arrival_time_next":"18:35:00"
+  },
+  {
+    "stop_name":"Schnifis Seilbahn",
+    "departure":"2026-07-18T18:35:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gemeindeamt",
+    "arrival_time_next":"18:36:00"
+  },
+  {
+    "stop_name":"Schnifis Gemeindeamt",
+    "departure":"2026-07-18T18:36:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Gasthaus Krone",
+    "arrival_time_next":"18:36:00"
+  },
+  {
+    "stop_name":"Schnifis Gasthaus Krone",
+    "departure":"2026-07-18T19:32:00.000",
+    "line":"550",
+    "next_stop":"Schnifis Tobel",
+    "arrival_time_next":"19:33:00"
+  }
+]

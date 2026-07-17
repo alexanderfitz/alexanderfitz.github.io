@@ -1,0 +1,3369 @@
+[
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T00:15:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"24:16:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T00:16:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"24:17:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T00:17:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"24:20:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T00:18:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"24:19:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T00:19:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"24:20:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T00:20:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"24:21:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T00:20:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"24:21:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T00:21:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"24:22:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T00:22:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"24:23:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T00:23:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Seilbahn",
+    "arrival_time_next":"24:25:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T01:15:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"25:16:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T01:16:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"25:17:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T01:17:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"25:20:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T01:20:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"25:21:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T01:21:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"25:22:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T01:22:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"25:23:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T01:23:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Seilbahn",
+    "arrival_time_next":"25:25:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T01:30:00.000",
+    "line":"6",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"25:31:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T01:31:00.000",
+    "line":"6",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"25:32:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T01:32:00.000",
+    "line":"6",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"25:33:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T01:33:00.000",
+    "line":"6",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"25:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T01:34:00.000",
+    "line":"6",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"25:34:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T01:35:00.000",
+    "line":"3",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"25:36:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T01:36:00.000",
+    "line":"3",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"25:37:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T01:37:00.000",
+    "line":"3",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"25:38:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T02:15:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"26:16:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T02:16:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"26:17:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T02:17:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"26:20:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T02:20:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"26:21:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T02:21:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"26:22:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T02:22:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"26:23:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T02:23:00.000",
+    "line":"1a",
+    "next_stop":"Bezau Seilbahn",
+    "arrival_time_next":"26:25:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T03:15:00.000",
+    "line":"6",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"27:16:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T03:16:00.000",
+    "line":"6",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"27:17:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T03:17:00.000",
+    "line":"6",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"27:18:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T03:18:00.000",
+    "line":"6",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"27:19:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T03:19:00.000",
+    "line":"6",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"27:19:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T03:20:00.000",
+    "line":"3",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"27:21:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T03:21:00.000",
+    "line":"3",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"27:22:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T03:22:00.000",
+    "line":"3",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"27:23:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T05:33:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"05:34:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T05:33:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"05:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T05:34:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"05:35:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T05:34:00.000",
+    "line":"831",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"05:35:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T05:36:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"05:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T05:36:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"05:37:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T05:37:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"05:38:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T05:37:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"05:38:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T05:38:00.000",
+    "line":"850",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"05:39:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T05:38:00.000",
+    "line":"830",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"05:39:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T06:31:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"06:32:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T06:32:00.000",
+    "line":"831",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"06:33:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T06:33:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"06:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T06:34:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"06:35:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T06:36:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"06:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T06:36:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"06:37:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T06:37:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"06:38:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T06:37:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"06:38:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T06:38:00.000",
+    "line":"850",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"06:39:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T06:38:00.000",
+    "line":"830",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"06:39:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T07:16:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"07:17:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T07:17:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"07:18:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T07:18:00.000",
+    "line":"830",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"07:19:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T07:21:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"07:22:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T07:22:00.000",
+    "line":"831",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"07:23:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T07:32:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"07:33:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T07:33:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"07:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T07:33:00.000",
+    "line":"831",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"07:35:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T07:34:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"07:35:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T07:36:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"07:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T07:36:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"07:37:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T07:37:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"07:38:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T07:37:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"07:38:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T07:38:00.000",
+    "line":"830",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"07:39:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T07:38:00.000",
+    "line":"850",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"07:39:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T07:46:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"07:47:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T07:47:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"07:48:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T07:48:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"07:49:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T07:51:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"07:52:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T07:52:00.000",
+    "line":"850",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"07:53:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T08:16:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"08:17:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T08:16:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"08:17:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T08:17:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"08:18:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T08:17:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"08:18:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T08:18:00.000",
+    "line":"830",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"08:19:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T08:18:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"08:19:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T08:21:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"08:22:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T08:21:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"08:23:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T08:21:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"08:22:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T08:22:00.000",
+    "line":"831",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"08:23:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T08:22:00.000",
+    "line":"850",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"08:23:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T08:23:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"08:25:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T08:25:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"08:26:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T08:26:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"08:27:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T08:27:00.000",
+    "line":"832",
+    "next_stop":"Bezau Seilbahn",
+    "arrival_time_next":"08:28:00"
+  },
+  {
+    "stop_name":"Bezau Seilbahn",
+    "departure":"2026-07-18T08:28:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"08:29:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T08:29:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"08:30:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T08:30:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"08:31:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T08:31:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"08:32:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T08:32:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"08:33:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T08:32:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"08:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T08:33:00.000",
+    "line":"831",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"08:35:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T08:33:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"08:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T08:34:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"08:35:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T08:36:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"08:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T08:36:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"08:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T08:36:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"08:37:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T08:37:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"08:38:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T08:37:00.000",
+    "line":"832",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"08:38:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T08:37:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"08:38:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T08:38:00.000",
+    "line":"830",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"08:39:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T08:38:00.000",
+    "line":"850",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"08:39:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T09:16:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"09:17:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T09:16:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"09:17:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T09:17:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"09:18:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T09:17:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"09:18:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T09:18:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"09:19:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T09:18:00.000",
+    "line":"830",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"09:19:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T09:18:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"09:19:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T09:19:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"09:20:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T09:21:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"09:23:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T09:21:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"09:22:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T09:21:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"09:22:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T09:22:00.000",
+    "line":"850",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"09:23:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T09:22:00.000",
+    "line":"831",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"09:23:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T09:23:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"09:25:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T09:25:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"09:26:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T09:26:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"09:27:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T09:27:00.000",
+    "line":"832",
+    "next_stop":"Bezau Seilbahn",
+    "arrival_time_next":"09:28:00"
+  },
+  {
+    "stop_name":"Bezau Seilbahn",
+    "departure":"2026-07-18T09:28:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"09:29:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T09:29:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"09:30:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T09:30:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"09:31:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T09:31:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"09:32:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T09:32:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"09:34:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T09:32:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"09:33:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T09:33:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"09:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T09:33:00.000",
+    "line":"831",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"09:35:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T09:34:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"09:35:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T09:36:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"09:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T09:36:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"09:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T09:36:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"09:37:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T09:37:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"09:38:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T09:37:00.000",
+    "line":"832",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"09:38:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T09:37:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"09:38:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T09:38:00.000",
+    "line":"830",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"09:39:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T09:38:00.000",
+    "line":"850",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"09:39:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T10:16:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"10:17:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T10:16:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"10:17:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T10:17:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"10:18:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T10:17:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"10:18:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T10:18:00.000",
+    "line":"830",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"10:19:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T10:18:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"10:19:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T10:18:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"10:19:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T10:19:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"10:20:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T10:21:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"10:22:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T10:21:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"10:23:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T10:21:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"10:22:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T10:22:00.000",
+    "line":"850",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"10:23:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T10:22:00.000",
+    "line":"831",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"10:23:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T10:23:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"10:25:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T10:25:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"10:26:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T10:26:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"10:27:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T10:27:00.000",
+    "line":"832",
+    "next_stop":"Bezau Seilbahn",
+    "arrival_time_next":"10:28:00"
+  },
+  {
+    "stop_name":"Bezau Seilbahn",
+    "departure":"2026-07-18T10:28:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"10:29:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T10:29:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"10:30:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T10:30:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"10:31:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T10:31:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"10:32:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T10:32:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"10:33:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T10:32:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"10:34:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T10:33:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"10:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T10:33:00.000",
+    "line":"831",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"10:35:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T10:34:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"10:35:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T10:36:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"10:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T10:36:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"10:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T10:36:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"10:37:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T10:37:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"10:38:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T10:37:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"10:38:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T10:37:00.000",
+    "line":"832",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"10:38:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T10:38:00.000",
+    "line":"850",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"10:39:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T10:38:00.000",
+    "line":"830",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"10:39:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T11:16:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"11:17:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T11:16:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"11:17:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T11:17:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"11:18:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T11:17:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"11:18:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T11:18:00.000",
+    "line":"830",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"11:19:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T11:18:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"11:19:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T11:18:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"11:19:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T11:19:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"11:20:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T11:21:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"11:22:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T11:21:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"11:23:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T11:21:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"11:22:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T11:22:00.000",
+    "line":"850",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"11:23:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T11:22:00.000",
+    "line":"831",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"11:23:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T11:23:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"11:25:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T11:25:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"11:26:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T11:26:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"11:27:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T11:27:00.000",
+    "line":"832",
+    "next_stop":"Bezau Seilbahn",
+    "arrival_time_next":"11:28:00"
+  },
+  {
+    "stop_name":"Bezau Seilbahn",
+    "departure":"2026-07-18T11:28:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"11:29:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T11:29:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"11:30:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T11:30:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"11:31:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T11:31:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"11:32:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T11:32:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"11:33:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T11:32:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"11:34:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T11:33:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"11:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T11:33:00.000",
+    "line":"831",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"11:35:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T11:34:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"11:35:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T11:36:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"11:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T11:36:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"11:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T11:36:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"11:37:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T11:37:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"11:38:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T11:37:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"11:38:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T11:37:00.000",
+    "line":"832",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"11:38:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T11:38:00.000",
+    "line":"850",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"11:39:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T11:38:00.000",
+    "line":"830",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"11:39:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T12:16:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"12:17:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T12:16:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"12:17:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T12:17:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"12:18:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T12:17:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"12:18:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T12:18:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"12:19:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T12:18:00.000",
+    "line":"830",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"12:19:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T12:18:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"12:19:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T12:19:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"12:20:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T12:21:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"12:23:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T12:21:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"12:22:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T12:21:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"12:22:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T12:22:00.000",
+    "line":"850",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"12:23:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T12:22:00.000",
+    "line":"831",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"12:23:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T12:23:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"12:25:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T12:25:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"12:26:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T12:26:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"12:27:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T12:27:00.000",
+    "line":"832",
+    "next_stop":"Bezau Seilbahn",
+    "arrival_time_next":"12:28:00"
+  },
+  {
+    "stop_name":"Bezau Seilbahn",
+    "departure":"2026-07-18T12:28:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"12:29:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T12:29:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"12:30:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T12:30:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"12:31:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T12:31:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"12:32:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T12:32:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"12:34:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T12:32:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"12:33:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T12:33:00.000",
+    "line":"831",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"12:35:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T12:33:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"12:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T12:34:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"12:35:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T12:36:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"12:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T12:36:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"12:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T12:36:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"12:37:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T12:37:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"12:38:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T12:37:00.000",
+    "line":"832",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"12:38:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T12:37:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"12:38:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T12:38:00.000",
+    "line":"830",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"12:39:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T12:38:00.000",
+    "line":"850",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"12:39:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T13:16:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"13:17:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T13:16:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"13:17:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T13:17:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"13:18:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T13:17:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"13:18:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T13:18:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"13:19:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T13:18:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"13:19:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T13:18:00.000",
+    "line":"830",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"13:19:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T13:19:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"13:20:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T13:21:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"13:22:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T13:21:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"13:22:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T13:21:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"13:23:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T13:22:00.000",
+    "line":"850",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"13:23:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T13:22:00.000",
+    "line":"831",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"13:23:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T13:23:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"13:25:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T13:25:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"13:26:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T13:26:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"13:27:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T13:27:00.000",
+    "line":"832",
+    "next_stop":"Bezau Seilbahn",
+    "arrival_time_next":"13:28:00"
+  },
+  {
+    "stop_name":"Bezau Seilbahn",
+    "departure":"2026-07-18T13:28:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"13:29:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T13:29:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"13:30:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T13:30:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"13:31:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T13:31:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"13:32:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T13:32:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"13:34:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T13:32:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"13:33:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T13:33:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"13:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T13:33:00.000",
+    "line":"831",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"13:35:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T13:34:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"13:35:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T13:36:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"13:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T13:36:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"13:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T13:36:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"13:37:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T13:37:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"13:38:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T13:37:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"13:38:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T13:37:00.000",
+    "line":"832",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"13:38:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T13:38:00.000",
+    "line":"850",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"13:39:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T13:38:00.000",
+    "line":"830",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"13:39:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T14:16:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"14:17:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T14:16:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"14:17:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T14:17:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"14:18:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T14:17:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"14:18:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T14:18:00.000",
+    "line":"830",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"14:19:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T14:18:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"14:19:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T14:18:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"14:19:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T14:19:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"14:20:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T14:21:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"14:22:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T14:21:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"14:23:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T14:21:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"14:22:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T14:22:00.000",
+    "line":"850",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"14:23:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T14:22:00.000",
+    "line":"831",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"14:23:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T14:23:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"14:25:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T14:25:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"14:26:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T14:26:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"14:27:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T14:27:00.000",
+    "line":"832",
+    "next_stop":"Bezau Seilbahn",
+    "arrival_time_next":"14:28:00"
+  },
+  {
+    "stop_name":"Bezau Seilbahn",
+    "departure":"2026-07-18T14:28:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"14:29:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T14:29:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"14:30:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T14:30:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"14:31:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T14:31:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"14:32:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T14:32:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"14:34:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T14:32:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"14:33:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T14:33:00.000",
+    "line":"831",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"14:35:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T14:33:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"14:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T14:34:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"14:35:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T14:36:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"14:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T14:36:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"14:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T14:36:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"14:37:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T14:37:00.000",
+    "line":"832",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"14:38:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T14:37:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"14:38:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T14:37:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"14:38:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T14:38:00.000",
+    "line":"830",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"14:39:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T14:38:00.000",
+    "line":"850",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"14:39:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T15:16:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"15:17:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T15:16:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"15:17:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T15:17:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"15:18:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T15:17:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"15:18:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T15:18:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"15:19:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T15:18:00.000",
+    "line":"830",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"15:19:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T15:18:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"15:19:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T15:19:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"15:20:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T15:21:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"15:23:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T15:21:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"15:22:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T15:21:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"15:22:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T15:22:00.000",
+    "line":"831",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"15:23:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T15:22:00.000",
+    "line":"850",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"15:23:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T15:23:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"15:25:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T15:25:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"15:26:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T15:26:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"15:27:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T15:27:00.000",
+    "line":"832",
+    "next_stop":"Bezau Seilbahn",
+    "arrival_time_next":"15:28:00"
+  },
+  {
+    "stop_name":"Bezau Seilbahn",
+    "departure":"2026-07-18T15:28:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"15:29:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T15:29:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"15:30:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T15:30:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"15:31:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T15:31:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"15:32:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T15:32:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"15:33:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T15:32:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"15:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T15:33:00.000",
+    "line":"831",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"15:35:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T15:33:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"15:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T15:34:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"15:35:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T15:36:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"15:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T15:36:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"15:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T15:36:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"15:37:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T15:37:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"15:38:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T15:37:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"15:38:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T15:37:00.000",
+    "line":"832",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"15:38:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T15:38:00.000",
+    "line":"830",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"15:39:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T15:38:00.000",
+    "line":"850",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"15:39:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T16:16:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"16:17:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T16:16:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"16:17:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T16:17:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"16:18:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T16:17:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"16:18:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T16:18:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"16:19:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T16:18:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"16:19:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T16:18:00.000",
+    "line":"830",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"16:19:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T16:19:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"16:20:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T16:21:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"16:22:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T16:21:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"16:22:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T16:21:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"16:23:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T16:22:00.000",
+    "line":"850",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"16:23:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T16:22:00.000",
+    "line":"831",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"16:23:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T16:23:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"16:25:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T16:25:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"16:26:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T16:26:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"16:27:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T16:27:00.000",
+    "line":"832",
+    "next_stop":"Bezau Seilbahn",
+    "arrival_time_next":"16:28:00"
+  },
+  {
+    "stop_name":"Bezau Seilbahn",
+    "departure":"2026-07-18T16:28:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"16:29:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T16:29:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"16:30:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T16:30:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"16:31:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T16:31:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"16:32:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T16:32:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"16:33:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T16:32:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"16:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T16:33:00.000",
+    "line":"831",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"16:35:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T16:33:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"16:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T16:34:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"16:35:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T16:36:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"16:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T16:36:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"16:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T16:36:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"16:37:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T16:37:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"16:38:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T16:37:00.000",
+    "line":"832",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"16:38:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T16:37:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"16:38:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T16:38:00.000",
+    "line":"850",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"16:39:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T16:38:00.000",
+    "line":"830",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"16:39:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T17:16:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"17:17:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T17:16:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"17:17:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T17:17:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"17:18:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T17:17:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"17:18:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T17:18:00.000",
+    "line":"832",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"17:19:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T17:18:00.000",
+    "line":"830",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"17:19:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T17:18:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"17:19:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T17:19:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"17:20:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T17:21:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"17:22:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T17:21:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"17:23:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T17:21:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"17:22:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T17:22:00.000",
+    "line":"831",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"17:23:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T17:22:00.000",
+    "line":"850",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"17:23:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T17:23:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"17:25:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T17:25:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"17:26:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T17:26:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"17:27:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T17:27:00.000",
+    "line":"832",
+    "next_stop":"Bezau Seilbahn",
+    "arrival_time_next":"17:28:00"
+  },
+  {
+    "stop_name":"Bezau Seilbahn",
+    "departure":"2026-07-18T17:28:00.000",
+    "line":"832",
+    "next_stop":"Bezau Obere",
+    "arrival_time_next":"17:29:00"
+  },
+  {
+    "stop_name":"Bezau Obere",
+    "departure":"2026-07-18T17:29:00.000",
+    "line":"832",
+    "next_stop":"Bezau Mittlere",
+    "arrival_time_next":"17:30:00"
+  },
+  {
+    "stop_name":"Bezau Mittlere",
+    "departure":"2026-07-18T17:30:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kriechere",
+    "arrival_time_next":"17:31:00"
+  },
+  {
+    "stop_name":"Bezau Kriechere",
+    "departure":"2026-07-18T17:31:00.000",
+    "line":"832",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"17:32:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T17:32:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"17:33:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T17:32:00.000",
+    "line":"832",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"17:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T17:33:00.000",
+    "line":"831",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"17:35:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T17:33:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"17:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T17:34:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"17:35:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T17:36:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"17:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T17:36:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"17:37:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T17:37:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"17:38:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T17:37:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"17:38:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T17:38:00.000",
+    "line":"830",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"17:39:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T17:38:00.000",
+    "line":"850",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"17:39:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T18:16:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"18:17:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T18:16:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"18:17:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T18:17:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"18:18:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T18:17:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"18:18:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T18:18:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"18:19:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T18:18:00.000",
+    "line":"830",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"18:19:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T18:21:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"18:22:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T18:21:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"18:22:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T18:22:00.000",
+    "line":"850",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"18:23:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T18:22:00.000",
+    "line":"831",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"18:23:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T18:32:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"18:33:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T18:33:00.000",
+    "line":"831",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"18:35:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T18:33:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"18:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T18:34:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"18:35:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T18:36:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"18:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T18:36:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"18:37:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T18:37:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"18:38:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T18:37:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"18:38:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T18:38:00.000",
+    "line":"830",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"18:39:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T18:38:00.000",
+    "line":"850",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"18:39:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T19:16:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"19:17:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T19:16:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"19:17:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T19:17:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"19:18:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T19:17:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"19:18:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T19:18:00.000",
+    "line":"830",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"19:19:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T19:18:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"19:19:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T19:21:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"19:22:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T19:21:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"19:22:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T19:22:00.000",
+    "line":"850",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"19:23:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T19:22:00.000",
+    "line":"831",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"19:23:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T19:32:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"19:33:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T19:33:00.000",
+    "line":"831",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"19:35:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T19:33:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"19:34:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T19:34:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"19:35:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T19:36:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"19:37:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T19:36:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"19:37:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T19:37:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"19:38:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T19:37:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"19:38:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T19:38:00.000",
+    "line":"850",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"19:39:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T19:38:00.000",
+    "line":"830",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"19:39:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T20:17:00.000",
+    "line":"830",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"20:18:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T20:18:00.000",
+    "line":"830",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"20:20:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T20:18:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"20:19:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T20:19:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"20:20:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T20:20:00.000",
+    "line":"830",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"20:21:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T20:20:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"20:21:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T20:21:00.000",
+    "line":"850",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"20:22:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T20:21:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"20:22:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T20:21:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"20:21:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T20:22:00.000",
+    "line":"831",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"20:23:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T20:39:00.000",
+    "line":"831",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"20:40:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T20:40:00.000",
+    "line":"831",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"20:41:00"
+  },
+  {
+    "stop_name":"Bezau Cafe Natter",
+    "departure":"2026-07-18T21:28:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"21:29:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T21:29:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"21:30:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T21:30:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"21:31:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T21:31:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"21:32:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T21:32:00.000",
+    "line":"850",
+    "next_stop":"Bezau Wilbinger",
+    "arrival_time_next":"21:33:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T22:18:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"22:19:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T22:19:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"22:20:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T22:20:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"22:21:00"
+  },
+  {
+    "stop_name":"Bezau Busbahnhof",
+    "departure":"2026-07-18T22:21:00.000",
+    "line":"850",
+    "next_stop":"Bezau Sozialzentrum",
+    "arrival_time_next":"22:21:00"
+  },
+  {
+    "stop_name":"Bezau Sozialzentrum",
+    "departure":"2026-07-18T22:21:00.000",
+    "line":"850",
+    "next_stop":"Bezau Cafe Natter",
+    "arrival_time_next":"22:22:00"
+  },
+  {
+    "stop_name":"Bezau Wilbinger",
+    "departure":"2026-07-18T23:18:00.000",
+    "line":"850",
+    "next_stop":"Bezau Unterdorf",
+    "arrival_time_next":"23:19:00"
+  },
+  {
+    "stop_name":"Bezau Unterdorf",
+    "departure":"2026-07-18T23:19:00.000",
+    "line":"850",
+    "next_stop":"Bezau Kloster",
+    "arrival_time_next":"23:20:00"
+  },
+  {
+    "stop_name":"Bezau Kloster",
+    "departure":"2026-07-18T23:20:00.000",
+    "line":"850",
+    "next_stop":"Bezau Busbahnhof",
+    "arrival_time_next":"23:21:00"
+  }
+]

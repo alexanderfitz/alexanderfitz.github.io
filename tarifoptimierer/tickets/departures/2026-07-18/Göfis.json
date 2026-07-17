@@ -1,0 +1,4580 @@
+[
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T00:15:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"24:16:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T00:16:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"24:17:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T00:17:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"24:18:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T00:18:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"24:19:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T00:19:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"24:20:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T00:20:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"24:20:00"
+  },
+  {
+    "stop_name":"Göfis Schildried",
+    "departure":"2026-07-18T06:46:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"06:48:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T06:47:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"06:48:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T06:48:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"06:50:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T06:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"06:49:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T06:48:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"06:49:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T06:49:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"06:50:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T06:49:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"06:50:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T06:50:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"06:51:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T06:50:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"06:51:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T06:50:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"06:51:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T06:51:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"06:52:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T06:51:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"06:51:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T06:51:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"06:53:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T06:51:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"06:52:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T06:52:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"06:54:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T06:52:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"06:53:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T06:53:00.000",
+    "line":"485",
+    "next_stop":"Göfis Schildried",
+    "arrival_time_next":"06:55:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T06:53:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"06:54:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T06:54:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"06:55:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T06:54:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"06:55:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T06:54:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"06:55:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T06:55:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"06:57:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T06:55:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"06:56:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T06:56:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"06:57:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T06:57:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"06:58:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T06:57:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"06:58:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T06:58:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"06:59:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T06:58:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"07:00:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T06:59:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"07:00:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T07:00:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"07:01:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T07:00:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"07:01:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T07:01:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"07:02:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T07:02:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"07:03:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T07:03:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"07:05:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T07:05:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"07:06:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T07:06:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"07:07:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T07:14:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"07:15:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T07:15:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"07:16:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T07:16:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"07:18:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T07:18:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"07:20:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T07:20:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"07:22:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T07:21:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"07:22:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T07:22:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"07:23:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T07:22:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"07:23:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T07:23:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"07:24:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T07:23:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"07:25:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T07:24:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"07:25:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T07:25:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"07:27:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T07:25:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"07:27:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T07:27:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"07:28:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T07:27:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"07:29:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T07:28:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"07:30:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T07:29:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"07:31:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T07:30:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"07:31:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T07:31:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"07:33:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T07:31:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"07:32:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T07:32:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"07:33:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T07:33:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"07:34:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T07:35:00.000",
+    "line":"481",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"07:36:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T07:36:00.000",
+    "line":"481",
+    "next_stop":"Göfis L65\/Agasella",
+    "arrival_time_next":"07:37:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Agasella",
+    "departure":"2026-07-18T07:37:00.000",
+    "line":"481",
+    "next_stop":"Göfis Feuerwehrhaus",
+    "arrival_time_next":"07:39:00"
+  },
+  {
+    "stop_name":"Göfis Feuerwehrhaus",
+    "departure":"2026-07-18T07:39:00.000",
+    "line":"481",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"07:40:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T07:40:00.000",
+    "line":"481",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"07:41:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T07:41:00.000",
+    "line":"481",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"07:43:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T07:43:00.000",
+    "line":"481",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"07:45:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T07:45:00.000",
+    "line":"481",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"07:46:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T07:46:00.000",
+    "line":"481",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"07:47:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T07:47:00.000",
+    "line":"481",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"07:48:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T07:48:00.000",
+    "line":"481",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"07:49:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T08:07:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"08:08:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T08:08:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"08:09:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T08:09:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"08:10:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T08:10:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"08:11:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T08:11:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"08:13:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T08:13:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"08:14:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T08:14:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"08:16:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T08:16:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"08:17:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T08:17:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"08:18:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T08:18:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"08:19:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T08:19:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"08:20:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T08:37:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"08:38:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T08:38:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"08:39:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T08:39:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"08:40:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T08:40:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"08:41:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T08:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"08:43:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T08:41:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"08:42:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T08:42:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"08:43:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T08:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"08:44:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T08:43:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"08:44:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T08:44:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"08:45:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T08:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"08:45:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T08:45:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"08:46:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T08:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"08:46:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T08:46:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"08:47:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T08:46:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"08:48:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T08:47:00.000",
+    "line":"485",
+    "next_stop":"Göfis Schildried",
+    "arrival_time_next":"08:49:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T08:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"08:49:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T08:49:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"08:50:00"
+  },
+  {
+    "stop_name":"Göfis Schildried",
+    "departure":"2026-07-18T09:06:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"09:08:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T09:07:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"09:08:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T09:08:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"09:10:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T09:08:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"09:09:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T09:09:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"09:10:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T09:10:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"09:11:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T09:10:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"09:11:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T09:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"09:11:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T09:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"09:13:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T09:11:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"09:13:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T09:13:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"09:14:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T09:13:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"09:14:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T09:14:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"09:15:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T09:14:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"09:16:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T09:16:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"09:17:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T09:17:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"09:18:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T09:18:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"09:19:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T09:19:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"09:20:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T09:37:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"09:38:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T09:38:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"09:39:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T09:39:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"09:40:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T09:40:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"09:41:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T09:41:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"09:42:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T09:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"09:43:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T09:42:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"09:43:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T09:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"09:44:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T09:43:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"09:44:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T09:44:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"09:45:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T09:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"09:45:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T09:45:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"09:46:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T09:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"09:46:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T09:46:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"09:47:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T09:46:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"09:48:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T09:47:00.000",
+    "line":"485",
+    "next_stop":"Göfis Schildried",
+    "arrival_time_next":"09:49:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T09:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"09:49:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T09:49:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"09:50:00"
+  },
+  {
+    "stop_name":"Göfis Schildried",
+    "departure":"2026-07-18T10:06:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"10:08:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T10:07:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"10:08:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T10:08:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"10:09:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T10:08:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"10:10:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T10:09:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"10:10:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T10:10:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"10:11:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T10:10:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"10:11:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T10:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"10:11:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T10:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"10:13:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T10:11:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"10:13:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T10:13:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"10:14:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T10:13:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"10:14:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T10:14:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"10:16:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T10:14:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"10:15:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T10:16:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"10:17:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T10:17:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"10:18:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T10:18:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"10:19:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T10:19:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"10:20:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T10:37:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"10:38:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T10:38:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"10:39:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T10:39:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"10:40:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T10:40:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"10:41:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T10:41:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"10:42:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T10:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"10:43:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T10:42:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"10:43:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T10:43:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"10:44:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T10:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"10:44:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T10:44:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"10:45:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T10:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"10:45:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T10:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"10:46:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T10:45:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"10:46:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T10:46:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"10:48:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T10:46:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"10:47:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T10:47:00.000",
+    "line":"485",
+    "next_stop":"Göfis Schildried",
+    "arrival_time_next":"10:49:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T10:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"10:49:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T10:49:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"10:50:00"
+  },
+  {
+    "stop_name":"Göfis Schildried",
+    "departure":"2026-07-18T11:06:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"11:08:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T11:07:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"11:08:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T11:08:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"11:10:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T11:08:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"11:09:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T11:09:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"11:10:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T11:10:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"11:11:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T11:10:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"11:11:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T11:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"11:11:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T11:11:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"11:13:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T11:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"11:13:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T11:13:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"11:14:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T11:13:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"11:14:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T11:14:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"11:15:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T11:14:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"11:16:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T11:16:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"11:17:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T11:17:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"11:18:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T11:18:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"11:19:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T11:19:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"11:20:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T11:37:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"11:38:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T11:38:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"11:39:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T11:39:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"11:40:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T11:40:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"11:41:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T11:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"11:43:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T11:41:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"11:42:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T11:42:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"11:43:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T11:43:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"11:44:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T11:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"11:44:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T11:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"11:45:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T11:44:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"11:45:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T11:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"11:46:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T11:45:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"11:46:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T11:46:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"11:48:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T11:46:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"11:47:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T11:47:00.000",
+    "line":"485",
+    "next_stop":"Göfis Schildried",
+    "arrival_time_next":"11:49:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T11:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"11:49:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T11:49:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"11:50:00"
+  },
+  {
+    "stop_name":"Göfis Schildried",
+    "departure":"2026-07-18T12:06:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"12:08:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T12:07:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"12:08:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T12:08:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"12:10:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T12:08:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"12:09:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T12:09:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"12:10:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T12:10:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"12:11:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T12:10:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"12:11:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T12:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"12:13:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T12:11:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"12:13:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T12:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"12:11:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T12:13:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"12:14:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T12:13:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"12:14:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T12:14:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"12:15:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T12:14:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"12:16:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T12:16:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"12:17:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T12:17:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"12:18:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T12:18:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"12:19:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T12:19:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"12:20:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T12:37:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"12:38:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T12:38:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"12:39:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T12:39:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"12:40:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T12:40:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"12:41:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T12:41:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"12:42:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T12:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"12:43:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T12:42:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"12:43:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T12:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"12:44:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T12:43:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"12:44:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T12:44:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"12:45:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T12:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"12:45:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T12:45:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"12:46:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T12:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"12:46:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T12:46:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"12:47:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T12:46:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"12:48:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T12:47:00.000",
+    "line":"485",
+    "next_stop":"Göfis Schildried",
+    "arrival_time_next":"12:49:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T12:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"12:49:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T12:49:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"12:50:00"
+  },
+  {
+    "stop_name":"Göfis Schildried",
+    "departure":"2026-07-18T13:06:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"13:08:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T13:07:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"13:08:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T13:08:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"13:09:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T13:08:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"13:10:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T13:09:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"13:10:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T13:10:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"13:11:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T13:10:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"13:11:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T13:11:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"13:13:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T13:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"13:13:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T13:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"13:11:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T13:13:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"13:14:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T13:13:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"13:14:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T13:14:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"13:15:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T13:14:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"13:16:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T13:16:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"13:17:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T13:17:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"13:18:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T13:18:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"13:19:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T13:19:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"13:20:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T13:37:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"13:38:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T13:38:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"13:39:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T13:39:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"13:40:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T13:40:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"13:41:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T13:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"13:43:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T13:41:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"13:42:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T13:42:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"13:43:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T13:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"13:44:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T13:43:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"13:44:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T13:44:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"13:45:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T13:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"13:45:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T13:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"13:46:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T13:45:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"13:46:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T13:46:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"13:47:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T13:46:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"13:48:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T13:47:00.000",
+    "line":"485",
+    "next_stop":"Göfis Schildried",
+    "arrival_time_next":"13:49:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T13:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"13:49:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T13:49:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"13:50:00"
+  },
+  {
+    "stop_name":"Göfis Schildried",
+    "departure":"2026-07-18T14:06:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"14:08:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T14:07:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"14:08:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T14:08:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"14:10:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T14:08:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"14:09:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T14:09:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"14:10:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T14:10:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"14:11:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T14:10:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"14:11:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T14:11:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"14:13:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T14:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"14:13:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T14:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"14:11:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T14:13:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"14:14:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T14:13:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"14:14:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T14:14:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"14:15:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T14:14:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"14:16:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T14:16:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"14:17:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T14:17:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"14:18:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T14:18:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"14:19:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T14:19:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"14:20:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T14:37:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"14:38:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T14:38:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"14:39:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T14:39:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"14:40:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T14:40:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"14:41:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T14:41:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"14:42:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T14:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"14:43:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T14:42:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"14:43:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T14:43:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"14:44:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T14:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"14:44:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T14:44:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"14:45:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T14:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"14:45:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T14:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"14:46:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T14:45:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"14:46:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T14:46:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"14:47:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T14:46:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"14:48:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T14:47:00.000",
+    "line":"485",
+    "next_stop":"Göfis Schildried",
+    "arrival_time_next":"14:49:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T14:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"14:49:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T14:49:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"14:50:00"
+  },
+  {
+    "stop_name":"Göfis Schildried",
+    "departure":"2026-07-18T15:06:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"15:08:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T15:07:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"15:08:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T15:08:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"15:10:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T15:08:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"15:09:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T15:09:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"15:10:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T15:10:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"15:11:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T15:10:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"15:11:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T15:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"15:11:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T15:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"15:13:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T15:11:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"15:13:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T15:13:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"15:14:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T15:13:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"15:14:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T15:14:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"15:15:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T15:14:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"15:16:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T15:16:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"15:17:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T15:17:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"15:18:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T15:18:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"15:19:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T15:19:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"15:20:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T15:37:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"15:38:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T15:38:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"15:39:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T15:39:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"15:40:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T15:40:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"15:41:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T15:41:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"15:42:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T15:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"15:43:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T15:42:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"15:43:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T15:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"15:44:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T15:43:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"15:44:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T15:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"15:45:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T15:44:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"15:45:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T15:45:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"15:46:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T15:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"15:46:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T15:46:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"15:48:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T15:46:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"15:47:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T15:47:00.000",
+    "line":"485",
+    "next_stop":"Göfis Schildried",
+    "arrival_time_next":"15:49:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T15:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"15:49:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T15:49:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"15:50:00"
+  },
+  {
+    "stop_name":"Göfis Schildried",
+    "departure":"2026-07-18T16:06:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"16:08:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T16:07:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"16:08:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T16:08:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"16:09:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T16:08:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"16:10:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T16:09:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"16:10:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T16:10:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"16:11:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T16:10:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"16:11:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T16:11:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"16:13:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T16:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"16:13:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T16:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"16:11:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T16:13:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"16:14:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T16:13:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"16:14:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T16:14:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"16:15:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T16:14:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"16:16:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T16:16:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"16:17:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T16:17:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"16:18:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T16:18:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"16:19:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T16:19:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"16:20:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T16:37:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"16:38:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T16:38:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"16:39:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T16:39:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"16:40:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T16:40:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"16:41:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T16:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"16:43:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T16:41:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"16:42:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T16:42:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"16:43:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T16:43:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"16:44:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T16:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"16:44:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T16:44:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"16:45:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T16:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"16:45:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T16:45:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"16:46:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T16:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"16:46:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T16:46:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"16:48:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T16:46:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"16:47:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T16:47:00.000",
+    "line":"485",
+    "next_stop":"Göfis Schildried",
+    "arrival_time_next":"16:49:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T16:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"16:49:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T16:49:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"16:50:00"
+  },
+  {
+    "stop_name":"Göfis Schildried",
+    "departure":"2026-07-18T17:06:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"17:08:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T17:07:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"17:08:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T17:08:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"17:09:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T17:08:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"17:10:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T17:09:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"17:10:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T17:10:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"17:11:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T17:10:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"17:11:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T17:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"17:11:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T17:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"17:13:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T17:11:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"17:13:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T17:13:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"17:14:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T17:13:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"17:14:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T17:14:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"17:15:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T17:14:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"17:16:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T17:16:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"17:17:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T17:17:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"17:18:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T17:18:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"17:19:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T17:19:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"17:20:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T17:37:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"17:38:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T17:38:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"17:39:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T17:39:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"17:40:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T17:40:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"17:41:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T17:41:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"17:42:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T17:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"17:43:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T17:42:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"17:43:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T17:43:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"17:44:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T17:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"17:44:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T17:44:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"17:45:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T17:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"17:45:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T17:45:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"17:46:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T17:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"17:46:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T17:46:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"17:48:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T17:46:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"17:47:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T17:47:00.000",
+    "line":"485",
+    "next_stop":"Göfis Schildried",
+    "arrival_time_next":"17:49:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T17:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"17:49:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T17:49:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"17:50:00"
+  },
+  {
+    "stop_name":"Göfis Schildried",
+    "departure":"2026-07-18T18:06:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"18:08:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T18:07:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"18:08:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T18:08:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"18:10:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T18:08:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"18:09:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T18:09:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"18:10:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T18:10:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"18:11:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T18:10:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"18:11:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T18:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"18:11:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T18:11:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"18:13:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T18:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"18:13:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T18:13:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"18:14:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T18:13:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"18:14:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T18:14:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"18:15:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T18:14:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"18:16:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T18:16:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"18:17:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T18:17:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"18:18:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T18:18:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"18:19:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T18:19:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"18:20:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T18:37:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"18:38:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T18:38:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"18:39:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T18:39:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"18:40:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T18:40:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"18:41:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T18:41:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"18:42:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T18:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"18:43:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T18:42:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"18:43:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T18:43:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"18:44:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T18:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"18:44:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T18:44:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"18:45:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T18:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"18:45:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T18:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"18:46:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T18:45:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"18:46:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T18:46:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"18:47:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T18:46:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"18:48:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T18:47:00.000",
+    "line":"485",
+    "next_stop":"Göfis Schildried",
+    "arrival_time_next":"18:49:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T18:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"18:49:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T18:49:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"18:50:00"
+  },
+  {
+    "stop_name":"Göfis Schildried",
+    "departure":"2026-07-18T19:06:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"19:08:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T19:07:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"19:08:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T19:08:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"19:09:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T19:08:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"19:10:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T19:09:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"19:10:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T19:10:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"19:11:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T19:10:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"19:11:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T19:10:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"19:11:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T19:11:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"19:11:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T19:11:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"19:12:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T19:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"19:11:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T19:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"19:13:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T19:11:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"19:13:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T19:12:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"19:12:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T19:12:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"19:13:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T19:13:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"19:14:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T19:13:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"19:14:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T19:13:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"19:14:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T19:14:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"19:15:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T19:14:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"19:15:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T19:14:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"19:16:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T19:16:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"19:17:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T19:17:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"19:18:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T19:18:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"19:19:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T19:19:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"19:20:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T19:37:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"19:38:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T19:38:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"19:39:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T19:39:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"19:40:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T19:40:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"19:41:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T19:40:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"19:41:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T19:41:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"19:41:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T19:41:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"19:42:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T19:41:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"19:42:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T19:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"19:43:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T19:42:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"19:43:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T19:42:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"19:43:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T19:42:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"19:42:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T19:43:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"19:44:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T19:43:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"19:44:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T19:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"19:44:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T19:44:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"19:45:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T19:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"19:45:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T19:44:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"19:45:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T19:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"19:46:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T19:45:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"19:46:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T19:46:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"19:48:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T19:46:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"19:47:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T19:47:00.000",
+    "line":"485",
+    "next_stop":"Göfis Schildried",
+    "arrival_time_next":"19:49:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T19:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"19:49:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T19:49:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"19:50:00"
+  },
+  {
+    "stop_name":"Göfis Schildried",
+    "departure":"2026-07-18T20:06:00.000",
+    "line":"485",
+    "next_stop":"Göfis L65\/Büttels",
+    "arrival_time_next":"20:08:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T20:07:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"20:08:00"
+  },
+  {
+    "stop_name":"Göfis L65\/Büttels",
+    "departure":"2026-07-18T20:08:00.000",
+    "line":"485",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"20:10:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T20:08:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"20:09:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T20:09:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"20:10:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T20:10:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"20:11:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T20:10:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"20:11:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T20:10:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"20:11:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T20:11:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"20:13:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T20:11:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"20:11:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T20:11:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"20:12:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T20:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"20:11:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T20:11:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"20:13:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T20:12:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"20:13:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T20:12:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"20:12:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T20:13:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"20:14:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T20:13:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"20:14:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T20:13:00.000",
+    "line":"485",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"20:14:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T20:14:00.000",
+    "line":"485",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"20:15:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T20:14:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"20:16:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T20:14:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"20:15:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T20:16:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"20:17:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T20:17:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"20:18:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T20:18:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"20:19:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T20:19:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"20:20:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T20:37:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"20:38:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T20:38:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"20:39:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T20:39:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"20:40:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T20:40:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"20:41:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T20:40:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"20:41:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T20:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"20:42:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T20:41:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"20:41:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T20:41:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"20:42:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T20:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"20:43:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T20:42:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"20:43:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T20:42:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"20:42:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T20:42:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"20:43:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T20:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"20:44:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T20:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"20:44:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T20:43:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"20:44:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T20:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"20:45:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T20:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"20:45:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T20:44:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"20:45:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T20:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"20:46:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T20:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"20:47:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T20:46:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"20:48:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T20:47:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"20:48:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T20:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"20:49:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T20:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"20:50:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T20:49:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"20:50:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T20:50:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"20:51:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T20:51:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"20:52:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T20:52:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"20:53:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T20:53:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"20:54:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T21:10:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"21:11:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T21:11:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"21:12:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T21:11:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"21:11:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T21:12:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"21:12:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T21:12:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"21:13:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T21:13:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"21:14:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T21:14:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"21:15:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T21:37:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"21:38:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T21:38:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"21:39:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T21:39:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"21:40:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T21:40:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"21:41:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T21:40:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"21:41:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T21:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"21:43:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T21:41:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"21:41:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T21:41:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"21:42:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T21:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"21:42:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T21:42:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"21:42:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T21:42:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"21:43:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T21:42:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"21:43:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T21:43:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"21:44:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T21:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"21:44:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T21:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"21:44:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T21:44:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"21:45:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T21:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"21:45:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T21:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"21:45:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T21:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"21:47:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T21:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"21:46:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T21:46:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"21:48:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T21:47:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"21:48:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T21:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"21:50:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T21:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"21:49:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T21:49:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"21:50:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T21:50:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"21:51:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T21:51:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"21:52:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T21:52:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"21:53:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T21:53:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"21:54:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T22:10:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"22:11:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T22:11:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"22:11:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T22:11:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"22:12:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T22:12:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"22:12:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T22:12:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"22:13:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T22:13:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"22:14:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T22:14:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"22:15:00"
+  },
+  {
+    "stop_name":"Göfis Tufers",
+    "departure":"2026-07-18T22:37:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"22:38:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T22:38:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"22:39:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T22:39:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"22:40:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T22:40:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"22:41:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T22:40:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"22:41:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T22:41:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"22:41:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T22:41:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"22:42:00"
+  },
+  {
+    "stop_name":"Göfis Gasserplatz",
+    "departure":"2026-07-18T22:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"22:42:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T22:41:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"22:43:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T22:42:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"22:43:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T22:42:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"22:42:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T22:42:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"22:43:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T22:43:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"22:44:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T22:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"22:44:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T22:43:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"22:44:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T22:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"22:45:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T22:44:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"22:45:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T22:44:00.000",
+    "line":"480",
+    "next_stop":"Göfis Büttels",
+    "arrival_time_next":"22:45:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T22:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"22:46:00"
+  },
+  {
+    "stop_name":"Göfis Büttels",
+    "departure":"2026-07-18T22:45:00.000",
+    "line":"480",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"22:47:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T22:46:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"22:48:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T22:47:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kirche",
+    "arrival_time_next":"22:48:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T22:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"22:49:00"
+  },
+  {
+    "stop_name":"Göfis Kirche",
+    "departure":"2026-07-18T22:48:00.000",
+    "line":"480",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"22:50:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T22:49:00.000",
+    "line":"480",
+    "next_stop":"Göfis Gasserplatz",
+    "arrival_time_next":"22:50:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T22:50:00.000",
+    "line":"480",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"22:51:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T22:51:00.000",
+    "line":"480",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"22:52:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T22:52:00.000",
+    "line":"480",
+    "next_stop":"Göfis Pfitz",
+    "arrival_time_next":"22:53:00"
+  },
+  {
+    "stop_name":"Göfis Pfitz",
+    "departure":"2026-07-18T22:53:00.000",
+    "line":"480",
+    "next_stop":"Göfis Tufers",
+    "arrival_time_next":"22:54:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T23:10:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"23:11:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T23:11:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"23:11:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T23:11:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"23:12:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T23:12:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"23:13:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T23:12:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"23:12:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T23:13:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"23:14:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T23:14:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"23:15:00"
+  },
+  {
+    "stop_name":"Göfis Kapetsch",
+    "departure":"2026-07-18T23:40:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Gemeindeamt",
+    "arrival_time_next":"23:41:00"
+  },
+  {
+    "stop_name":"Göfis Gemeindeamt",
+    "departure":"2026-07-18T23:41:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Haldenweg",
+    "arrival_time_next":"23:41:00"
+  },
+  {
+    "stop_name":"Göfis Haldenweg",
+    "departure":"2026-07-18T23:41:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Agasella",
+    "arrival_time_next":"23:42:00"
+  },
+  {
+    "stop_name":"Göfis Agasella",
+    "departure":"2026-07-18T23:42:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Runggels",
+    "arrival_time_next":"23:42:00"
+  },
+  {
+    "stop_name":"Göfis Runggels",
+    "departure":"2026-07-18T23:42:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Badida",
+    "arrival_time_next":"23:43:00"
+  },
+  {
+    "stop_name":"Göfis Badida",
+    "departure":"2026-07-18T23:43:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kustergasse",
+    "arrival_time_next":"23:44:00"
+  },
+  {
+    "stop_name":"Göfis Kustergasse",
+    "departure":"2026-07-18T23:44:00.000",
+    "line":"WFG",
+    "next_stop":"Göfis Kapetsch",
+    "arrival_time_next":"23:45:00"
+  }
+]

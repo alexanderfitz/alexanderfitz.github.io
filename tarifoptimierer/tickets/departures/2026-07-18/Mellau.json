@@ -1,0 +1,1122 @@
+[
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T01:17:00.000",
+    "line":"4",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"25:19:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T01:19:00.000",
+    "line":"4",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"25:20:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T01:20:00.000",
+    "line":"4",
+    "next_stop":"Mellau Gewerbepark Brand",
+    "arrival_time_next":"25:21:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T03:17:00.000",
+    "line":"4",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"27:19:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T03:19:00.000",
+    "line":"4",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"27:20:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T03:20:00.000",
+    "line":"4",
+    "next_stop":"Mellau Gewerbepark Brand",
+    "arrival_time_next":"27:21:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T05:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"05:30:00"
+  },
+  {
+    "stop_name":"Mellau Gewerbepark Brand",
+    "departure":"2026-07-18T06:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"06:26:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T06:26:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"06:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T06:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"06:30:00"
+  },
+  {
+    "stop_name":"Mellau Gewerbepark Brand",
+    "departure":"2026-07-18T07:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"07:26:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T07:26:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"07:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T07:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"07:30:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T07:55:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"07:57:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T07:57:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"07:58:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T07:58:00.000",
+    "line":"850",
+    "next_stop":"Mellau Gewerbepark Brand",
+    "arrival_time_next":"07:59:00"
+  },
+  {
+    "stop_name":"Mellau Gewerbepark Brand",
+    "departure":"2026-07-18T08:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"08:26:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T08:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"08:27:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T08:26:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"08:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T08:27:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"08:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T08:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"08:30:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T08:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Gewerbepark Brand",
+    "arrival_time_next":"08:29:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T08:41:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"08:42:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T08:42:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"08:43:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T08:43:00.000",
+    "line":"832",
+    "next_stop":"Mellau Kanisfluh",
+    "arrival_time_next":"08:44:00"
+  },
+  {
+    "stop_name":"Mellau Kanisfluh",
+    "departure":"2026-07-18T08:44:00.000",
+    "line":"832",
+    "next_stop":"Mellau Bergbahnen",
+    "arrival_time_next":"08:46:00"
+  },
+  {
+    "stop_name":"Mellau Bergbahnen",
+    "departure":"2026-07-18T09:10:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"09:13:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T09:13:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"09:14:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T09:14:00.000",
+    "line":"832",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"09:15:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T09:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"09:27:00"
+  },
+  {
+    "stop_name":"Mellau Gewerbepark Brand",
+    "departure":"2026-07-18T09:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"09:26:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T09:26:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"09:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T09:27:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"09:28:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T09:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Gewerbepark Brand",
+    "arrival_time_next":"09:29:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T09:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"09:30:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T09:41:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"09:42:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T09:42:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"09:43:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T09:43:00.000",
+    "line":"832",
+    "next_stop":"Mellau Kanisfluh",
+    "arrival_time_next":"09:44:00"
+  },
+  {
+    "stop_name":"Mellau Kanisfluh",
+    "departure":"2026-07-18T09:44:00.000",
+    "line":"832",
+    "next_stop":"Mellau Bergbahnen",
+    "arrival_time_next":"09:46:00"
+  },
+  {
+    "stop_name":"Mellau Bergbahnen",
+    "departure":"2026-07-18T10:10:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"10:13:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T10:13:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"10:14:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T10:14:00.000",
+    "line":"832",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"10:15:00"
+  },
+  {
+    "stop_name":"Mellau Gewerbepark Brand",
+    "departure":"2026-07-18T10:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"10:26:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T10:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"10:27:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T10:26:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"10:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T10:27:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"10:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T10:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"10:30:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T10:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Gewerbepark Brand",
+    "arrival_time_next":"10:29:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T10:41:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"10:42:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T10:42:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"10:43:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T10:43:00.000",
+    "line":"832",
+    "next_stop":"Mellau Kanisfluh",
+    "arrival_time_next":"10:44:00"
+  },
+  {
+    "stop_name":"Mellau Kanisfluh",
+    "departure":"2026-07-18T10:44:00.000",
+    "line":"832",
+    "next_stop":"Mellau Bergbahnen",
+    "arrival_time_next":"10:46:00"
+  },
+  {
+    "stop_name":"Mellau Bergbahnen",
+    "departure":"2026-07-18T11:10:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"11:13:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T11:13:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"11:14:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T11:14:00.000",
+    "line":"832",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"11:15:00"
+  },
+  {
+    "stop_name":"Mellau Gewerbepark Brand",
+    "departure":"2026-07-18T11:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"11:26:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T11:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"11:27:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T11:26:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"11:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T11:27:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"11:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T11:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"11:30:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T11:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Gewerbepark Brand",
+    "arrival_time_next":"11:29:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T11:41:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"11:42:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T11:42:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"11:43:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T11:43:00.000",
+    "line":"832",
+    "next_stop":"Mellau Kanisfluh",
+    "arrival_time_next":"11:44:00"
+  },
+  {
+    "stop_name":"Mellau Kanisfluh",
+    "departure":"2026-07-18T11:44:00.000",
+    "line":"832",
+    "next_stop":"Mellau Bergbahnen",
+    "arrival_time_next":"11:46:00"
+  },
+  {
+    "stop_name":"Mellau Bergbahnen",
+    "departure":"2026-07-18T12:10:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"12:13:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T12:13:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"12:14:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T12:14:00.000",
+    "line":"832",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"12:15:00"
+  },
+  {
+    "stop_name":"Mellau Gewerbepark Brand",
+    "departure":"2026-07-18T12:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"12:26:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T12:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"12:27:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T12:26:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"12:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T12:27:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"12:28:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T12:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Gewerbepark Brand",
+    "arrival_time_next":"12:29:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T12:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"12:30:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T12:41:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"12:42:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T12:42:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"12:43:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T12:43:00.000",
+    "line":"832",
+    "next_stop":"Mellau Kanisfluh",
+    "arrival_time_next":"12:44:00"
+  },
+  {
+    "stop_name":"Mellau Kanisfluh",
+    "departure":"2026-07-18T12:44:00.000",
+    "line":"832",
+    "next_stop":"Mellau Bergbahnen",
+    "arrival_time_next":"12:46:00"
+  },
+  {
+    "stop_name":"Mellau Bergbahnen",
+    "departure":"2026-07-18T13:10:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"13:13:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T13:13:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"13:14:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T13:14:00.000",
+    "line":"832",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"13:15:00"
+  },
+  {
+    "stop_name":"Mellau Gewerbepark Brand",
+    "departure":"2026-07-18T13:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"13:26:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T13:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"13:27:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T13:26:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"13:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T13:27:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"13:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T13:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"13:30:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T13:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Gewerbepark Brand",
+    "arrival_time_next":"13:29:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T13:41:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"13:42:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T13:42:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"13:43:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T13:43:00.000",
+    "line":"832",
+    "next_stop":"Mellau Kanisfluh",
+    "arrival_time_next":"13:44:00"
+  },
+  {
+    "stop_name":"Mellau Kanisfluh",
+    "departure":"2026-07-18T13:44:00.000",
+    "line":"832",
+    "next_stop":"Mellau Bergbahnen",
+    "arrival_time_next":"13:46:00"
+  },
+  {
+    "stop_name":"Mellau Bergbahnen",
+    "departure":"2026-07-18T14:10:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"14:13:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T14:13:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"14:14:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T14:14:00.000",
+    "line":"832",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"14:15:00"
+  },
+  {
+    "stop_name":"Mellau Gewerbepark Brand",
+    "departure":"2026-07-18T14:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"14:26:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T14:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"14:27:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T14:26:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"14:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T14:27:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"14:28:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T14:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Gewerbepark Brand",
+    "arrival_time_next":"14:29:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T14:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"14:30:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T14:41:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"14:42:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T14:42:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"14:43:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T14:43:00.000",
+    "line":"832",
+    "next_stop":"Mellau Kanisfluh",
+    "arrival_time_next":"14:44:00"
+  },
+  {
+    "stop_name":"Mellau Kanisfluh",
+    "departure":"2026-07-18T14:44:00.000",
+    "line":"832",
+    "next_stop":"Mellau Bergbahnen",
+    "arrival_time_next":"14:46:00"
+  },
+  {
+    "stop_name":"Mellau Bergbahnen",
+    "departure":"2026-07-18T15:10:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"15:13:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T15:13:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"15:14:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T15:14:00.000",
+    "line":"832",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"15:15:00"
+  },
+  {
+    "stop_name":"Mellau Gewerbepark Brand",
+    "departure":"2026-07-18T15:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"15:26:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T15:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"15:27:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T15:26:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"15:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T15:27:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"15:28:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T15:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Gewerbepark Brand",
+    "arrival_time_next":"15:29:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T15:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"15:30:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T15:41:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"15:42:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T15:42:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"15:43:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T15:43:00.000",
+    "line":"832",
+    "next_stop":"Mellau Kanisfluh",
+    "arrival_time_next":"15:44:00"
+  },
+  {
+    "stop_name":"Mellau Kanisfluh",
+    "departure":"2026-07-18T15:44:00.000",
+    "line":"832",
+    "next_stop":"Mellau Bergbahnen",
+    "arrival_time_next":"15:46:00"
+  },
+  {
+    "stop_name":"Mellau Bergbahnen",
+    "departure":"2026-07-18T16:10:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"16:13:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T16:13:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"16:14:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T16:14:00.000",
+    "line":"832",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"16:15:00"
+  },
+  {
+    "stop_name":"Mellau Gewerbepark Brand",
+    "departure":"2026-07-18T16:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"16:26:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T16:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"16:27:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T16:26:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"16:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T16:27:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"16:28:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T16:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Gewerbepark Brand",
+    "arrival_time_next":"16:29:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T16:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"16:30:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T16:41:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"16:42:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T16:42:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"16:43:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T16:43:00.000",
+    "line":"832",
+    "next_stop":"Mellau Kanisfluh",
+    "arrival_time_next":"16:44:00"
+  },
+  {
+    "stop_name":"Mellau Kanisfluh",
+    "departure":"2026-07-18T16:44:00.000",
+    "line":"832",
+    "next_stop":"Mellau Bergbahnen",
+    "arrival_time_next":"16:46:00"
+  },
+  {
+    "stop_name":"Mellau Bergbahnen",
+    "departure":"2026-07-18T17:10:00.000",
+    "line":"832",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"17:13:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T17:13:00.000",
+    "line":"832",
+    "next_stop":"Mellau In der Mellen",
+    "arrival_time_next":"17:14:00"
+  },
+  {
+    "stop_name":"Mellau In der Mellen",
+    "departure":"2026-07-18T17:14:00.000",
+    "line":"832",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"17:15:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T17:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"17:27:00"
+  },
+  {
+    "stop_name":"Mellau Gewerbepark Brand",
+    "departure":"2026-07-18T17:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"17:26:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T17:26:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"17:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T17:27:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"17:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T17:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"17:30:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T17:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Gewerbepark Brand",
+    "arrival_time_next":"17:29:00"
+  },
+  {
+    "stop_name":"Mellau Gewerbepark Brand",
+    "departure":"2026-07-18T18:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"18:26:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T18:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"18:27:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T18:26:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"18:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T18:27:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"18:28:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T18:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Gewerbepark Brand",
+    "arrival_time_next":"18:29:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T18:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"18:30:00"
+  },
+  {
+    "stop_name":"Mellau Gewerbepark Brand",
+    "departure":"2026-07-18T19:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"19:26:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T19:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"19:27:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T19:26:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"19:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T19:27:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"19:28:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T19:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Gewerbepark Brand",
+    "arrival_time_next":"19:29:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T19:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"19:30:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T20:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"20:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T20:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"20:29:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T20:29:00.000",
+    "line":"850",
+    "next_stop":"Mellau Gewerbepark Brand",
+    "arrival_time_next":"20:30:00"
+  },
+  {
+    "stop_name":"Mellau Gewerbepark Brand",
+    "departure":"2026-07-18T21:20:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"21:21:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T21:21:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"21:23:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T21:23:00.000",
+    "line":"850",
+    "next_stop":"Mellau Klaus",
+    "arrival_time_next":"21:25:00"
+  },
+  {
+    "stop_name":"Mellau Klaus",
+    "departure":"2026-07-18T22:25:00.000",
+    "line":"850",
+    "next_stop":"Mellau Zentrum",
+    "arrival_time_next":"22:28:00"
+  },
+  {
+    "stop_name":"Mellau Zentrum",
+    "departure":"2026-07-18T22:28:00.000",
+    "line":"850",
+    "next_stop":"Mellau Mischen",
+    "arrival_time_next":"22:29:00"
+  },
+  {
+    "stop_name":"Mellau Mischen",
+    "departure":"2026-07-18T22:29:00.000",
+    "line":"850",
+    "next_stop":"Mellau Gewerbepark Brand",
+    "arrival_time_next":"22:30:00"
+  }
+]

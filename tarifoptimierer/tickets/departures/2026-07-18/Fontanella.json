@@ -1,0 +1,212 @@
+[
+  {
+    "stop_name":"Fontanella Dorfzentrum",
+    "departure":"2026-07-18T07:27:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Säge",
+    "arrival_time_next":"07:29:00"
+  },
+  {
+    "stop_name":"Fontanella Säge",
+    "departure":"2026-07-18T08:01:00.000",
+    "line":"575",
+    "next_stop":"Fontanella Dorfzentrum",
+    "arrival_time_next":"08:03:00"
+  },
+  {
+    "stop_name":"Fontanella Dorfzentrum",
+    "departure":"2026-07-18T08:12:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Säge",
+    "arrival_time_next":"08:14:00"
+  },
+  {
+    "stop_name":"Fontanella Dorfzentrum",
+    "departure":"2026-07-18T08:52:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Säge",
+    "arrival_time_next":"08:54:00"
+  },
+  {
+    "stop_name":"Fontanella Säge",
+    "departure":"2026-07-18T09:01:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Dorfzentrum",
+    "arrival_time_next":"09:03:00"
+  },
+  {
+    "stop_name":"Fontanella Dorfzentrum",
+    "departure":"2026-07-18T09:52:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Säge",
+    "arrival_time_next":"09:54:00"
+  },
+  {
+    "stop_name":"Fontanella Säge",
+    "departure":"2026-07-18T10:01:00.000",
+    "line":"575",
+    "next_stop":"Fontanella Dorfzentrum",
+    "arrival_time_next":"10:03:00"
+  },
+  {
+    "stop_name":"Fontanella Dorfzentrum",
+    "departure":"2026-07-18T10:52:00.000",
+    "line":"575",
+    "next_stop":"Fontanella Säge",
+    "arrival_time_next":"10:54:00"
+  },
+  {
+    "stop_name":"Fontanella Säge",
+    "departure":"2026-07-18T11:01:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Dorfzentrum",
+    "arrival_time_next":"11:03:00"
+  },
+  {
+    "stop_name":"Fontanella Dorfzentrum",
+    "departure":"2026-07-18T11:52:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Säge",
+    "arrival_time_next":"11:54:00"
+  },
+  {
+    "stop_name":"Fontanella Säge",
+    "departure":"2026-07-18T12:01:00.000",
+    "line":"575",
+    "next_stop":"Fontanella Dorfzentrum",
+    "arrival_time_next":"12:03:00"
+  },
+  {
+    "stop_name":"Fontanella Dorfzentrum",
+    "departure":"2026-07-18T12:52:00.000",
+    "line":"575",
+    "next_stop":"Fontanella Säge",
+    "arrival_time_next":"12:54:00"
+  },
+  {
+    "stop_name":"Fontanella Säge",
+    "departure":"2026-07-18T13:01:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Dorfzentrum",
+    "arrival_time_next":"13:03:00"
+  },
+  {
+    "stop_name":"Fontanella Dorfzentrum",
+    "departure":"2026-07-18T13:52:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Säge",
+    "arrival_time_next":"13:54:00"
+  },
+  {
+    "stop_name":"Fontanella Säge",
+    "departure":"2026-07-18T14:01:00.000",
+    "line":"575",
+    "next_stop":"Fontanella Dorfzentrum",
+    "arrival_time_next":"14:03:00"
+  },
+  {
+    "stop_name":"Fontanella Dorfzentrum",
+    "departure":"2026-07-18T14:52:00.000",
+    "line":"575",
+    "next_stop":"Fontanella Säge",
+    "arrival_time_next":"14:54:00"
+  },
+  {
+    "stop_name":"Fontanella Säge",
+    "departure":"2026-07-18T15:01:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Dorfzentrum",
+    "arrival_time_next":"15:03:00"
+  },
+  {
+    "stop_name":"Fontanella Dorfzentrum",
+    "departure":"2026-07-18T15:52:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Säge",
+    "arrival_time_next":"15:54:00"
+  },
+  {
+    "stop_name":"Fontanella Säge",
+    "departure":"2026-07-18T16:01:00.000",
+    "line":"575",
+    "next_stop":"Fontanella Dorfzentrum",
+    "arrival_time_next":"16:03:00"
+  },
+  {
+    "stop_name":"Fontanella Dorfzentrum",
+    "departure":"2026-07-18T16:52:00.000",
+    "line":"575",
+    "next_stop":"Fontanella Säge",
+    "arrival_time_next":"16:54:00"
+  },
+  {
+    "stop_name":"Fontanella Säge",
+    "departure":"2026-07-18T17:01:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Dorfzentrum",
+    "arrival_time_next":"17:03:00"
+  },
+  {
+    "stop_name":"Fontanella Dorfzentrum",
+    "departure":"2026-07-18T17:52:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Säge",
+    "arrival_time_next":"17:54:00"
+  },
+  {
+    "stop_name":"Fontanella Säge",
+    "departure":"2026-07-18T18:01:00.000",
+    "line":"575",
+    "next_stop":"Fontanella Dorfzentrum",
+    "arrival_time_next":"18:03:00"
+  },
+  {
+    "stop_name":"Fontanella Dorfzentrum",
+    "departure":"2026-07-18T18:52:00.000",
+    "line":"575",
+    "next_stop":"Fontanella Säge",
+    "arrival_time_next":"18:54:00"
+  },
+  {
+    "stop_name":"Fontanella Säge",
+    "departure":"2026-07-18T19:01:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Dorfzentrum",
+    "arrival_time_next":"19:03:00"
+  },
+  {
+    "stop_name":"Fontanella Dorfzentrum",
+    "departure":"2026-07-18T19:52:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Säge",
+    "arrival_time_next":"19:54:00"
+  },
+  {
+    "stop_name":"Fontanella Säge",
+    "departure":"2026-07-18T20:01:00.000",
+    "line":"575",
+    "next_stop":"Fontanella Dorfzentrum",
+    "arrival_time_next":"20:03:00"
+  },
+  {
+    "stop_name":"Fontanella Säge",
+    "departure":"2026-07-18T21:01:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Dorfzentrum",
+    "arrival_time_next":"21:03:00"
+  },
+  {
+    "stop_name":"Fontanella Dorfzentrum",
+    "departure":"2026-07-18T21:52:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Säge",
+    "arrival_time_next":"21:54:00"
+  },
+  {
+    "stop_name":"Fontanella Säge",
+    "departure":"2026-07-18T22:41:00.000",
+    "line":"570",
+    "next_stop":"Fontanella Dorfzentrum",
+    "arrival_time_next":"22:43:00"
+  }
+]

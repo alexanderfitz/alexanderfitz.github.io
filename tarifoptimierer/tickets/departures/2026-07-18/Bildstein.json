@@ -1,0 +1,716 @@
+[
+  {
+    "stop_name":"Bildstein Ankenreuthe",
+    "departure":"2026-07-18T07:34:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe Siedlung",
+    "arrival_time_next":"07:35:00"
+  },
+  {
+    "stop_name":"Bildstein Ankenreuthe Siedlung",
+    "departure":"2026-07-18T07:35:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf Platte",
+    "arrival_time_next":"07:36:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf Platte",
+    "departure":"2026-07-18T07:36:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf",
+    "arrival_time_next":"07:37:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf",
+    "departure":"2026-07-18T07:37:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Dorfplatz",
+    "arrival_time_next":"07:38:00"
+  },
+  {
+    "stop_name":"Bildstein Dorfplatz",
+    "departure":"2026-07-18T07:38:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Farnach",
+    "arrival_time_next":"07:42:00"
+  },
+  {
+    "stop_name":"Bildstein Farnach",
+    "departure":"2026-07-18T07:42:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Obere Bereute",
+    "arrival_time_next":"07:43:00"
+  },
+  {
+    "stop_name":"Bildstein Obere Bereute",
+    "departure":"2026-07-18T09:06:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Farnach",
+    "arrival_time_next":"09:07:00"
+  },
+  {
+    "stop_name":"Bildstein Farnach",
+    "departure":"2026-07-18T09:07:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Dorfplatz",
+    "arrival_time_next":"09:11:00"
+  },
+  {
+    "stop_name":"Bildstein Dorfplatz",
+    "departure":"2026-07-18T09:11:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf",
+    "arrival_time_next":"09:12:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf",
+    "departure":"2026-07-18T09:12:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf Platte",
+    "arrival_time_next":"09:13:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf Platte",
+    "departure":"2026-07-18T09:13:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe Siedlung",
+    "arrival_time_next":"09:14:00"
+  },
+  {
+    "stop_name":"Bildstein Ankenreuthe Siedlung",
+    "departure":"2026-07-18T09:14:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe",
+    "arrival_time_next":"09:14:00"
+  },
+  {
+    "stop_name":"Bildstein Ankenreuthe",
+    "departure":"2026-07-18T09:39:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe Siedlung",
+    "arrival_time_next":"09:40:00"
+  },
+  {
+    "stop_name":"Bildstein Ankenreuthe Siedlung",
+    "departure":"2026-07-18T09:40:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf Platte",
+    "arrival_time_next":"09:41:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf Platte",
+    "departure":"2026-07-18T09:41:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf",
+    "arrival_time_next":"09:42:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf",
+    "departure":"2026-07-18T09:42:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Dorfplatz",
+    "arrival_time_next":"09:43:00"
+  },
+  {
+    "stop_name":"Bildstein Dorfplatz",
+    "departure":"2026-07-18T09:43:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Deschen",
+    "arrival_time_next":"09:44:00"
+  },
+  {
+    "stop_name":"Bildstein Deschen",
+    "departure":"2026-07-18T09:44:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Knobel",
+    "arrival_time_next":"09:45:00"
+  },
+  {
+    "stop_name":"Bildstein Knobel",
+    "departure":"2026-07-18T09:45:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Kapf",
+    "arrival_time_next":"09:47:00"
+  },
+  {
+    "stop_name":"Bildstein Kapf",
+    "departure":"2026-07-18T09:47:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Geisbirn",
+    "arrival_time_next":"09:48:00"
+  },
+  {
+    "stop_name":"Bildstein Geisbirn",
+    "departure":"2026-07-18T09:48:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Hochmoor",
+    "arrival_time_next":"09:50:00"
+  },
+  {
+    "stop_name":"Bildstein Hochmoor",
+    "departure":"2026-07-18T09:50:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Loban",
+    "arrival_time_next":"09:52:00"
+  },
+  {
+    "stop_name":"Bildstein Loban",
+    "departure":"2026-07-18T09:52:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Farnach",
+    "arrival_time_next":"09:54:00"
+  },
+  {
+    "stop_name":"Bildstein Farnach",
+    "departure":"2026-07-18T09:54:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Obere Bereute",
+    "arrival_time_next":"09:55:00"
+  },
+  {
+    "stop_name":"Bildstein Obere Bereute",
+    "departure":"2026-07-18T11:06:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Farnach",
+    "arrival_time_next":"11:07:00"
+  },
+  {
+    "stop_name":"Bildstein Farnach",
+    "departure":"2026-07-18T11:07:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Dorfplatz",
+    "arrival_time_next":"11:11:00"
+  },
+  {
+    "stop_name":"Bildstein Dorfplatz",
+    "departure":"2026-07-18T11:11:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf",
+    "arrival_time_next":"11:12:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf",
+    "departure":"2026-07-18T11:12:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf Platte",
+    "arrival_time_next":"11:13:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf Platte",
+    "departure":"2026-07-18T11:13:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe Siedlung",
+    "arrival_time_next":"11:14:00"
+  },
+  {
+    "stop_name":"Bildstein Ankenreuthe Siedlung",
+    "departure":"2026-07-18T11:14:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe",
+    "arrival_time_next":"11:14:00"
+  },
+  {
+    "stop_name":"Bildstein Ankenreuthe",
+    "departure":"2026-07-18T11:39:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe Siedlung",
+    "arrival_time_next":"11:40:00"
+  },
+  {
+    "stop_name":"Bildstein Ankenreuthe Siedlung",
+    "departure":"2026-07-18T11:40:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf Platte",
+    "arrival_time_next":"11:41:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf Platte",
+    "departure":"2026-07-18T11:41:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf",
+    "arrival_time_next":"11:42:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf",
+    "departure":"2026-07-18T11:42:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Dorfplatz",
+    "arrival_time_next":"11:43:00"
+  },
+  {
+    "stop_name":"Bildstein Dorfplatz",
+    "departure":"2026-07-18T11:43:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Deschen",
+    "arrival_time_next":"11:44:00"
+  },
+  {
+    "stop_name":"Bildstein Deschen",
+    "departure":"2026-07-18T11:44:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Knobel",
+    "arrival_time_next":"11:45:00"
+  },
+  {
+    "stop_name":"Bildstein Knobel",
+    "departure":"2026-07-18T11:45:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Kapf",
+    "arrival_time_next":"11:47:00"
+  },
+  {
+    "stop_name":"Bildstein Kapf",
+    "departure":"2026-07-18T11:47:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Geisbirn",
+    "arrival_time_next":"11:48:00"
+  },
+  {
+    "stop_name":"Bildstein Geisbirn",
+    "departure":"2026-07-18T11:48:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Hochmoor",
+    "arrival_time_next":"11:50:00"
+  },
+  {
+    "stop_name":"Bildstein Hochmoor",
+    "departure":"2026-07-18T11:50:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Loban",
+    "arrival_time_next":"11:52:00"
+  },
+  {
+    "stop_name":"Bildstein Loban",
+    "departure":"2026-07-18T11:52:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Farnach",
+    "arrival_time_next":"11:54:00"
+  },
+  {
+    "stop_name":"Bildstein Farnach",
+    "departure":"2026-07-18T11:54:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Obere Bereute",
+    "arrival_time_next":"11:55:00"
+  },
+  {
+    "stop_name":"Bildstein Obere Bereute",
+    "departure":"2026-07-18T13:06:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Farnach",
+    "arrival_time_next":"13:07:00"
+  },
+  {
+    "stop_name":"Bildstein Farnach",
+    "departure":"2026-07-18T13:07:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Dorfplatz",
+    "arrival_time_next":"13:11:00"
+  },
+  {
+    "stop_name":"Bildstein Dorfplatz",
+    "departure":"2026-07-18T13:11:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf",
+    "arrival_time_next":"13:12:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf",
+    "departure":"2026-07-18T13:12:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf Platte",
+    "arrival_time_next":"13:13:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf Platte",
+    "departure":"2026-07-18T13:13:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe Siedlung",
+    "arrival_time_next":"13:14:00"
+  },
+  {
+    "stop_name":"Bildstein Ankenreuthe Siedlung",
+    "departure":"2026-07-18T13:14:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe",
+    "arrival_time_next":"13:14:00"
+  },
+  {
+    "stop_name":"Bildstein Ankenreuthe",
+    "departure":"2026-07-18T13:39:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe Siedlung",
+    "arrival_time_next":"13:40:00"
+  },
+  {
+    "stop_name":"Bildstein Ankenreuthe Siedlung",
+    "departure":"2026-07-18T13:40:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf Platte",
+    "arrival_time_next":"13:41:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf Platte",
+    "departure":"2026-07-18T13:41:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf",
+    "arrival_time_next":"13:42:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf",
+    "departure":"2026-07-18T13:42:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Dorfplatz",
+    "arrival_time_next":"13:43:00"
+  },
+  {
+    "stop_name":"Bildstein Dorfplatz",
+    "departure":"2026-07-18T13:43:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Deschen",
+    "arrival_time_next":"13:44:00"
+  },
+  {
+    "stop_name":"Bildstein Deschen",
+    "departure":"2026-07-18T13:44:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Knobel",
+    "arrival_time_next":"13:45:00"
+  },
+  {
+    "stop_name":"Bildstein Knobel",
+    "departure":"2026-07-18T13:45:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Kapf",
+    "arrival_time_next":"13:47:00"
+  },
+  {
+    "stop_name":"Bildstein Kapf",
+    "departure":"2026-07-18T13:47:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Geisbirn",
+    "arrival_time_next":"13:48:00"
+  },
+  {
+    "stop_name":"Bildstein Geisbirn",
+    "departure":"2026-07-18T13:48:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Hochmoor",
+    "arrival_time_next":"13:50:00"
+  },
+  {
+    "stop_name":"Bildstein Hochmoor",
+    "departure":"2026-07-18T13:50:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Loban",
+    "arrival_time_next":"13:52:00"
+  },
+  {
+    "stop_name":"Bildstein Loban",
+    "departure":"2026-07-18T13:52:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Farnach",
+    "arrival_time_next":"13:54:00"
+  },
+  {
+    "stop_name":"Bildstein Farnach",
+    "departure":"2026-07-18T13:54:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Obere Bereute",
+    "arrival_time_next":"13:55:00"
+  },
+  {
+    "stop_name":"Bildstein Obere Bereute",
+    "departure":"2026-07-18T15:06:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Farnach",
+    "arrival_time_next":"15:07:00"
+  },
+  {
+    "stop_name":"Bildstein Farnach",
+    "departure":"2026-07-18T15:07:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Dorfplatz",
+    "arrival_time_next":"15:11:00"
+  },
+  {
+    "stop_name":"Bildstein Dorfplatz",
+    "departure":"2026-07-18T15:11:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf",
+    "arrival_time_next":"15:12:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf",
+    "departure":"2026-07-18T15:12:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf Platte",
+    "arrival_time_next":"15:13:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf Platte",
+    "departure":"2026-07-18T15:13:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe Siedlung",
+    "arrival_time_next":"15:14:00"
+  },
+  {
+    "stop_name":"Bildstein Ankenreuthe Siedlung",
+    "departure":"2026-07-18T15:14:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe",
+    "arrival_time_next":"15:14:00"
+  },
+  {
+    "stop_name":"Bildstein Ankenreuthe",
+    "departure":"2026-07-18T15:39:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe Siedlung",
+    "arrival_time_next":"15:40:00"
+  },
+  {
+    "stop_name":"Bildstein Ankenreuthe Siedlung",
+    "departure":"2026-07-18T15:40:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf Platte",
+    "arrival_time_next":"15:41:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf Platte",
+    "departure":"2026-07-18T15:41:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf",
+    "arrival_time_next":"15:42:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf",
+    "departure":"2026-07-18T15:42:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Dorfplatz",
+    "arrival_time_next":"15:43:00"
+  },
+  {
+    "stop_name":"Bildstein Dorfplatz",
+    "departure":"2026-07-18T15:43:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Deschen",
+    "arrival_time_next":"15:44:00"
+  },
+  {
+    "stop_name":"Bildstein Deschen",
+    "departure":"2026-07-18T15:44:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Knobel",
+    "arrival_time_next":"15:45:00"
+  },
+  {
+    "stop_name":"Bildstein Knobel",
+    "departure":"2026-07-18T15:45:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Kapf",
+    "arrival_time_next":"15:47:00"
+  },
+  {
+    "stop_name":"Bildstein Kapf",
+    "departure":"2026-07-18T15:47:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Geisbirn",
+    "arrival_time_next":"15:48:00"
+  },
+  {
+    "stop_name":"Bildstein Geisbirn",
+    "departure":"2026-07-18T15:48:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Hochmoor",
+    "arrival_time_next":"15:50:00"
+  },
+  {
+    "stop_name":"Bildstein Hochmoor",
+    "departure":"2026-07-18T15:50:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Loban",
+    "arrival_time_next":"15:52:00"
+  },
+  {
+    "stop_name":"Bildstein Loban",
+    "departure":"2026-07-18T15:52:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Farnach",
+    "arrival_time_next":"15:54:00"
+  },
+  {
+    "stop_name":"Bildstein Farnach",
+    "departure":"2026-07-18T15:54:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Obere Bereute",
+    "arrival_time_next":"15:55:00"
+  },
+  {
+    "stop_name":"Bildstein Obere Bereute",
+    "departure":"2026-07-18T17:06:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Farnach",
+    "arrival_time_next":"17:07:00"
+  },
+  {
+    "stop_name":"Bildstein Farnach",
+    "departure":"2026-07-18T17:07:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Dorfplatz",
+    "arrival_time_next":"17:11:00"
+  },
+  {
+    "stop_name":"Bildstein Dorfplatz",
+    "departure":"2026-07-18T17:11:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf",
+    "arrival_time_next":"17:12:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf",
+    "departure":"2026-07-18T17:12:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf Platte",
+    "arrival_time_next":"17:13:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf Platte",
+    "departure":"2026-07-18T17:13:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe Siedlung",
+    "arrival_time_next":"17:14:00"
+  },
+  {
+    "stop_name":"Bildstein Ankenreuthe Siedlung",
+    "departure":"2026-07-18T17:14:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe",
+    "arrival_time_next":"17:14:00"
+  },
+  {
+    "stop_name":"Bildstein Ankenreuthe",
+    "departure":"2026-07-18T17:39:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe Siedlung",
+    "arrival_time_next":"17:40:00"
+  },
+  {
+    "stop_name":"Bildstein Ankenreuthe Siedlung",
+    "departure":"2026-07-18T17:40:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf Platte",
+    "arrival_time_next":"17:41:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf Platte",
+    "departure":"2026-07-18T17:41:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf",
+    "arrival_time_next":"17:42:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf",
+    "departure":"2026-07-18T17:42:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Dorfplatz",
+    "arrival_time_next":"17:43:00"
+  },
+  {
+    "stop_name":"Bildstein Dorfplatz",
+    "departure":"2026-07-18T17:43:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Deschen",
+    "arrival_time_next":"17:44:00"
+  },
+  {
+    "stop_name":"Bildstein Deschen",
+    "departure":"2026-07-18T17:44:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Knobel",
+    "arrival_time_next":"17:45:00"
+  },
+  {
+    "stop_name":"Bildstein Knobel",
+    "departure":"2026-07-18T17:45:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Kapf",
+    "arrival_time_next":"17:47:00"
+  },
+  {
+    "stop_name":"Bildstein Kapf",
+    "departure":"2026-07-18T17:47:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Geisbirn",
+    "arrival_time_next":"17:48:00"
+  },
+  {
+    "stop_name":"Bildstein Geisbirn",
+    "departure":"2026-07-18T17:48:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Hochmoor",
+    "arrival_time_next":"17:50:00"
+  },
+  {
+    "stop_name":"Bildstein Hochmoor",
+    "departure":"2026-07-18T17:50:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Loban",
+    "arrival_time_next":"17:52:00"
+  },
+  {
+    "stop_name":"Bildstein Loban",
+    "departure":"2026-07-18T17:52:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Farnach",
+    "arrival_time_next":"17:54:00"
+  },
+  {
+    "stop_name":"Bildstein Farnach",
+    "departure":"2026-07-18T17:54:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Obere Bereute",
+    "arrival_time_next":"17:55:00"
+  },
+  {
+    "stop_name":"Bildstein Obere Bereute",
+    "departure":"2026-07-18T19:06:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Farnach",
+    "arrival_time_next":"19:07:00"
+  },
+  {
+    "stop_name":"Bildstein Farnach",
+    "departure":"2026-07-18T19:07:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Dorfplatz",
+    "arrival_time_next":"19:11:00"
+  },
+  {
+    "stop_name":"Bildstein Dorfplatz",
+    "departure":"2026-07-18T19:11:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf",
+    "arrival_time_next":"19:12:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf",
+    "departure":"2026-07-18T19:12:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Unterdorf Platte",
+    "arrival_time_next":"19:13:00"
+  },
+  {
+    "stop_name":"Bildstein Unterdorf Platte",
+    "departure":"2026-07-18T19:13:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe Siedlung",
+    "arrival_time_next":"19:14:00"
+  },
+  {
+    "stop_name":"Bildstein Ankenreuthe Siedlung",
+    "departure":"2026-07-18T19:14:00.000",
+    "line":"159",
+    "next_stop":"Bildstein Ankenreuthe",
+    "arrival_time_next":"19:14:00"
+  }
+]

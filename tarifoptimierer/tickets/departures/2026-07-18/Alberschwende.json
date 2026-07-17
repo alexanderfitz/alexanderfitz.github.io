@@ -1,0 +1,4237 @@
+[
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T00:59:00.000",
+    "line":"5",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"25:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T01:05:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"25:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T01:06:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"25:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T01:07:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"25:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T01:08:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"25:09:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T01:09:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"25:10:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T01:12:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"25:13:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T01:13:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"25:14:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T01:14:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"25:15:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T01:15:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"25:16:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T01:16:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"25:16:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T01:16:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"25:17:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T01:17:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"25:18:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T02:57:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"26:58:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T02:58:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"26:59:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T02:59:00.000",
+    "line":"5",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"27:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T02:59:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"27:00:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T03:00:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"27:01:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T03:01:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"27:01:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T03:01:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"27:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T03:02:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"27:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T03:05:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"27:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T03:06:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"27:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T03:07:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"27:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T03:08:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"27:09:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T03:09:00.000",
+    "line":"3",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"27:10:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T06:01:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"06:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T06:01:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"06:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T06:02:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"06:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T06:02:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"06:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T06:03:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"06:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T06:03:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"06:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T06:04:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"06:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T06:04:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"06:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T06:05:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"06:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T06:05:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"06:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T06:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"06:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T06:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"06:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T06:06:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"06:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T06:07:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Stauder",
+    "arrival_time_next":"06:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T06:07:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"06:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T06:47:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"06:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T06:48:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"06:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T06:50:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"06:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T06:51:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"06:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T06:52:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"06:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T06:53:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"06:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T06:54:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"06:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T07:01:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"07:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T07:01:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"07:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T07:02:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"07:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T07:02:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"07:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T07:03:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"07:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T07:03:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"07:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T07:04:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"07:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T07:04:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"07:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T07:05:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"07:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T07:05:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"07:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T07:06:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"07:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T07:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"07:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T07:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"07:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T07:07:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"07:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T07:07:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Stauder",
+    "arrival_time_next":"07:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Stauder",
+    "departure":"2026-07-18T07:16:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"07:17:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T07:17:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"07:18:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T07:18:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"07:20:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T07:20:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"07:21:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T07:21:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"07:22:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T07:22:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"07:23:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T07:23:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"07:24:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T07:24:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"07:25:00"
+  },
+  {
+    "stop_name":"Alberschwende Untere Bereute",
+    "departure":"2026-07-18T07:44:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"07:45:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T07:45:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"07:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Stauder",
+    "departure":"2026-07-18T07:46:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"07:47:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T07:47:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"07:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T07:47:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"07:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T07:48:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"07:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T07:48:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"07:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T07:50:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"07:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T07:50:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"07:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T07:51:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"07:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T07:51:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"07:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T07:52:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"07:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T07:52:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"07:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T07:53:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"07:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T07:53:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"07:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T07:54:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"07:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T07:54:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"07:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T08:01:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"08:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T08:01:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"08:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T08:02:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"08:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T08:02:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"08:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T08:03:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"08:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T08:03:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"08:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T08:04:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"08:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T08:04:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"08:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T08:05:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"08:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T08:05:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"08:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T08:05:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"08:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T08:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"08:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T08:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"08:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T08:06:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"08:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T08:06:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Brugg",
+    "arrival_time_next":"08:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T08:07:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Stauder",
+    "arrival_time_next":"08:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T08:07:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"08:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Brugg",
+    "departure":"2026-07-18T08:07:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Höll",
+    "arrival_time_next":"08:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Höll",
+    "departure":"2026-07-18T08:08:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach",
+    "arrival_time_next":"08:10:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach",
+    "departure":"2026-07-18T08:10:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach Burgen",
+    "arrival_time_next":"08:11:00"
+  },
+  {
+    "stop_name":"Alberschwende Stauder",
+    "departure":"2026-07-18T08:46:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"08:47:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T08:47:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"08:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T08:47:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"08:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T08:48:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"08:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T08:48:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"08:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T08:50:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"08:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T08:50:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"08:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T08:51:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"08:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T08:51:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"08:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T08:52:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"08:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T08:52:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"08:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T08:53:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"08:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach Burgen",
+    "departure":"2026-07-18T08:53:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach",
+    "arrival_time_next":"08:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T08:53:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"08:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T08:54:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"08:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach",
+    "departure":"2026-07-18T08:54:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Höll",
+    "arrival_time_next":"08:56:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T08:54:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"08:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Höll",
+    "departure":"2026-07-18T08:56:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Brugg",
+    "arrival_time_next":"08:57:00"
+  },
+  {
+    "stop_name":"Alberschwende Brugg",
+    "departure":"2026-07-18T08:57:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"08:58:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T08:58:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"09:00:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T09:00:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"09:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T09:01:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"09:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T09:01:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"09:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T09:02:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"09:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T09:02:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"09:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T09:03:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"09:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T09:03:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"09:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T09:04:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"09:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T09:04:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"09:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T09:04:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Untere Bereute",
+    "arrival_time_next":"09:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T09:05:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"09:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T09:05:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"09:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T09:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"09:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T09:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"09:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T09:06:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"09:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T09:07:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Stauder",
+    "arrival_time_next":"09:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T09:07:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"09:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Stauder",
+    "departure":"2026-07-18T09:46:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"09:47:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T09:47:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"09:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T09:47:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"09:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T09:48:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"09:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T09:48:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"09:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T09:50:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"09:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T09:50:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"09:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T09:51:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"09:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T09:51:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"09:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T09:52:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"09:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T09:52:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"09:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T09:53:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"09:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T09:53:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"09:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T09:54:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"09:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T09:54:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"09:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Untere Bereute",
+    "departure":"2026-07-18T09:56:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"09:57:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T09:57:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"10:00:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T10:00:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"10:01:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T10:01:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"10:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T10:01:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"10:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T10:01:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Brugg",
+    "arrival_time_next":"10:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Brugg",
+    "departure":"2026-07-18T10:02:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Höll",
+    "arrival_time_next":"10:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T10:02:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"10:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T10:02:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"10:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Höll",
+    "departure":"2026-07-18T10:03:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach",
+    "arrival_time_next":"10:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T10:03:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"10:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T10:03:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"10:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T10:04:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"10:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T10:04:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"10:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach",
+    "departure":"2026-07-18T10:05:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach Burgen",
+    "arrival_time_next":"10:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T10:05:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"10:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T10:05:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"10:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T10:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"10:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T10:06:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"10:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T10:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"10:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T10:07:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"10:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T10:07:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Stauder",
+    "arrival_time_next":"10:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Stauder",
+    "departure":"2026-07-18T10:46:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"10:47:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T10:47:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"10:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T10:47:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"10:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T10:48:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"10:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T10:48:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"10:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T10:50:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"10:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T10:50:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"10:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T10:51:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"10:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T10:51:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"10:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T10:52:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"10:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T10:52:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"10:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach Burgen",
+    "departure":"2026-07-18T10:53:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach",
+    "arrival_time_next":"10:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T10:53:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"10:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T10:53:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"10:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T10:54:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"10:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach",
+    "departure":"2026-07-18T10:54:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Höll",
+    "arrival_time_next":"10:56:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T10:54:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"10:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Höll",
+    "departure":"2026-07-18T10:56:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Brugg",
+    "arrival_time_next":"10:57:00"
+  },
+  {
+    "stop_name":"Alberschwende Brugg",
+    "departure":"2026-07-18T10:57:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"10:58:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T10:58:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"11:00:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T11:00:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"11:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T11:01:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"11:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T11:01:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"11:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T11:02:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"11:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T11:02:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"11:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T11:03:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"11:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T11:03:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"11:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T11:04:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Untere Bereute",
+    "arrival_time_next":"11:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T11:04:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"11:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T11:04:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"11:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T11:05:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"11:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T11:05:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"11:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T11:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"11:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T11:06:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"11:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T11:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"11:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T11:07:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Stauder",
+    "arrival_time_next":"11:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T11:07:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"11:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Stauder",
+    "departure":"2026-07-18T11:46:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"11:47:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T11:47:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"11:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T11:47:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"11:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T11:48:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"11:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T11:48:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"11:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T11:50:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"11:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T11:50:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"11:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T11:51:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"11:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T11:51:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"11:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T11:52:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"11:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T11:52:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"11:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T11:53:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"11:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T11:53:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"11:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T11:54:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"11:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T11:54:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"11:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Untere Bereute",
+    "departure":"2026-07-18T11:56:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"11:57:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T11:57:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"12:00:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T12:00:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"12:01:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T12:01:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Brugg",
+    "arrival_time_next":"12:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T12:01:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"12:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T12:01:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"12:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Brugg",
+    "departure":"2026-07-18T12:02:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Höll",
+    "arrival_time_next":"12:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T12:02:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"12:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T12:02:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"12:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Höll",
+    "departure":"2026-07-18T12:03:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach",
+    "arrival_time_next":"12:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T12:03:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"12:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T12:03:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"12:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T12:04:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"12:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T12:04:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"12:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T12:05:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"12:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach",
+    "departure":"2026-07-18T12:05:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach Burgen",
+    "arrival_time_next":"12:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T12:05:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"12:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T12:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"12:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T12:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"12:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T12:06:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"12:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T12:07:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"12:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T12:07:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Stauder",
+    "arrival_time_next":"12:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Stauder",
+    "departure":"2026-07-18T12:46:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"12:47:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T12:47:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"12:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T12:47:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"12:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T12:48:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"12:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T12:48:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"12:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T12:50:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"12:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T12:50:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"12:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T12:51:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"12:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T12:51:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"12:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T12:52:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"12:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T12:52:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"12:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach Burgen",
+    "departure":"2026-07-18T12:53:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach",
+    "arrival_time_next":"12:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T12:53:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"12:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T12:53:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"12:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T12:54:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"12:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach",
+    "departure":"2026-07-18T12:54:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Höll",
+    "arrival_time_next":"12:56:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T12:54:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"12:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Höll",
+    "departure":"2026-07-18T12:56:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Brugg",
+    "arrival_time_next":"12:57:00"
+  },
+  {
+    "stop_name":"Alberschwende Brugg",
+    "departure":"2026-07-18T12:57:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"12:58:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T12:58:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"13:00:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T13:00:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"13:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T13:01:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"13:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T13:01:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"13:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T13:02:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"13:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T13:02:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"13:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T13:03:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"13:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T13:03:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"13:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T13:04:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Untere Bereute",
+    "arrival_time_next":"13:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T13:04:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"13:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T13:04:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"13:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T13:05:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"13:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T13:05:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"13:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T13:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"13:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T13:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"13:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T13:06:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"13:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T13:07:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"13:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T13:07:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Stauder",
+    "arrival_time_next":"13:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Stauder",
+    "departure":"2026-07-18T13:46:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"13:47:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T13:47:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"13:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T13:47:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"13:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T13:48:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"13:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T13:48:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"13:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T13:50:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"13:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T13:50:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"13:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T13:51:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"13:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T13:51:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"13:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T13:52:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"13:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T13:52:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"13:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T13:53:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"13:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T13:53:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"13:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T13:54:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"13:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T13:54:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"13:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Untere Bereute",
+    "departure":"2026-07-18T13:56:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"13:57:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T13:57:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"14:00:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T14:00:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"14:01:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T14:01:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Brugg",
+    "arrival_time_next":"14:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T14:01:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"14:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T14:01:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"14:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Brugg",
+    "departure":"2026-07-18T14:02:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Höll",
+    "arrival_time_next":"14:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T14:02:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"14:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T14:02:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"14:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T14:03:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"14:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T14:03:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"14:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Höll",
+    "departure":"2026-07-18T14:03:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach",
+    "arrival_time_next":"14:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T14:04:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"14:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T14:04:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"14:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach",
+    "departure":"2026-07-18T14:05:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach Burgen",
+    "arrival_time_next":"14:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T14:05:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"14:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T14:05:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"14:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T14:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"14:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T14:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"14:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T14:06:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"14:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T14:07:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Stauder",
+    "arrival_time_next":"14:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T14:07:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"14:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Stauder",
+    "departure":"2026-07-18T14:46:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"14:47:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T14:47:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"14:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T14:47:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"14:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T14:48:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"14:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T14:48:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"14:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T14:50:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"14:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T14:50:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"14:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T14:51:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"14:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T14:51:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"14:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T14:52:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"14:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T14:52:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"14:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T14:53:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"14:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach Burgen",
+    "departure":"2026-07-18T14:53:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach",
+    "arrival_time_next":"14:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T14:53:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"14:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T14:54:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"14:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach",
+    "departure":"2026-07-18T14:54:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Höll",
+    "arrival_time_next":"14:56:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T14:54:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"14:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Höll",
+    "departure":"2026-07-18T14:56:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Brugg",
+    "arrival_time_next":"14:57:00"
+  },
+  {
+    "stop_name":"Alberschwende Brugg",
+    "departure":"2026-07-18T14:57:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"14:58:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T14:58:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"15:00:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T15:00:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"15:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T15:01:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"15:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T15:01:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"15:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T15:02:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"15:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T15:02:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"15:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T15:03:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"15:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T15:03:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"15:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T15:04:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"15:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T15:04:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"15:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T15:04:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Untere Bereute",
+    "arrival_time_next":"15:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T15:05:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"15:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T15:05:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"15:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T15:06:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"15:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T15:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"15:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T15:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"15:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T15:07:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"15:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T15:07:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Stauder",
+    "arrival_time_next":"15:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Stauder",
+    "departure":"2026-07-18T15:46:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"15:47:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T15:47:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"15:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T15:47:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"15:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T15:48:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"15:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T15:48:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"15:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T15:50:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"15:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T15:50:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"15:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T15:51:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"15:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T15:51:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"15:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T15:52:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"15:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T15:52:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"15:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T15:53:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"15:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T15:53:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"15:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T15:54:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"15:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T15:54:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"15:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Untere Bereute",
+    "departure":"2026-07-18T15:56:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"15:57:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T15:57:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"16:00:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T16:00:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"16:01:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T16:01:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"16:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T16:01:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"16:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T16:01:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Brugg",
+    "arrival_time_next":"16:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T16:02:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"16:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T16:02:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"16:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Brugg",
+    "departure":"2026-07-18T16:02:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Höll",
+    "arrival_time_next":"16:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T16:03:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"16:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Höll",
+    "departure":"2026-07-18T16:03:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach",
+    "arrival_time_next":"16:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T16:03:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"16:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T16:04:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"16:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T16:04:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"16:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T16:05:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"16:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach",
+    "departure":"2026-07-18T16:05:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach Burgen",
+    "arrival_time_next":"16:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T16:05:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"16:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T16:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"16:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T16:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"16:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T16:06:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"16:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T16:07:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"16:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T16:07:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Stauder",
+    "arrival_time_next":"16:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Stauder",
+    "departure":"2026-07-18T16:46:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"16:47:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T16:47:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"16:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T16:47:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"16:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T16:48:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"16:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T16:48:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"16:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T16:50:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"16:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T16:50:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"16:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T16:51:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"16:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T16:51:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"16:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T16:52:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"16:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T16:52:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"16:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T16:53:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"16:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T16:53:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"16:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach Burgen",
+    "departure":"2026-07-18T16:53:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach",
+    "arrival_time_next":"16:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach",
+    "departure":"2026-07-18T16:54:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Höll",
+    "arrival_time_next":"16:56:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T16:54:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"16:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T16:54:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"16:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Höll",
+    "departure":"2026-07-18T16:56:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Brugg",
+    "arrival_time_next":"16:57:00"
+  },
+  {
+    "stop_name":"Alberschwende Brugg",
+    "departure":"2026-07-18T16:57:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"16:58:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T16:58:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"17:00:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T17:00:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"17:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T17:01:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"17:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T17:01:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"17:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T17:02:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"17:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T17:02:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"17:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T17:03:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"17:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T17:03:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"17:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T17:04:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"17:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T17:04:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Untere Bereute",
+    "arrival_time_next":"17:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T17:04:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"17:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T17:05:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"17:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T17:05:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"17:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T17:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"17:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T17:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"17:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T17:06:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"17:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T17:07:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"17:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T17:07:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Stauder",
+    "arrival_time_next":"17:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Stauder",
+    "departure":"2026-07-18T17:46:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"17:47:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T17:47:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"17:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T17:47:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"17:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T17:48:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"17:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T17:48:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"17:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T17:50:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"17:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T17:50:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"17:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T17:51:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"17:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T17:51:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"17:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T17:52:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"17:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T17:52:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"17:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T17:53:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"17:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T17:53:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"17:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T17:54:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"17:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T17:54:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"17:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Untere Bereute",
+    "departure":"2026-07-18T17:56:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"17:57:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T17:57:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"18:00:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T18:00:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"18:01:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T18:01:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"18:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T18:01:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Brugg",
+    "arrival_time_next":"18:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T18:01:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"18:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T18:02:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"18:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T18:02:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"18:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Brugg",
+    "departure":"2026-07-18T18:02:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Höll",
+    "arrival_time_next":"18:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T18:03:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"18:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T18:03:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"18:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Höll",
+    "departure":"2026-07-18T18:03:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach",
+    "arrival_time_next":"18:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T18:04:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"18:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T18:04:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"18:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T18:05:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"18:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach",
+    "departure":"2026-07-18T18:05:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach Burgen",
+    "arrival_time_next":"18:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T18:05:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"18:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T18:06:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"18:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T18:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"18:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T18:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"18:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T18:07:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"18:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T18:07:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Stauder",
+    "arrival_time_next":"18:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Stauder",
+    "departure":"2026-07-18T18:46:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"18:47:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T18:47:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"18:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T18:47:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"18:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T18:48:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"18:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T18:48:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"18:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T18:50:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"18:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T18:50:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"18:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T18:51:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"18:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T18:51:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"18:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T18:52:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"18:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T18:52:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"18:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach Burgen",
+    "departure":"2026-07-18T18:53:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Fischbach",
+    "arrival_time_next":"18:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T18:53:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"18:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T18:53:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"18:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Fischbach",
+    "departure":"2026-07-18T18:54:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Höll",
+    "arrival_time_next":"18:56:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T18:54:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"18:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T18:54:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"18:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Höll",
+    "departure":"2026-07-18T18:56:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Brugg",
+    "arrival_time_next":"18:57:00"
+  },
+  {
+    "stop_name":"Alberschwende Brugg",
+    "departure":"2026-07-18T18:57:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"18:58:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T18:58:00.000",
+    "line":"158",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"19:00:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T19:00:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"19:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T19:01:00.000",
+    "line":"4",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"19:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T19:01:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"19:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T19:01:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"19:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T19:02:00.000",
+    "line":"4",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"19:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T19:02:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"19:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T19:02:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"19:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T19:03:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"19:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T19:03:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"19:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T19:03:00.000",
+    "line":"4",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"19:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T19:04:00.000",
+    "line":"159",
+    "next_stop":"Alberschwende Untere Bereute",
+    "arrival_time_next":"19:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T19:04:00.000",
+    "line":"4",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"19:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T19:04:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"19:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T19:04:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"19:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T19:05:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"19:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T19:05:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"19:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T19:05:00.000",
+    "line":"4",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"19:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T19:06:00.000",
+    "line":"4",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"19:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T19:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"19:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T19:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"19:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T19:06:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"19:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T19:07:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"19:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T19:07:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Stauder",
+    "arrival_time_next":"19:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T19:07:00.000",
+    "line":"4",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"19:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T19:51:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"19:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Stauder",
+    "departure":"2026-07-18T19:52:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"19:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T19:52:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"19:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T19:53:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"19:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T19:54:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"19:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T19:54:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"19:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T19:55:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"19:56:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T19:55:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"19:56:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T19:56:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"19:57:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T19:56:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"19:57:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T19:57:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"19:58:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T19:57:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"19:58:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T19:58:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"19:59:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T19:58:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"19:59:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T19:59:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"20:01:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T20:01:00.000",
+    "line":"4",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"20:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T20:01:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"20:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T20:01:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"20:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T20:02:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"20:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T20:02:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"20:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T20:02:00.000",
+    "line":"4",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"20:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T20:03:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"20:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T20:03:00.000",
+    "line":"4",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"20:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T20:03:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"20:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T20:04:00.000",
+    "line":"4",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"20:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T20:04:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"20:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T20:04:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"20:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T20:05:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"20:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T20:05:00.000",
+    "line":"4",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"20:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T20:05:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"20:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T20:06:00.000",
+    "line":"4",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"20:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T20:06:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"20:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T20:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"20:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T20:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"20:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T20:07:00.000",
+    "line":"4",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"20:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T20:07:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"20:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T20:07:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Stauder",
+    "arrival_time_next":"20:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Zoll",
+    "departure":"2026-07-18T21:47:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"21:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Stauder",
+    "departure":"2026-07-18T21:47:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"21:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T21:48:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"21:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T21:48:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"21:49:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T21:49:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"21:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T21:50:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"21:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T21:50:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"21:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T21:51:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"21:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T21:51:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"21:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T21:52:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"21:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T21:52:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"21:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T21:53:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"21:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T21:53:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"21:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T21:54:00.000",
+    "line":"830",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"21:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T21:54:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"21:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T22:01:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"22:02:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T22:02:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"22:03:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T22:03:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"22:04:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T22:04:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"22:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T22:05:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"22:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T22:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"22:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T22:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"22:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T22:07:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Stauder",
+    "arrival_time_next":"22:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Stauder",
+    "departure":"2026-07-18T22:47:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"22:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T22:48:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"22:49:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T22:49:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"22:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T22:50:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"22:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T22:51:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"22:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T22:52:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"22:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T22:53:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"22:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T22:54:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"22:55:00"
+  },
+  {
+    "stop_name":"Alberschwende Reute",
+    "departure":"2026-07-18T23:04:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"23:05:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T23:05:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"23:06:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T23:06:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"23:07:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T23:07:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"23:08:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T23:08:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Kirchplatz",
+    "arrival_time_next":"23:09:00"
+  },
+  {
+    "stop_name":"Alberschwende Kirchplatz",
+    "departure":"2026-07-18T23:09:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Gschwend",
+    "arrival_time_next":"23:10:00"
+  },
+  {
+    "stop_name":"Alberschwende Gschwend",
+    "departure":"2026-07-18T23:10:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Zoll",
+    "arrival_time_next":"23:11:00"
+  },
+  {
+    "stop_name":"Alberschwende Stauder",
+    "departure":"2026-07-18T23:47:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Achrain",
+    "arrival_time_next":"23:48:00"
+  },
+  {
+    "stop_name":"Alberschwende Achrain",
+    "departure":"2026-07-18T23:48:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Schwarzen",
+    "arrival_time_next":"23:49:00"
+  },
+  {
+    "stop_name":"Alberschwende Schwarzen",
+    "departure":"2026-07-18T23:49:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dorfzentrum",
+    "arrival_time_next":"23:50:00"
+  },
+  {
+    "stop_name":"Alberschwende Dorfzentrum",
+    "departure":"2026-07-18T23:50:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Hof-Bühel",
+    "arrival_time_next":"23:51:00"
+  },
+  {
+    "stop_name":"Alberschwende Hof-Bühel",
+    "departure":"2026-07-18T23:51:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Nannen",
+    "arrival_time_next":"23:52:00"
+  },
+  {
+    "stop_name":"Alberschwende Nannen",
+    "departure":"2026-07-18T23:52:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Dreßlen",
+    "arrival_time_next":"23:53:00"
+  },
+  {
+    "stop_name":"Alberschwende Dreßlen",
+    "departure":"2026-07-18T23:53:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Näpfle",
+    "arrival_time_next":"23:54:00"
+  },
+  {
+    "stop_name":"Alberschwende Näpfle",
+    "departure":"2026-07-18T23:54:00.000",
+    "line":"850",
+    "next_stop":"Alberschwende Reute",
+    "arrival_time_next":"23:55:00"
+  }
+]
